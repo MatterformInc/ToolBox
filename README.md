@@ -40,6 +40,8 @@ An extensive list of apps for audiovisual production and creative programming us
 
 ## ProductionTools
 ## DataTools
+   ### DataVisualCoding
+   ### DataTranslators
 ## AITools
 ## ComputerTools
 ## CodeTools
