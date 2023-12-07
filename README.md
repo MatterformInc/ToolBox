@@ -5,7 +5,47 @@ Special thanks to Sting Alleman for recommendations and the format.
 
 ## Contents
 - [Show Control](#ShowControl)
-  - [Hardware Show Control](#ShowControl-Hardware) 
+   - [Protocol Based Show Control](#ShowControl-Protocol) 
+   - [Hardware Based Show Control](#ShowControl-Hardware) 
+
+Real-Time Visual Software:
+Video Tools
+LED Pixel Map / Test Pattern Generator:
+Time / Timecode:
+Remote Access:
+VPN: 
+Unreal Engine / Virtual Production:
+Music Visualization: 
+Shaders / GLSL / ISF:
+Media Server Apps:
+Projection Mapping Software:
+Data Processing / Visual Coding
+Executable Creation Software:
+Web Development:
+Production Software Suites:
+TouchDesigner Internal Tools:
+Audio Integration:
+Camera and Hardware Control:
+Physical Controllers:
+Various Bits of Software:
+File Sharing:
+Computer Automation:
+Signal Flow Diagram
+Version Control:
+Debugging:
+Hardware Control Network:
+Optimization:
+Machine Learning:
+GPT AI:
+Generative AI
+3D Modeling Software
+Pre-Vis
+Networking and IP Management // Reverse Engineering:
+
+Hardware:
+
+Interesting Reads:
+Special thanks to: 
 
 
 - [Lighting](#Lighting)
