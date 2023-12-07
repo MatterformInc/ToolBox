@@ -11,7 +11,7 @@ An extensive list of apps for audiovisual production and creative programming us
    - [System Management](#VideoTools-SystemManagement)
    - [Camera and Hardware Control](#VideoTools-CameraHardwareControl)
 - [Audio Tools](#AudioTools)
-
+   - [Audio Integration](#AudioTools-AudioIntegration)
 - [Production Tools](#ProductionTools)
 
 - [Data Tools](#DataTools)
@@ -33,6 +33,8 @@ An extensive list of apps for audiovisual production and creative programming us
    ### CameraHardwareControl
 
 ## AudioTools
+   ### AudioTools-AudioIntegration
+
 ## ProductionTools
 ## DataTools
 ## AITools
