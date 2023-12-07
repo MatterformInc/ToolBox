@@ -3,22 +3,22 @@ An extensive list of apps for audiovisual production and creative programming us
 
 ## Contents
 - [Show Control](#ShowControl)
-   - [Protocol Based Show Control](#ShowControl-Protocol) 
-   - [Hardware Based Show Control](#ShowControl-Hardware) 
+   - [Protocol Based Show Control](#ShowControl//Protocol) 
+   - [Hardware Based Show Control](#ShowControl//Hardware) 
 - [Video Tools](#VideoTools)
-   - [Video Utility Apps](#Video-UtilityApps)
-   - [Virtual Production Apps](#Video-VirtualProductionApps)
-   - [Real-Time Visuals](#Video-RealTimeVisuals)
-   - [System Management](#Video-SystemManagement)
-   - [Camera and Hardware Control](#Video-CameraHardwareControl)
+   - [Video Utility Apps](#Video//UtilityApps)
+   - [Virtual Production Apps](#Video//VirtualProductionApps)
+   - [Real-Time Visuals](#Video//RealTimeVisuals)
+   - [System Management](#Video//SystemManagement)
+   - [Camera and Hardware Control](#Video//CameraHardwareControl)
 - [Audio Tools](#AudioTools)
-   - [Audio Integration](#Audio-Integration)
-   - [Audio Generative Apps](#Audio-GenerativeApps)
+   - [Audio Integration](#Audio//Integration)
+   - [Audio Generative Apps](#Audio//GenerativeApps)
 - [Production Tools](#ProductionTools)
-   - [Production Management Apps](#Production-Management)
+   - [Production Management Apps](#Production//Management)
 - [Data Tools](#DataTools)
-   - [Raw Data Visual Coding](#DataVisualCoding)
-   - [Data Translators](#DataTranslators)
+   - [Raw Data Visual Coding](#Data//VisualCoding)
+   - [Data Translators](#Data//Translators)
 - [AI Tools](#AITools)
 
 - [Computer Tools](#ComputerTools)
@@ -30,23 +30,23 @@ An extensive list of apps for audiovisual production and creative programming us
    ### Hardware
 
 ## VideoTools
-   ### Video-UtilityApps
-   ### Video-VirtualProductionApps
-   ### Video-RealTimeVisuals
-   ### Video-SystemManagement
-   ### Video-CameraHardwareControl
+   ### Video//UtilityApps
+   ### Video//VirtualProductionApps
+   ### Video//RealTimeVisuals
+   ### Video//SystemManagement
+   ### Video//CameraHardwareControl
 
 
 ## AudioTools
-   ### Audio-Integration
-   ### Audio-GenerativeApps
-   ### Audio-MusicVisualization
+   ### Audio//Integration
+   ### Audio//GenerativeApps
+   ### Audio//MusicVisualization
 
 ## ProductionTools
-   ### Production-Management
+   ### Production//Management
 ## DataTools
-   ### Data-VisualCoding
-   ### Data-Translators
+   ### Data//VisualCoding
+   ### Data//Translators
 ## AITools
 ## ComputerTools
 ## CodeTools
