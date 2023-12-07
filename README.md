@@ -6,7 +6,10 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Protocol Based Show Control](#ShowControl-Protocol) 
    - [Hardware Based Show Control](#ShowControl-Hardware) 
 
-- [Video Tools](#ShowControl)
+- [Video Tools](#VideoTools)
+- [Audio Tools](#AudioTools)
+- [Data Tools](#DataTools)
+- [Computer Tools](#ComputerTools)
 
 
 Audio Tools
