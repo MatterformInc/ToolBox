@@ -30,7 +30,7 @@ An extensive list of apps for audiovisual production and creative programming us
    ### Hardware
 
 ## VideoTools
-   ### VideoUtilityApps
+   ### Video-UtilityApps
    ### Video-VirtualProductionApps
    ### Video-RealTimeVisuals
    ### Video-SystemManagement
