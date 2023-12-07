@@ -12,7 +12,6 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Real-Time Visuals](#VideoTools-RealTimeVisuals)
    - [System Management](#VideoTools-SystemManagement)
    - [Camera and Hardware Control](#VideoTools-CameraHardwareControl)
-   - [](#VideoTools-)
 
 - [Audio Tools](#AudioTools)
 
