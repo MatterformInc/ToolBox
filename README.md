@@ -7,6 +7,7 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Hardware Based Show Control](#ShowControl-Hardware) 
 - [Video Tools](#VideoTools)
    - [Video Utility Apps](#Video-UtilityApps)
+   - [Virtual Production Apps](#Video-VirtualProductionApps)
    - [Real-Time Visuals](#Video-RealTimeVisuals)
    - [System Management](#Video-SystemManagement)
    - [Camera and Hardware Control](#Video-CameraHardwareControl)
@@ -30,9 +31,10 @@ An extensive list of apps for audiovisual production and creative programming us
 
 ## VideoTools
    ### VideoUtilityApps
-   ### RealTimeVisuals
-   ### SystemManagement
-   ### CameraHardwareControl
+   ### Video-VirtualProductionApps
+   ### Video-RealTimeVisuals
+   ### Video-SystemManagement
+   ### Video-CameraHardwareControl
 
 ## AudioTools
    ### AudioIntegration
