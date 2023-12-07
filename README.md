@@ -23,12 +23,13 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Code Tools](#CodeTools)
 
 ## ShowControl
-## VideoTools
 
-### VideoTools-VideoUtilityApps
-### VideoTools-RealTimeVisuals
-### VideoTools-SystemManagement
-### CameraHardwareControl
+
+## VideoTools
+   ### VideoTools-VideoUtilityApps
+   ### VideoTools-RealTimeVisuals
+   ### VideoTools-SystemManagement
+   ### CameraHardwareControl
 
 ## AudioTools
 ## ProductionTools
