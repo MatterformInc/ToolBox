@@ -36,15 +36,17 @@ An extensive list of apps for audiovisual production and creative programming us
    ### Video-SystemManagement
    ### Video-CameraHardwareControl
 
+
 ## AudioTools
-   ### AudioIntegration
-   ### AudioGenerativeApps
+   ### Audio-Integration
+   ### Audio-GenerativeApps
+   ### Audio-MusicVisualization
 
 ## ProductionTools
    ### Production-Management
 ## DataTools
-   ### DataVisualCoding
-   ### DataTranslators
+   ### Data-VisualCoding
+   ### Data-Translators
 ## AITools
 ## ComputerTools
 ## CodeTools
