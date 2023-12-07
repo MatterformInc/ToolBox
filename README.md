@@ -32,7 +32,7 @@ Special thanks to Sting Alleman for recommendations and the format.
 
 ## Lighting
 
-**[`^        back to top        ^`](#Contents)**
+**[`^`](#Contents)**
 
 ### Lighting Software
 
