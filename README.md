@@ -1,14 +1,21 @@
-# ToolBox
+ # ToolBox
 An extensive list of apps for audiovisual production and creative programming use cases. First made public on Interactive & Immersive HQ.  
-
-Special thanks to Sting Alleman for recommendations and the format. 
 
 ## Contents
 - [Show Control](#ShowControl)
    - [Protocol Based Show Control](#ShowControl-Protocol) 
    - [Hardware Based Show Control](#ShowControl-Hardware) 
 
-Real-Time Visual Software:
+- [Video Tools](#ShowControl)
+
+
+Audio Tools
+
+Data Tools
+
+Computer Tools
+
+- [Real-Time Visual Software:
 Video Tools
 LED Pixel Map / Test Pattern Generator:
 Time / Timecode:
