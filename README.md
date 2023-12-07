@@ -3,15 +3,15 @@ An extensive list of apps for audiovisual production and creative programming us
 
 ## Contents
 - [Show Control](#ShowControl)
-   - [Protocol Based Show Control](#ShowControl-Protocol) 
-   - [Hardware Based Show Control](#ShowControl-Hardware) 
+   - [Protocol Based Show Control](#Protocol) 
+   - [Hardware Based Show Control](#Hardware) 
 - [Video Tools](#VideoTools)
-   - [Video Utility Apps](#VideoTools-VideoUtilityApps)
-   - [Real-Time Visuals](#VideoTools-RealTimeVisuals)
-   - [System Management](#VideoTools-SystemManagement)
-   - [Camera and Hardware Control](#VideoTools-CameraHardwareControl)
+   - [Video Utility Apps](#VideoUtilityApps)
+   - [Real-Time Visuals](#VRealTimeVisuals)
+   - [System Management](#SystemManagement)
+   - [Camera and Hardware Control](#CameraHardwareControl)
 - [Audio Tools](#AudioTools)
-   - [Audio Integration](#AudioTools-AudioIntegration)
+   - [Audio Integration](#AudioIntegration)
 - [Production Tools](#ProductionTools)
 
 - [Data Tools](#DataTools)
@@ -23,17 +23,17 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Code Tools](#CodeTools)
 
 ## ShowControl
-   ### ShowControl-Protocol
-   ### ShowControl-Hardware
+   ### Protocol
+   ### Hardware
 
 ## VideoTools
-   ### VideoTools-VideoUtilityApps
-   ### VideoTools-RealTimeVisuals
-   ### VideoTools-SystemManagement
+   ### VideoUtilityApps
+   ### RealTimeVisuals
+   ### SystemManagement
    ### CameraHardwareControl
 
 ## AudioTools
-   ### AudioTools-AudioIntegration
+   ### AudioIntegration
 
 ## ProductionTools
 ## DataTools
