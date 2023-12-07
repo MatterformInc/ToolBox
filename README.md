@@ -26,14 +26,14 @@ An extensive list of apps for audiovisual production and creative programming us
 
 - [Code Tools](#CodeTools)
 
-##ShowControl
-##VideoTools
-##AudioTools
-##ProductionTools
-##DataTools
-##AITools
-##ComputerTools
-##CodeTools
+## ShowControl
+## VideoTools
+## AudioTools
+## ProductionTools
+## DataTools
+## AITools
+## ComputerTools
+## CodeTools
 
 Video Tools
 LED Pixel Map / Test Pattern Generator:
