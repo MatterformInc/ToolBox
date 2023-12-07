@@ -78,7 +78,6 @@ Special thanks to Sting Alleman for recommendations and the format.
 ## Video
 
 **[`Contents`](#Contents)**
-See [ebu/awesome-broadcasting](https://github.com/ebu/awesome-broadcasting#readme).
 
 ## Tools
 
