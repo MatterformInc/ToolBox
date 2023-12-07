@@ -5,14 +5,11 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Show Control](#ShowControl)
    - [Protocol Based Show Control](#ShowControl-Protocol) 
    - [Hardware Based Show Control](#ShowControl-Hardware) 
-  
 - [Video Tools](#VideoTools)
-
    - [Video Utility Apps](#VideoTools-VideoUtilityApps)
    - [Real-Time Visuals](#VideoTools-RealTimeVisuals)
    - [System Management](#VideoTools-SystemManagement)
    - [Camera and Hardware Control](#VideoTools-CameraHardwareControl)
-
 - [Audio Tools](#AudioTools)
 
 - [Production Tools](#ProductionTools)
