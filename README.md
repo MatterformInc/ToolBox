@@ -9,7 +9,10 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Video Tools](#VideoTools)
 
    - [Video Utility Apps](#VideoTools-VideoUtilityApps)
-   - [Video Utility Apps](#VideoTools-VideoUtilityApps)
+   - [Real-Time Visuals](#VideoTools-RealTimeVisuals)
+   - [](#VideoTools-)
+   - [](#VideoTools-)
+   - [](#VideoTools-)
 
 - [Audio Tools](#AudioTools)
 
@@ -21,9 +24,6 @@ An extensive list of apps for audiovisual production and creative programming us
 
 - [Code Tools](#CodeTools)
 
-
-
-- [Real-Time Visual Software:
 Video Tools
 LED Pixel Map / Test Pattern Generator:
 Time / Timecode:
