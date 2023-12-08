@@ -48,8 +48,27 @@ An extensive list of apps for audiovisual production and creative programming us
    ### Data-VisualCoding
    ### Data-Translators
 ## AITools
+   ### AI-MachineLearning
+   ### AI-GPT
+   ### AI-Generative
+   ### AI-   
 ## ComputerTools
+   ### Computer-RemoteAccess
+   ### Computer-VPN
+   ### Computer-ExcecutableCreation
+   ### Computer-Automation
+   ### 
+## NetworkTools
+   ### Network-IP
+   ### Reverse Engineering
+
+
 ## CodeTools
+   ### Code-EditorApps
+   ### Code-Debugging
+   ### Code-CodeBeautifier
+
+
 
 Video Tools
 LED Pixel Map / Test Pattern Generator:
