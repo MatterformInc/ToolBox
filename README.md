@@ -26,8 +26,8 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Code Tools](#CodeTools)
 
 ## ShowControl
-   ### Protocol
-   ### Hardware
+   ### ShowControl//Protocol
+   ### ShowControl//Hardware
 
 ## VideoTools
    ### Video//UtilityApps
