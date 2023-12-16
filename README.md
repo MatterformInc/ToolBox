@@ -199,12 +199,17 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 
 ## ComputerTools
 ### Computer-RemoteAccess
+- [AnyDesk](https://anydesk.com/en/downloads/windows)
+- [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
+- [RustDesk](https://rustdesk.com/) - (Open-Source Remote Access software, can be self-hosted)
+- [Teradici PCoIP](https://teradici.com/)
+- [Parsec](https://parsec.app/downloads)
+- [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)
+
 
 ### Computer-ExcecutableCreation
 - [Node-Red](https://nodered.org/) - (Cross Platform visual IDE)
 - [Xojo](https://www.xojo.com/) - (Cross Platform visual IDE)
-
-
 ### Computer-Automation
 - [AutoHotkey](https://www.autohotkey.com/)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - (* Mac only, but incredible software!!!)
@@ -224,20 +229,25 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 
 ### Computer-VariousBitsOfSoftware
 **Video Tools:**
+
 - [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
 - [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
+
 **Webcam Emulation:**
 - [Syphon Virtual Webcam (*Mac only*)](https://troikatronix.com/add-ons/syphon-virtual-webcam/)
 - [Spout Virtual Webcam](https://github.com/leadedge/SpoutCam)
 - [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
+
 **Gamepad:**
 - [Xbox Gamepad Emulation](https://www.x360ce.com/)
 - [Gamepad to Keystroke](https://emutopia.com/index.php/emulators/item/240-gamepads/470-joytokey)
 - [Virtual Joystick](https://emutopia.com/index.php/emulators/item/240-gamepads/1454-vjoy)
 - [Gamepad Remapper](https://www.rewasd.com/)
+
 **Screen Management:**
 - [Masquerade (*Mac only*)](https://apps.apple.com/us/app/masquerade/id907165103?mt=12)
 - [Flux](https://justgetflux.com/)
+
 **Multi Computer Management (Digital KVM):**
 - [ShareMouse](https://www.sharemouse.com/)
 - [Synergy](https://symless.com/synergy)
