@@ -59,6 +59,8 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Bitfocus Companion](https://bitfocus.io/companion){:target="_blank" rel="noopener noreferrer"}
    - [Central Control](https://centralcontrol.io/){:target="_blank" rel="noopener noreferrer"}
    - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
+
+   - <a href="http://stackoverflow.com" target="_blank">Go</a>
    - [Cuepid](https://github.com/theexperiential/Cuepid) - by The Experiential
    - [CuePilot](https://www.cuepilot.com/en/home.html)
    - [Ontime](https://www.getontime.no/)
