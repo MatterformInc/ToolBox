@@ -43,7 +43,7 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
    - [Generative](#AI-Video)
 - [Computer Tools](#ComputerTools)
    - [Automation](#Computer-Automation)
-   - [File Management](#Computer-FileManagement)
+   - [File Management](#Computer-FileSharing)
    - [Optimization](#Computer-Optimization)
    - [Various Bits Of Software](#Computer-VariousBitsOfSoftware)
    - [Version Control](#Computer-VersionControl)
@@ -210,12 +210,40 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - (* Mac only, but incredible software!!!)
 - [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
 - [Octopus](https://www.octopusshowcontrol.com/)
-
 ### Computer-Optimization
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Overclocking Management 
 - [HWINFO](https://www.hwinfo.com/) - Hardware Monitor
 - [ModBros](https://www.mod-bros.com) - (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
-### Computer-FileManagement
+### Computer-FileSharing
+- [File.io](https://www.file.io/) 
+- [Wetransfer](https://wetransfer.com/)
+### Computer-VersionControl
+- [Git](https://git-scm.com/)
+- [Gihub](https://github.com/)
+- [Perforce Helix Core](https://www.perforce.com/products/helix-core)
+
+### Computer-VariousNitsOfSoftware
+**Video Tools:**
+- [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
+- [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
+**Webcam Emulation:**
+- [Syphon Virtual Webcam (*Mac only*)](https://troikatronix.com/add-ons/syphon-virtual-webcam/)
+- [Spout Virtual Webcam](https://github.com/leadedge/SpoutCam)
+- [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
+**Gamepad:**
+- [Xbox Gamepad Emulation](https://www.x360ce.com/)
+- [Gamepad to Keystroke](https://emutopia.com/index.php/emulators/item/240-gamepads/470-joytokey)
+- [Virtual Joystick](https://emutopia.com/index.php/emulators/item/240-gamepads/1454-vjoy)
+- [Gamepad Remapper](https://www.rewasd.com/)
+**Screen Management:**
+- [Masquerade (*Mac only*)](https://apps.apple.com/us/app/masquerade/id907165103?mt=12)
+- [Flux](https://justgetflux.com/)
+**Multi Computer Management (Digital KVM):**
+- [ShareMouse](https://www.sharemouse.com/)
+- [Synergy](https://symless.com/synergy)
+
+
+
 
 
 ## Debugging
@@ -309,25 +337,7 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 
 
 
-### VariousSoftware
-**Video Tools:**
-- [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
-- [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
-**Webcam Emulation:**
-- [Syphon Virtual Webcam (*Mac only*)](https://troikatronix.com/add-ons/syphon-virtual-webcam/)
-- [Spout Virtual Webcam](https://github.com/leadedge/SpoutCam)
-- [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
-**Gamepad:**
-- [Xbox Gamepad Emulation](https://www.x360ce.com/)
-- [Gamepad to Keystroke](https://emutopia.com/index.php/emulators/item/240-gamepads/470-joytokey)
-- [Virtual Joystick](https://emutopia.com/index.php/emulators/item/240-gamepads/1454-vjoy)
-- [Gamepad Remapper](https://www.rewasd.com/)
-**Screen Management:**
-- [Masquerade (*Mac only*)](https://apps.apple.com/us/app/masquerade/id907165103?mt=12)
-- [Flux](https://justgetflux.com/)
-**Multi Computer Management (Digital KVM):**
-- [ShareMouse](https://www.sharemouse.com/)
-- [Synergy](https://symless.com/synergy)
+
 
 
 
