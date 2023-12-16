@@ -96,7 +96,6 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 - [Scopebox](https://hedge.video/scopebox) - (*Mac only)
 - [Drastic’s 4K Scope SDI Video Scope](https://www.drastic.tv/productsmenu-56/test-and-measurement/4kscope)
 - [Nobe Omniscope](https://timeinpixels.com/nobe-omniscope/)
-   
 ### Video-VirtualProductionApps
 - [Unreal Engine](https://www.unrealengine.com/en-US/download)
 - [SP Shield](https://www.stageprecision.com/products/shield/)
@@ -138,15 +137,19 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 - [Heavy M](https://www.heavym.net/)
 - [Modulo Pi](https://www.modulo-pi.com/) 
 
+
 ## AudioTools
 ### Audio-Integration
 - [Dante](https://www.audinate.com/products/software/dante-controller)
-
 ### Audio-GenerativeApps
 ### Audio-MusicVisualization
 
+
 ## System
 ### System-HardwareControlNetwork
+
+**Installation Management and Control**
+   - [SudoSignals](https://www.sudosignals.com/) - by SudoMagic team
 
 **Lighting** 
    - [KLSTR](https://www.klstr.tech/)
@@ -165,6 +168,7 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 ### Production-Management
 - [Here 2 Record](https://heretorecord.com/apps)
 
+
 ## DataTools
 ### Data-VisualCoding
 - [XOD.io](https://xod.io/) 
@@ -178,7 +182,7 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 ## AITools
 ### AI-MachineLearning
 - [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)
--  [ControlNet](https://github.com/lllyasviel/ControlNet)
+- [ControlNet](https://github.com/lllyasviel/ControlNet)
 ### AI-GPT
 - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
 - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
@@ -197,6 +201,7 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 ### AI-Generative
 ### AI-   
 
+
 ## ComputerTools
 ### Computer-RemoteAccess
 - [AnyDesk](https://anydesk.com/en/downloads/windows)
@@ -205,8 +210,6 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 - [Teradici PCoIP](https://teradici.com/)
 - [Parsec](https://parsec.app/downloads)
 - [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)
-
-
 ### Computer-ExcecutableCreation
 - [Node-Red](https://nodered.org/) - (Cross Platform visual IDE)
 - [Xojo](https://www.xojo.com/) - (Cross Platform visual IDE)
@@ -229,31 +232,28 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 
 ### Computer-VariousBitsOfSoftware
 **Video Tools:**
-
-- [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
-- [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
+   - [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
+   - [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
 
 **Webcam Emulation:**
-- [Syphon Virtual Webcam (*Mac only*)](https://troikatronix.com/add-ons/syphon-virtual-webcam/)
-- [Spout Virtual Webcam](https://github.com/leadedge/SpoutCam)
-- [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
+   - [Syphon Virtual Webcam (*Mac only*)](https://troikatronix.com/add-ons/syphon-virtual-webcam/)
+   - [Spout Virtual Webcam](https://github.com/leadedge/SpoutCam)
+   - [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
 
 **Gamepad:**
-- [Xbox Gamepad Emulation](https://www.x360ce.com/)
-- [Gamepad to Keystroke](https://emutopia.com/index.php/emulators/item/240-gamepads/470-joytokey)
-- [Virtual Joystick](https://emutopia.com/index.php/emulators/item/240-gamepads/1454-vjoy)
-- [Gamepad Remapper](https://www.rewasd.com/)
+   - [Xbox Gamepad Emulation](https://www.x360ce.com/)
+   - [Gamepad to Keystroke](https://emutopia.com/index.php/emulators/item/240-gamepads/470-joytokey)
+   - [Virtual Joystick](https://emutopia.com/index.php/emulators/item/240-gamepads/1454-vjoy)
+   - [Gamepad Remapper](https://www.rewasd.com/)
 
 **Screen Management:**
-- [Masquerade (*Mac only*)](https://apps.apple.com/us/app/masquerade/id907165103?mt=12)
-- [Flux](https://justgetflux.com/)
-
+   - [Masquerade (*Mac only*)](https://apps.apple.com/us/app/masquerade/id907165103?mt=12)
+   - [Flux](https://justgetflux.com/)
+   
 **Multi Computer Management (Digital KVM):**
-- [ShareMouse](https://www.sharemouse.com/)
-- [Synergy](https://symless.com/synergy)
-
-
-
+   - [ShareMouse](https://www.sharemouse.com/)
+   - [Synergy](https://symless.com/synergy)
+   
 
 
 ## Debugging
@@ -268,7 +268,7 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 - [ZigCam](https://derivative.ca/community-post/ndi-ar-camera-app-zigcam-was-released/65430)
 
 
- 
+
 ## NetworkTools
 ### Network-IP
 - [Angry IP Scanner](https://angryip.org/)
@@ -277,14 +277,6 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 ### Network-VPN
 - [OpenVPN](https://openvpn.net/)
 - [ZeroTier](https://zerotier.com/)
-
-
-
-
-
-### Installation Management and Control
-- [SudoSignals](https://www.sudosignals.com/) - by SudoMagic team
-
 
 ### AR Tools
 - [Metaspark](https://spark.meta.com/)
@@ -315,27 +307,18 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 - [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)
 
 
-
-### Unreal Engine / Virtual Production
-#### Game Engine / Wrappers
-
-
-
-
-
-
 ## CodeTools
-   ### Code-EditorApps
-   ### Code-Debugging
-   ### Code-CodeBeautifier
+### Code-EditorApps
+### Code-Debugging
+### Code-CodeBeautifier
 
 
 ### 3D Modeling Software
-  - [Blender](https://www.blender.org/)
-  - [Maya](https://www.autodesk.com/products/maya/free-trial)
-  - [Cinema 4D](https://www.maxon.net/en/cinema-4d)
-  - [Vectorworks](https://www.vectorworks.net/)
-  - [Grasshopper](https://www.grasshopper3d.com/)
+- [Blender](https://www.blender.org/)
+- [Maya](https://www.autodesk.com/products/maya/free-trial)
+- [Cinema 4D](https://www.maxon.net/en/cinema-4d)
+- [Vectorworks](https://www.vectorworks.net/)
+- [Grasshopper](https://www.grasshopper3d.com/)
 
 
 
