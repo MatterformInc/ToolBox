@@ -27,6 +27,7 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Data Translators](#Data-Translators)
 - [AI Tools](#AITools)
 
+
 - [Computer Tools](#ComputerTools)
 
 - [Code Tools](#CodeTools)
@@ -175,6 +176,23 @@ An extensive list of apps for audiovisual production and creative programming us
    ### Code-EditorApps
    ### Code-Debugging
    ### Code-CodeBeautifier
+
+
+### 3D Modeling Software
+
+- **Blender**
+  - [Official Website](https://www.blender.org/)
+- **Maya**
+  - [Free Trial](https://www.autodesk.com/products/maya/free-trial)
+- **Cinema 4D**
+  - [Official Website](https://www.maxon.net/en/cinema-4d)
+- **Vectorworks**
+  - [Official Website](https://www.vectorworks.net/)
+- **Grasshopper**
+  - [Official Website](https://www.grasshopper3d.com/)
+
+
+
 
 
 
