@@ -26,11 +26,10 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Raw Data Visual Coding](#Data-VisualCoding)
    - [Data Translators](#Data-Translators)
 - [AI Tools](#AITools)
-## AITools
-   [Machine Learning](#AI-MachineLearning)
-   [GPTs and Chat Bots](#AI-GPT)  
-   [Generative](#AI-Generative)
-   [Generative](#AI-Video)
+   - [Machine Learning](#AI-MachineLearning)
+   - [GPTs and Chat Bots](#AI-GPT)
+   - [Generative](#AI-Generative)
+   - [Generative](#AI-Video)
    
    
 - [Computer Tools](#ComputerTools)
