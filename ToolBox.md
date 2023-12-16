@@ -33,7 +33,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Reverse Engineering](#Network-ReverseEngineering)
    - [VPN](#Network-VPN)
 - [Data Tools](#DataTools)
-- [Data Translators](#Data-Translators)
+   - [Data Translators](#Data-Translators)
    - [Raw Data Visual Coding](#Data-VisualCoding)
 - [AI Tools](#AITools)
    - [Generative Image](#AI-Generative)
@@ -178,21 +178,21 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Dante](https://www.audinate.com/products/software/dante-controller)
 
 
-
 ## ProductionTools
 ### Production-Management
 - [Here 2 Record](https://heretorecord.com/apps)
 
 
 ## DataTools
+### Data-Translators
+-[BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)
 ### Data-VisualCoding
 - [XOD.io](https://xod.io/) 
 - [Processing](https://processing.org/) 
 - [Pure Data](https://puredata.info/)
-- [Fugio](https://www.bigfug.com/software/fugio/) 
-### Data-Translators
--[BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)
+- [Fugio](https://www.bigfug.com/software/fugio/)
 
+  
 ## AITools
 ### AI-MachineLearning
 - [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)
