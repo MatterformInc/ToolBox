@@ -3,8 +3,9 @@ An extensive list of apps for audiovisual production and creative programming us
 
 ## Contents
 - [Show Control](#ShowControl)
-   - [Protocol Based Show Control](#ShowControl-Protocol) 
-   - [Hardware Based Show Control](#ShowControl-Hardware) 
+   - [Show Control Apps](#ShowControl-Apps) 
+   - [Show Control GUI / UI Interface Apps](#ShowControl-InterfaceApps)
+   -  
 - [Video Tools](#VideoTools)
    - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
@@ -26,21 +27,6 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Code Tools](#CodeTools)
 
 
-### Show Control
-- [Bitfocus Companion](https://bitfocus.io/companion)
-- [Central Control](https://centralcontrol.io/)
-- [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
-- [Cuepid by The Experiential](https://github.com/theexperiential/Cuepid)
-- [CuePilot](https://www.cuepilot.com/en/home.html)
-- [Ontime](https://www.getontime.no/)
-- [Ossia Score](https://ossia.io/)
-- [QLab (*Mac only)](https://qlab.app/)
-- [RabbitControl by Markus Heckmann](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)
-- [ShowKontrol](https://www.tc-supply.com/home)
-- [Sound Show](https://impronivers.itch.io/sound-show)
-- [Stage Precision](https://www.stageprecision.com/)
-- [TouchDeisgner](https://derivative.ca/download)
-- [Vezer (*Mac only)](https://imimot.com/vezer/)
 
 ### Show Control Interface
 - [OSC/PILOT by Joel Zimmerman](https://oscpilot.com/)
@@ -121,7 +107,25 @@ An extensive list of apps for audiovisual production and creative programming us
 
 
 ## ShowControl
-   ### ShowControl-Protocol
+
+   ### Show Control
+
+   ### ShowControl-Apps
+   - [Bitfocus Companion](https://bitfocus.io/companion)
+   - [Central Control](https://centralcontrol.io/)
+   - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
+   - [Cuepid by The Experiential](https://github.com/theexperiential/Cuepid)
+   - [CuePilot](https://www.cuepilot.com/en/home.html)
+   - [Ontime](https://www.getontime.no/)
+   - [Ossia Score](https://ossia.io/)
+   - [QLab (*Mac only)](https://qlab.app/)
+   - [RabbitControl by Markus Heckmann](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)
+   - [ShowKontrol](https://www.tc-supply.com/home)
+   - [Sound Show](https://impronivers.itch.io/sound-show)
+   - [Stage Precision](https://www.stageprecision.com/)
+   - [TouchDeisgner](https://derivative.ca/download)
+   - [Vezer (*Mac only)](https://imimot.com/vezer/)
+   
    ### ShowControl-Hardware
 
 ## VideoTools
