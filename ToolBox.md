@@ -63,11 +63,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## ShowControl
 ### ShowControl-Apps
-   - [Bitfocus Companion](https://bitfocus.io/companion){:target="_blank" rel="noopener noreferrer"}
-   - [Central Control](https://centralcontrol.io/){:target="_blank" rel="noopener noreferrer"}
+   - [Bitfocus Companion](https://bitfocus.io/companion)
+   - [Central Control](https://centralcontrol.io/)
    - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
-
-   - <a href="http://stackoverflow.com" target="_blank">Go</a>
    - [Cuepid](https://github.com/theexperiential/Cuepid) - by The Experiential
    - [CuePilot](https://www.cuepilot.com/en/home.html)
    - [Ontime](https://www.getontime.no/)
