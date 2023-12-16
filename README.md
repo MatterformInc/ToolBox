@@ -1,4 +1,4 @@
-<a href="https://your-link-here.com" target="_blank">Visit our website</a>.
+<a href="https://your-link-here.com" onclick="window.open(this.href, '_blank'); return false;">Link Text</a>
 
 # ToolBox
 An extensive list of apps for audiovisual production and creative programming use cases. First made public on Interactive & Immersive HQ.  
