@@ -43,16 +43,16 @@ An extensive list of apps for audiovisual production and creative programming us
       - [Pro Level](#Hardware-DMXConsoles-ProLevel)
 
 ### Show Control Interface
-- [OSC/PILOT by Joel Zimmerman](https://oscpilot.com/)
+- [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman
 - [Open Stage Control](https://openstagecontrol.ammd.net/)
 - [TouchOSC](https://hexler.net/touchosc)
 - [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
 - [Chameleon](https://savethehuman5.com/)
-- [OSC Query Server Component by Manuel Mitasch](https://derivative.ca/community-post/asset/osc-query-server-component/62663)
-- [Mitti (*Mac only)](https://imimot.com/mitti/)
+- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - by Manuel Mitasch
+- [Mitti](https://imimot.com/mitti/) - (*Mac only)
 
 ### Installation Management and Control
-- [SudoSignals by SudoMagic team](https://www.sudosignals.com/)
+- [SudoSignals](https://www.sudosignals.com/) - by SudoMagic team
 
 ### Web based visual coding
 - [cables.gl](https://cables.gl/)
@@ -69,12 +69,12 @@ An extensive list of apps for audiovisual production and creative programming us
 
 
 ### LED Pixel Map / Test Pattern Generator
-- [Artio by The Experiential](https://github.com/theexperiential/Artio)
-- [Blinking Things’ Pixel Mapulator](https://blinkingthings.com/)
-- [Video Walrus’ pixl Grid Multi](https://videowalrus.com/pixl-grid/)
-- [VIOSO’s Test Pattern Generator](https://vioso.com/testpattern-generator/)
+- [Artio ](https://github.com/theexperiential/Artio) - by The Experiential
+- [Pixel Mapulator](https://blinkingthings.com/) - Blinking Things
+- [pixl Grid Multi](https://videowalrus.com/pixl-grid/) - Video Walrus
+- [Test Pattern Generator](https://vioso.com/testpattern-generator/) - VIOSO
 - [TV Testcard Generator](https://testcardgen.onrender.com)
-- [Murideo Official Test Pattern Library](https://www.murideo.com/test-pattern-library.html)
+- [Official Test Pattern Library](https://www.murideo.com/test-pattern-library.html) - Murideo
 
 ### Time / Timecode
 - [Timecode Tools Suite](https://timecodesync.com/)
