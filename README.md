@@ -159,8 +159,8 @@ An extensive list of apps for audiovisual production and creative programming us
    ### 
 ## NetworkTools
    ### Network-IP
-   ### Reverse Engineering
-   ### NetworkTools-VPN
+   ### Network-ReverseEngineering
+   ### Network-VPN
 - [OpenVPN](https://openvpn.net/)
 - [ZeroTier](https://zerotier.com/)
 
