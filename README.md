@@ -163,6 +163,7 @@ An extensive list of apps for audiovisual production and creative programming us
 ## DataTools
    ### Data-VisualCoding
    ### Data-Translators
+
 ## AITools
    ### AI-MachineLearning
    - [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)
@@ -171,10 +172,10 @@ An extensive list of apps for audiovisual production and creative programming us
    - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
    - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
    - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
-### AI-Video
+   ### AI-Video
   - [Move.ai](https://www.move.ai/)
   - [Stability.ai](https://www.stability.ai/)
-### AI-Generative
+   ### AI-Generative
   - [Stability AI - SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
   - [RunwayML](https://runwayml.com/)
   - [Midjourney](https://www.midjourney.com/)
