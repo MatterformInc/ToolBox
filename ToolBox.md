@@ -63,14 +63,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 
 ## ShowControl
-### ShowControl-GUIInterfaceApps
-- [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman
-- [Open Stage Control](https://openstagecontrol.ammd.net/)
-- [TouchOSC](https://hexler.net/touchosc)
-- [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
-- [Chameleon](https://savethehuman5.com/)
-- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - by Manuel Mitasch
-- [Mitti](https://imimot.com/mitti/) - (*Mac only)
 ### ShowControl-Apps
 - [Bitfocus Companion](https://bitfocus.io/companion)
 - [Central Control](https://centralcontrol.io/)
@@ -86,6 +78,14 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDeisgner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/) - (*Mac only)
+### ShowControl-GUIInterfaceApps
+- [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman
+- [Open Stage Control](https://openstagecontrol.ammd.net/)
+- [TouchOSC](https://hexler.net/touchosc)
+- [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
+- [Chameleon](https://savethehuman5.com/)
+- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - by Manuel Mitasch
+- [Mitti](https://imimot.com/mitti/) - (*Mac only)
 ### ShowControl-TimecodeApps
 - [Timecode Tools Suite](https://timecodesync.com/)
 - [Stagetimer.io](https://stagetimer.io/)
