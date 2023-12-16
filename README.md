@@ -195,16 +195,15 @@ An extensive list of apps for audiovisual production and creative programming us
 - [ModBros](https://www.mod-bros.com) - (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
 
 ## Debugging
-Debugging:
-- [ZigSim]
-- [ZigCam]
-- [Protokol](https://hexler.net/protokol)
 - [Artnetominator](https://www.lightjams.com/artnetominator/)
 - [Art-Net View](https://artnetview.com/)
-- [sACN View](https://sacnview.org/)
 - [Art-Net Recorder](https://hautetechnique.com/artnet/artnetrecorder/)
-- [ChatGPT](https://chat.openai.com/)
-- [Code Beautifier](https://codebeautify.org/)
+- [ChatGPT](https://chat.openai.com/) - Send it your code, ask what's wrong, ask it to convert data to various formats!
+- [Code Beautifier](https://codebeautify.org/) - For those "what am I doing wrong..." 3am evenings.
+- [Protokol](https://hexler.net/protokol) - Awesome OSC, MIDI, Gamepad protocol checker!
+- [sACN View](https://sacnview.org/)
+- [ZigSim](https://1-10.github.io/zigsim/getting-started.html)
+- [ZigCam](https://derivative.ca/community-post/ndi-ar-camera-app-zigcam-was-released/65430)
 
 
  
