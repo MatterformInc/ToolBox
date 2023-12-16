@@ -1,4 +1,4 @@
-<a href="https://example.com" target="_blank">Link Text</a>
+<a href="https://example.com" target="_blank">New Tab</a>
 
 
 # ToolBox
