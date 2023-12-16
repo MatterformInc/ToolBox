@@ -12,11 +12,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Show Control Tools](#ShowControl)
    - [Show Control Apps](#ShowControl-Apps) 
    - [GUI / UI Interface Apps](#ShowControl-InterfaceApps)
-- [Hardware Tools](#HardwareTools)
-   - [MIDI Controllers](#Hardware-MIDIControllers)
-   - [DMX Consoles](#Hardware-DMXConsoles)
-      - [Entry Level](#Hardware-DMXConsoles-EntryLevel)
-      - [Pro Level](#Hardware-DMXConsoles-ProLevel)
 - [Video Tools](#VideoTools)
    - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
@@ -49,11 +44,13 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Optimization](#Computer-Optimization)
    - [Various Bits Of Software](#Computer-VariousBitsOfSoftware)
    - [Version Control](#Computer-VersionControl)
-   - 
 - [Pre-Visualization Tools](#PreVisTools)
-
 - [Code Tools](#CodeTools)
-
+- [Hardware Tools](#HardwareTools)
+   - [MIDI Controllers](#Hardware-MIDIControllers)
+   - [DMX Consoles](#Hardware-DMXConsoles)
+      - [Entry Level](#Hardware-DMXConsoles-EntryLevel)
+      - [Pro Level](#Hardware-DMXConsoles-ProLevel)
 
 <!--- ------------------------------------------------------------END OF TABLE OF CONTENTS----------------------------------------------------------------------- --->
 
