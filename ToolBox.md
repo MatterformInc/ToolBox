@@ -37,7 +37,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Raw Data Visual Coding](#Data-VisualCoding)
 - [AI Tools](#AITools)
    - [Generative Image](#AI-Generative)
-   - [Generative Video](#AI-Video)
+<!--   - [Generative Video](#AI-Video) COMING SOON!!!! -->
    - [GPTs and Chat Bots](#AI-GPT)
    - [Machine Learning](#AI-MachineLearning)
 - [Computer Tools](#ComputerTools)
@@ -204,7 +204,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### AI-Video
 - [Move.ai](https://www.move.ai/)
 - [Stability.ai](https://www.stability.ai/)
-### AI-Generative
+### AI-GenerativeImage
 - [Stability AI - SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
 - [RunwayML](https://runwayml.com/)
 - [Midjourney](https://www.midjourney.com/)
@@ -212,8 +212,11 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [GIMP](https://www.gimp.org/)
 - [OpenAI - DALL-E 3](https://openai.com/dall-e-3)
 - [Cuebric](https://cuebric.com/)
-### AI-Generative
-### AI-   
+<!-- ### AI-GenerativeVideo
+COMING SOON!!!!
+- []()
+- []() -->
+ 
 
 
 ## ComputerTools
