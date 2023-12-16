@@ -160,6 +160,21 @@ An extensive list of apps for audiovisual production and creative programming us
 ## AITools
    ### AI-MachineLearning
    ### AI-GPT
+  - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
+  - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
+  - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
+### AI-Video
+  - Move.ai
+  - Stable Video
+### AI-Generative
+  - [Stability AI - SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
+  - [RunwayML](https://runwayml.com/)
+  - [Midjourney](https://www.midjourney.com/)
+  - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+  - [GIMP](https://www.gimp.org/)
+  - [OpenAI - DALL-E 3](https://openai.com/dall-e-3)
+  - [Cuebric](https://cuebric.com/)
+
    ### AI-Generative
    ### AI-   
 ## ComputerTools
@@ -204,29 +219,6 @@ An extensive list of apps for audiovisual production and creative programming us
   - [ControlNet](https://github.com/lllyasviel/ControlNet)
 
 
-### AI-GPT
-  - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
-  - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
-  - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
-### AI-Video
-  - Move.ai
-  - Stable Video
-
-### AI Tools: Generative AI
-- **SDXL**
-  - [Stability AI - SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
-- **RunwayML**
-  - [RunwayML](https://runwayml.com/)
-- **Midjourney**
-  - [Midjourney](https://www.midjourney.com/)
-- **Photoshop**
-  - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
-- **GIMP**
-  - [GIMP](https://www.gimp.org/)
-- **Dalle**
-  - [OpenAI - DALL-E 3](https://openai.com/dall-e-3)
-- **Cuebric**
-  - [Cuebric](https://cuebric.com/)
 
 
 
