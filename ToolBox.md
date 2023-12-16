@@ -120,8 +120,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Modulo Pi](https://www.modulo-pi.com/) 
 ### Video-TestPatternPixelMapGenerator
 - [Artio ](https://github.com/theexperiential/Artio) - by The Experiential
-- [Pixel Mapulator](https://blinkingthings.com/) - Blinking Things
-- [pixl Grid Multi](https://videowalrus.com/pixl-grid/) - Video Walrus
+- [Pixel Mapulator](https://blinkingthings.com/) - by Blinking Things
+- [pixl Grid Multi](https://videowalrus.com/pixl-grid/) - by Video Walrus
 - [Test Pattern Generator](https://vioso.com/testpattern-generator/) - VIOSO
 - [TV Testcard Generator](https://testcardgen.onrender.com)
 - [Official Test Pattern Library](https://www.murideo.com/test-pattern-library.html) - Murideo
