@@ -69,8 +69,14 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Stage Precision](https://www.stageprecision.com/)
    - [TouchDeisgner](https://derivative.ca/download)
    - [Vezer](https://imimot.com/vezer/) - (*Mac only)
-   
    ### ShowControl-InterfaceApps
+   - [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman
+   - [Open Stage Control](https://openstagecontrol.ammd.net/)
+   - [TouchOSC](https://hexler.net/touchosc)
+   - [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
+   - [Chameleon](https://savethehuman5.com/)
+   - [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - by Manuel Mitasch
+   - [Mitti](https://imimot.com/mitti/) - (*Mac only)
 
 ## VideoTools
    ### Video-UtilityApps
@@ -154,14 +160,7 @@ An extensive list of apps for audiovisual production and creative programming us
 
 
 
-### Show Control Interface
-- [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman
-- [Open Stage Control](https://openstagecontrol.ammd.net/)
-- [TouchOSC](https://hexler.net/touchosc)
-- [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
-- [Chameleon](https://savethehuman5.com/)
-- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - by Manuel Mitasch
-- [Mitti](https://imimot.com/mitti/) - (*Mac only)
+
 
 ### Installation Management and Control
 - [SudoSignals](https://www.sudosignals.com/) - by SudoMagic team
