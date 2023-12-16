@@ -42,8 +42,12 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
    - [Generative](#AI-Generative)
    - [Generative](#AI-Video)
 - [Computer Tools](#ComputerTools)
-
-
+   - [Automation](#Computer-Automation)
+   - [File Management](#Computer-FileManagement)
+   - [Computer-VariousBitsOfSoftware](#Computer-VariousBitsOfSoftware)
+   - [Computer-VersionControl](#Computer-VersionControl)
+   - 
+- [Pre-Visualization Tools](#PreVisTools)
 
 - [Code Tools](#CodeTools)
 
