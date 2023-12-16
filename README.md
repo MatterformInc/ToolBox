@@ -1,7 +1,9 @@
-<a href="https://your-link-here.com" onclick="window.open(this.href, '_blank'); return false;">Visit our website</a>
 
 # ToolBox
 An extensive list of apps for audiovisual production and creative programming use cases. First made public on Interactive & Immersive HQ.  
+
+I would recommend using Middle-Click or Right Click > "Open in New Tab" to open links as Github doesn't allow for a new tab to be created when opening a link sadly.
+
 
 <!--- ------------------------------------------------------------START OF TABLE OF CONTENTS----------------------------------------------------------------------- --->
 
