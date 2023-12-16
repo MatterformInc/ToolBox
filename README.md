@@ -186,13 +186,26 @@ An extensive list of apps for audiovisual production and creative programming us
 
 ## ComputerTools
 ### Computer-RemoteAccess
-### Computer-VPN
+
 ### Computer-ExcecutableCreation
 ### Computer-Automation
 ### Computer-Optimization
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Overclocking Management 
 - [HWINFO](https://www.hwinfo.com/) - Hardware Monitor
 - [ModBros](https://www.mod-bros.com) - (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
+
+## Debugging
+Debugging:
+- [ZigSim]
+- [ZigCam]
+- [Protokol](https://hexler.net/protokol)
+- [Artnetominator](https://www.lightjams.com/artnetominator/)
+- [Art-Net View](https://artnetview.com/)
+- [sACN View](https://sacnview.org/)
+- [Art-Net Recorder](https://hautetechnique.com/artnet/artnetrecorder/)
+- [ChatGPT](https://chat.openai.com/)
+- [Code Beautifier](https://codebeautify.org/)
+
 
  
 ## NetworkTools
