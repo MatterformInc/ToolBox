@@ -26,8 +26,13 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Raw Data Visual Coding](#Data-VisualCoding)
    - [Data Translators](#Data-Translators)
 - [AI Tools](#AITools)
-
-
+## AITools
+   [Machine Learning](#AI-MachineLearning)
+   [GPTs and Chat Bots](#AI-GPT)  
+   [Generative](#AI-Generative)
+   [Generative](#AI-Video)
+   
+   
 - [Computer Tools](#ComputerTools)
 
 - [Code Tools](#CodeTools)
@@ -192,7 +197,41 @@ An extensive list of apps for audiovisual production and creative programming us
   - [Official Website](https://www.grasshopper3d.com/)
 
 
+### Machine Learning:
+- **Azure ML**
+  - [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning)
 
+- **ControlNet**
+  - [ControlNet](https://github.com/lllyasviel/ControlNet)
+
+
+### AI Tools: GPT AI
+- **Chat GPT Plus**
+  - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
+
+- **Gemini**
+  - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
+- **Bing AI**
+  - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
+- **Video AI**
+  - Move.ai
+  - Stable Video
+
+### AI Tools: Generative AI
+- **SDXL**
+  - [Stability AI - SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
+- **RunwayML**
+  - [RunwayML](https://runwayml.com/)
+- **Midjourney**
+  - [Midjourney](https://www.midjourney.com/)
+- **Photoshop**
+  - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- **GIMP**
+  - [GIMP](https://www.gimp.org/)
+- **Dalle**
+  - [OpenAI - DALL-E 3](https://openai.com/dall-e-3)
+- **Cuebric**
+  - [Cuebric](https://cuebric.com/)
 
 
 
