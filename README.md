@@ -5,7 +5,7 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Show Control](#ShowControl)
    - [Show Control Apps](#ShowControl-Apps) 
    - [Show Control GUI / UI Interface Apps](#ShowControl-InterfaceApps)
-   -  
+   - [Show Control Hardware](#ShowControl-Hardware)
 - [Video Tools](#VideoTools)
    - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
@@ -52,12 +52,7 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Lens Studio](https://ar.snap.com/lens-studio)
 - [Effect House](https://effecthouse.tiktok.com/)
 
-### Video Tools
-- [NDI Video Tools](https://ndi.video/tools/)
-- [Sienna-NDI Tools](https://www.sienna-tv.com/ndi/)
-- [Scopebox (*Mac only)](https://hedge.video/scopebox)
-- [Drastic’s 4K Scope SDI Video Scope](https://www.drastic.tv/productsmenu-56/test-and-measurement/4kscope)
-- [Nobe Omniscope](https://timeinpixels.com/nobe-omniscope/)
+
 
 ### LED Pixel Map / Test Pattern Generator
 - [Artio by The Experiential](https://github.com/theexperiential/Artio)
@@ -126,10 +121,16 @@ An extensive list of apps for audiovisual production and creative programming us
    - [TouchDeisgner](https://derivative.ca/download)
    - [Vezer (*Mac only)](https://imimot.com/vezer/)
    
-   ### ShowControl-Hardware
+   ### ShowControl-InterfaceApps
 
 ## VideoTools
    ### Video-UtilityApps
+- [NDI Video Tools](https://ndi.video/tools/)
+- [Sienna-NDI Tools](https://www.sienna-tv.com/ndi/)
+- [Scopebox (*Mac only)](https://hedge.video/scopebox)
+- [Drastic’s 4K Scope SDI Video Scope](https://www.drastic.tv/productsmenu-56/test-and-measurement/4kscope)
+- [Nobe Omniscope](https://timeinpixels.com/nobe-omniscope/)
+   
    ### Video-VirtualProductionApps
    ### Video-RealTimeVisuals
    ### Video-SystemManagement
