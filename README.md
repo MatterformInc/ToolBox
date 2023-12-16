@@ -324,9 +324,25 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 
 
 ## Hardware
-   ### Hardware-PhysicalControllers
-   ### Hardware-MIDIControllers
-   ### Hardware-DMXConsoles
+### Hardware-PhysicalControllers
+- [StreamDeck XL](https://www.elgato.com/us/en/p/stream-deck-xl 
+- [StreamDeck Plus](https://www.elgato.com/us/en/p/stream-deck-plus-black 
+- [Bitfocus Companion on Raspberry Pi](https://bitfocus.io/companion-pi 
+### Hardware-MIDIControllers
+- [Novation: LaunchPad X](https://us.novationmusic.com/products/launchpad-x)
+- [Novation: Launch Control X1](https://us.novationmusic.com/products/launch-control-xl)
+- [Ableton: Push](https://www.ableton.com/en/push/)
+- [Sparrow](https://themidimaker.com/products/sparrow-4x100mm-midi-controller)
+- [Choi Sauce MIDI Fader](https://choisaucedesigns.com/)
+- [Behringer: P0B1X](https://www.behringer.com/product.html?modelCode=P0B1X) 
+### Hardware-DMXConsoles-EntryLevel
+- [ADJ: WMX1](https://www.adj.com/wmx1)
+- [ETC: ColorSource](https://www.etcconnect.com/Products/Consoles/ColorSource/Features.aspx)
+### Hardware-DMXConsoles-EntryLevel
+- [ETC: Eos-Consoles](https://www.etcconnect.com/Products/Consoles/Eos-Consoles/?LangType=1033)
+- [High End Systems: Hog-4](https://www.etcconnect.com/Products/High-End-Systems/Hog-4-Consoles/)
+- [MA Lighting: GrandMA 3](https://www.malighting.com/grandma3/products/) 
+- [Vari-Lite: Neo](https://www.vari-lite.com/global/products/neo-console) 
 
 
 
