@@ -1,3 +1,8 @@
+markdown_extensions:
+  - attr_list
+
+
+
 # ToolBox
 An extensive list of apps for audiovisual production and creative programming use cases. First made public on Interactive & Immersive HQ.  
 
