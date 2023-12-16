@@ -95,8 +95,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### Video-CameraHardwareControl
 - [atemOSC](https://www.atemosc.com/)
 - [Bitfocus Companion](https://bitfocus.io/companion)
-- [Blackmagic Design’s ATEM Control Software](https://www.blackmagicdesign.com/products/atemmini/software)
-- [Middle Things’ Middle Control](https://www.middlethings.co/product-middle-control/)
+- [ATEM Control Software](https://www.blackmagicdesign.com/products/atemmini/software) - by Blackmagic Design
+- [Middle Control](https://www.middlethings.co/product-middle-control/) - by Middle Things 
 - [Ross Video Hardware Dashboard](https://www.rossvideo.com/support/software-downloads/dashboard/)
 - [Stage Precision](https://www.stageprecision.com/)
 ### Video-MediaServerApps
