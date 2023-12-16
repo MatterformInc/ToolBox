@@ -44,8 +44,9 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 - [Computer Tools](#ComputerTools)
    - [Automation](#Computer-Automation)
    - [File Management](#Computer-FileManagement)
-   - [Computer-VariousBitsOfSoftware](#Computer-VariousBitsOfSoftware)
-   - [Computer-VersionControl](#Computer-VersionControl)
+   - [Optimization](#Computer-Automization)
+   - [Various Bits Of Software](#Computer-VariousBitsOfSoftware)
+   - [Version Control](#Computer-VersionControl)
    - 
 - [Pre-Visualization Tools](#PreVisTools)
 
@@ -205,6 +206,8 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Overclocking Management 
 - [HWINFO](https://www.hwinfo.com/) - Hardware Monitor
 - [ModBros](https://www.mod-bros.com) - (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
+### Computer-FileManagement
+
 
 ## Debugging
 - [Artnetominator](https://www.lightjams.com/artnetominator/)
