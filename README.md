@@ -14,14 +14,16 @@ An extensive list of apps for audiovisual production and creative programming us
       - [Entry Level](#Hardware-DMXConsoles-EntryLevel)
       - [Pro Level](#Hardware-DMXConsoles-ProLevel)
 - [Video Tools](#VideoTools)
-    - [Video Utility Apps](#Video-UtilityApps)
+   - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
+   - [Media Server](#Video-MediaServerApps)
    - [Real-Time Visuals](#Video-RealTimeVisuals)
    - [System Management](#Video-SystemManagement)
    - [Camera and Hardware Control](#Video-CameraHardwareControl)
 - [Audio Tools](#AudioTools)
    - [Audio Integration](#Audio-Integration)
    - [Audio Generative Apps](#Audio-GenerativeApps)
+- [System Hardware Control and Management](#System-HardwareControlNetwork)
 - [Production Tools](#ProductionTools)
    - [Production Management Apps](#Production-Management)
 - [Network Tools](#NetworkTools)
@@ -106,8 +108,6 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Troikatronix](https://troikatronix.com/)
 - [TouchDeisgner](https://derivative.ca/download)
 - [vvvv](https://visualprogramming.net/)
-
-### Video-SystemManagement
 ### Video-CameraHardwareControl
 - [atemOSC](https://www.atemosc.com/)
 - [Bitfocus Companion](https://bitfocus.io/companion)
@@ -115,17 +115,51 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Middle Things’ Middle Control](https://www.middlethings.co/product-middle-control/)
 - [Ross Video Hardware Dashboard](https://www.rossvideo.com/support/software-downloads/dashboard/)
 - [Stage Precision](https://www.stageprecision.com/)
-
+### Video-MediaServerApps
+- [Resolume](https://resolume.com/download/)
+- [Pixera](https://pixera.one/en/) 
+- [Disguise Designer](https://www.disguise.one/en/products/designer)
+- [VDMX](https://vidvox.net/) - (*Mac only)
+- [Smode](https://www.smode.io/en/) 
+- [Millumin](https://www.millumin.com/v4/index.php) - (*Mac only)
+- [Green Hippo Hippotizer](https://support.green-hippo.com/article/2-hippotizer-downloads)
+### Video-ProjectionMappingApps
+- [Mad Mapper](https://madmapper.com/)	
+- [Heavy M](https://www.heavym.net/)
+- [Modulo Pi](https://www.modulo-pi.com/) 
 
 ## AudioTools
 ### Audio-Integration
+- [Dante](https://www.audinate.com/products/software/dante-controller)
+
 ### Audio-GenerativeApps
 ### Audio-MusicVisualization
 
+## System
+### System-HardwareControlNetwork
+**Lighting** 
+- [KLSTR](https://www.klstr.tech/)
+- [SIDUS](https://www.sidus.link/)
+- [Light Jams](https://www.lightjams.com/getIt.html/)
+**Video**
+- [Megapixel VR](https://megapixelvr.com/)
+**Audio**
+- [Dante](https://www.audinate.com/products/software/dante-controller)
+
+
+
 ## ProductionTools
 ### Production-Management
+- [Here 2 Record](https://heretorecord.com/apps)
+
 ## DataTools
 ### Data-VisualCoding
+- [XOD.io](https://xod.io/) 
+- [Processing](https://processing.org/) 
+- [Pure Data](https://puredata.info/)
+- [Fugio](https://www.bigfug.com/software/fugio/) 
+
+
 ### Data-Translators
 
 ## AITools
@@ -155,6 +189,11 @@ An extensive list of apps for audiovisual production and creative programming us
 ### Computer-VPN
 ### Computer-ExcecutableCreation
 ### Computer-Automation
+### Computer-Optimization
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Overclocking Management 
+- [HWINFO](https://www.hwinfo.com/) - Hardware Monitor
+- [ModBros](https://www.mod-bros.com) - (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
+
  
 ## NetworkTools
 ### Network-IP
