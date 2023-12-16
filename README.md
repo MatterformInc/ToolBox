@@ -137,12 +137,15 @@ An extensive list of apps for audiovisual production and creative programming us
 
 ## System
 ### System-HardwareControlNetwork
+
 **Lighting** 
    - [KLSTR](https://www.klstr.tech/)
    - [SIDUS](https://www.sidus.link/)
    - [Light Jams](https://www.lightjams.com/getIt.html/)
+
 **Video**
    - [Megapixel VR](https://megapixelvr.com/)
+
 **Audio**
    - [Dante](https://www.audinate.com/products/software/dante-controller)
 
