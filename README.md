@@ -10,6 +10,7 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
    - [Real-Time Visuals](#Video-RealTimeVisuals)
+   - [Web-Based Visual Coding](#Video-WebBasedVisualCoding)
    - [System Management](#Video-SystemManagement)
    - [Camera and Hardware Control](#Video-CameraHardwareControl)
 - [Audio Tools](#AudioTools)
@@ -17,6 +18,10 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Audio Generative Apps](#Audio-GenerativeApps)
 - [Production Tools](#ProductionTools)
    - [Production Management Apps](#Production-Management)
+- [Network Tools](#NetworkTools)
+   - [IP](#Network-IP)
+   - [Reverse Engineering](#Network-ReverseEngineering)
+   - [VPN](#Network-VPN)
 - [Data Tools](#DataTools)
    - [Raw Data Visual Coding](#Data-VisualCoding)
    - [Data Translators](#Data-Translators)
@@ -40,7 +45,7 @@ An extensive list of apps for audiovisual production and creative programming us
 ### Installation Management and Control
 - [SudoSignals by SudoMagic team](https://www.sudosignals.com/)
 
-### Cables - Web based visual coding
+### Web based visual coding
 - [cables.gl](https://cables.gl/)
 - [Notch](https://www.notch.one/support/downloads_area/)
 - [Troikatronix](https://troikatronix.com/)
