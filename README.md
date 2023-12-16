@@ -5,8 +5,11 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Show Control](#ShowControl)
    - [Apps](#ShowControl-Apps) 
    - [GUI / UI Interface Apps](#ShowControl-InterfaceApps)
-- [Hardware](#Hardware) 
-- [Video Tools](#VideoTools)
+- [Hardware](#Hardware)
+   - [MIDI Controllers](#Hardware-MIDIControllers)
+   - [DMX Consoles](#Hardware-DMXConsoles)
+      - [Entry Level](#Hardware-DMXConsoles-EntryLevel)
+      - [Pro Level](#Hardware-DMXConsoles-ProLevel)- [Video Tools](#VideoTools)
    - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
    - [Real-Time Visuals](#Video-RealTimeVisuals)
@@ -36,11 +39,7 @@ An extensive list of apps for audiovisual production and creative programming us
 
 - [Code Tools](#CodeTools)
 
-- [Hardware](#Hardware)
-   - [MIDI Controllers](#Hardware-MIDIControllers)
-   - [DMX Consoles](#Hardware-DMXConsoles)
-      - [Entry Level](#Hardware-DMXConsoles-EntryLevel)
-      - [Pro Level](#Hardware-DMXConsoles-ProLevel)
+
 
 ### Show Control Interface
 - [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman
