@@ -4,6 +4,7 @@ An extensive list of apps for audiovisual production and creative programming us
 
 I would recommend using Middle-Click or Right Click > "Open in New Tab" to open links as Github doesn't allow for a new tab to be created when opening a link sadly.
 
+All tools are sorted alphabetically! Have fun! Recommendations can be made by making Issues for REQUESTS.md!
 
 <!--- ------------------------------------------------------------START OF TABLE OF CONTENTS----------------------------------------------------------------------- --->
 
