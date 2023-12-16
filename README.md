@@ -17,7 +17,6 @@ An extensive list of apps for audiovisual production and creative programming us
     - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
    - [Real-Time Visuals](#Video-RealTimeVisuals)
-   - [Web-Based Visual Coding](#Video-WebBasedVisualCoding)
    - [System Management](#Video-SystemManagement)
    - [Camera and Hardware Control](#Video-CameraHardwareControl)
 - [Audio Tools](#AudioTools)
@@ -100,15 +99,21 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Pixera](https://pixera.one/en/)
 - [Stypeland](https://stype.tv/product/stypeland/)
 - [PeelCapture](https://peeldev.com/peelcapture)
-- [UE Plugins / Kits](https://pro.sony/ue_US/products
-   ### Video-RealTimeVisuals
+- [UE Plugins / Kits](https://pro.sony/ue_US/products)
+### Video-RealTimeVisuals
+- [cables.gl](https://cables.gl/)
+- [Notch](https://www.notch.one/support/downloads_area/)
+- [Troikatronix](https://troikatronix.com/)
+- [TouchDeisgner](https://derivative.ca/download)
+- [vvvv](https://visualprogramming.net/)
+
    ### Video-SystemManagement
 ### Video-CameraHardwareControl
-- [Ross Video Hardware Dashboard](https://www.rossvideo.com/support/software-downloads/dashboard/)
-- [Blackmagic Design’s ATEM Control Software](https://www.blackmagicdesign.com/products/atemmini/software)
 - [atemOSC](https://www.atemosc.com/)
-- [Middle Things’ Middle Control](https://www.middlethings.co/product-middle-control/)
 - [Bitfocus Companion](https://bitfocus.io/companion)
+- [Blackmagic Design’s ATEM Control Software](https://www.blackmagicdesign.com/products/atemmini/software)
+- [Middle Things’ Middle Control](https://www.middlethings.co/product-middle-control/)
+- [Ross Video Hardware Dashboard](https://www.rossvideo.com/support/software-downloads/dashboard/)
 - [Stage Precision](https://www.stageprecision.com/)
 
 
@@ -165,12 +170,6 @@ An extensive list of apps for audiovisual production and creative programming us
 ### Installation Management and Control
 - [SudoSignals](https://www.sudosignals.com/) - by SudoMagic team
 
-### Web based visual coding
-- [cables.gl](https://cables.gl/)
-- [Notch](https://www.notch.one/support/downloads_area/)
-- [Troikatronix](https://troikatronix.com/)
-- [TouchDeisgner](https://derivative.ca/download)
-- [vvvv](https://visualprogramming.net/)
 
 ### AR Tools
 - [Metaspark](https://spark.meta.com/)
