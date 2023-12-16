@@ -75,9 +75,7 @@ An extensive list of apps for audiovisual production and creative programming us
 - [Parsec](https://parsec.app/downloads)
 - [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)
 
-### VPN
-- [OpenVPN](https://openvpn.net/)
-- [ZeroTier](https://zerotier.com/)
+
 
 ### Unreal Engine / Virtual Production
 #### Game Engine / Wrappers
@@ -162,6 +160,9 @@ An extensive list of apps for audiovisual production and creative programming us
 ## NetworkTools
    ### Network-IP
    ### Reverse Engineering
+   ### NetworkTools-VPN
+- [OpenVPN](https://openvpn.net/)
+- [ZeroTier](https://zerotier.com/)
 
 
 ## CodeTools
@@ -175,7 +176,6 @@ Video Tools
 LED Pixel Map / Test Pattern Generator:
 Time / Timecode:
 Remote Access:
-VPN: 
 Unreal Engine / Virtual Production:
 Music Visualization: 
 Shaders / GLSL / ISF:
