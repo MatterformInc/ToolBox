@@ -31,7 +31,11 @@ An extensive list of apps for audiovisual production and creative programming us
 
 - [Code Tools](#CodeTools)
 
-
+- [Hardware](#Hardware)
+   - [MIDI Controllers](#Hardware-MIDIControllers)
+   - [DMX Consoles](#Hardware-DMXConsoles)
+      - [Entry Level](#Hardware-DMXConsoles-EntryLevel)
+      - [Pro Level](#Hardware-DMXConsoles-ProLevel)
 
 ### Show Control Interface
 - [OSC/PILOT by Joel Zimmerman](https://oscpilot.com/)
