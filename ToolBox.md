@@ -10,8 +10,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## Contents
 - [Show Control Tools](#ShowControl)
-   - [GUI / UI Interface Apps](#ShowControl-GUIInterfaceApps)
    - [Show Control Apps](#ShowControl-ShowControlApps)
+   - [Interface GUI / UI Apps](#ShowControl-InterfaceApps)
    - [Timecode Apps](#ShowControl-TimecodeApps)
 - [Video Tools](#VideoTools)
    - [Camera and Hardware Control](#Video-CameraHardwareControl)
