@@ -21,7 +21,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
 - [Audio Tools](#AudioTools)
-   - [Audio Generative Apps](#Audio-GenerativeApps)
+<!---   - [Audio Generative Apps](#Audio-GenerativeApps)  --->
    - [Audio Integration](#Audio-Integration)
 - [Lighting Tools](#LightingTools)
    - (COMING SOON)
@@ -147,9 +147,20 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## AudioTools
 ### Audio-Integration
+- [Ableton Live](https://www.ableton.com)
+- [Ableton - Max for Live](https://www.ableton.com/en/live/max-for-live/ )
+- [Bitwig](https://www.bitwig.com)
+- [Cycling 74’s Max](https://cycling74.com/) 
+- [Cycling 74’s RNBO](https://cycling74.com/products/rnbo)
+- [Cantabile](https://www.cantabilesoftware.com/ ) - Live Performance VST App
 - [Dante](https://www.audinate.com/products/software/dante-controller)
-### Audio-GenerativeApps
+- [REAPER](https://www.reaper.fm/)
+  
+<!--- ### Audio-GenerativeApps --->
 ### Audio-MusicVisualization
+- [Milkdrop](https://www.geisswerks.com/about_milkdrop.html) 
+- [Nestdrop](https://nestimmersion.ca/nestdrop.php)
+- [Synesthesia](https://synesthesia.live/) 
 
 
 ## System
