@@ -167,12 +167,15 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### System-HardwareControlNetwork
 **Installation Management and Control**
    - [SudoSignals](https://www.sudosignals.com/) - by SudoMagic team
+
 **Lighting** 
    - [KLSTR](https://www.klstr.tech/)
    - [SIDUS](https://www.sidus.link/)
    - [Light Jams](https://www.lightjams.com/getIt.html/)
+
 **Video**
    - [Megapixel VR](https://megapixelvr.com/)
+
 **Audio**
    - [Dante](https://www.audinate.com/products/software/dante-controller)
 
