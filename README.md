@@ -5,7 +5,7 @@ An extensive list of apps for audiovisual production and creative programming us
 <!--- ------------------------------------------------------------START OF TABLE OF CONTENTS----------------------------------------------------------------------- --->
 
 ## Contents
-- [Show Control](#ShowControl)
+- [Show Control Tools](#ShowControl)
    - [Apps](#ShowControl-Apps) 
    - [GUI / UI Interface Apps](#ShowControl-InterfaceApps)
 - [Hardware Tools](#Hardware)
