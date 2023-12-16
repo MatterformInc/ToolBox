@@ -144,7 +144,13 @@ An extensive list of apps for audiovisual production and creative programming us
 - [UE Plugins / Kits](https://pro.sony/ue_US/products
    ### Video-RealTimeVisuals
    ### Video-SystemManagement
-   ### Video-CameraHardwareControl
+### Video-CameraHardwareControl
+- [Ross Video Hardware Dashboard](https://www.rossvideo.com/support/software-downloads/dashboard/)
+- [Blackmagic Design’s ATEM Control Software](https://www.blackmagicdesign.com/products/atemmini/software)
+- [atemOSC](https://www.atemosc.com/)
+- [Middle Things’ Middle Control](https://www.middlethings.co/product-middle-control/)
+- [Bitfocus Companion](https://bitfocus.io/companion)
+- [Stage Precision](https://www.stageprecision.com/)
 
 
 ## AudioTools
