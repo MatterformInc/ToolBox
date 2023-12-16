@@ -44,7 +44,7 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 - [Computer Tools](#ComputerTools)
    - [Automation](#Computer-Automation)
    - [File Management](#Computer-FileManagement)
-   - [Optimization](#Computer-Automization)
+   - [Optimization](#Computer-Optimization)
    - [Various Bits Of Software](#Computer-VariousBitsOfSoftware)
    - [Version Control](#Computer-VersionControl)
    - 
@@ -201,7 +201,16 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 ### Computer-RemoteAccess
 
 ### Computer-ExcecutableCreation
+- [Node-Red](https://nodered.org/) - (Cross Platform visual IDE)
+- [Xojo](https://www.xojo.com/) - (Cross Platform visual IDE)
+
+
 ### Computer-Automation
+- [AutoHotkey](https://www.autohotkey.com/)
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - (* Mac only, but incredible software!!!)
+- [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
+- [Octopus](https://www.octopusshowcontrol.com/)
+
 ### Computer-Optimization
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Overclocking Management 
 - [HWINFO](https://www.hwinfo.com/) - Hardware Monitor
