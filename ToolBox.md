@@ -33,7 +33,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Reverse Engineering](#Network-ReverseEngineering)
    - [VPN](#Network-VPN)
 - [Data Tools](#DataTools)
-<!-->   - [Data Translators](#Data-Translators)
+- [Data Translators](#Data-Translators)
    - [Raw Data Visual Coding](#Data-VisualCoding)
 - [AI Tools](#AITools)
    - [Generative Image](#AI-Generative)
@@ -190,7 +190,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Processing](https://processing.org/) 
 - [Pure Data](https://puredata.info/)
 - [Fugio](https://www.bigfug.com/software/fugio/) 
-<!--- ### Data-Translators --->
+### Data-Translators
+-[BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)
 
 ## AITools
 ### AI-MachineLearning
