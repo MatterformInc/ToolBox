@@ -88,8 +88,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [TouchDeisgner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/) - (*Mac only)
 
-## VideoTools
 
+## VideoTools
 ### Video-CameraHardwareControl
 - [atemOSC](https://www.atemosc.com/)
 - [Bitfocus Companion](https://bitfocus.io/companion)
@@ -112,21 +112,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Troikatronix](https://troikatronix.com/)
 - [TouchDeisgner](https://derivative.ca/download)
 - [vvvv](https://visualprogramming.net/)
-### Video-VirtualProductionApps
-- [7th Sense](https://portal.7thsense.one/online-help/index.html?online_help_home_page.html)
-- [Aximmetry](https://aximmetry.com/)
-- [Disguise Renderstream](https://www.disguise.one/en/products/renderstream)
-- [Mo-Sys](https://www.mo-sys.com/)
-- [nDisplay](https://docs.unrealengine.com/4.27/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/Overview/)
-- [Off World Live](https://offworld.live/)
-- [PeelCapture](https://peeldev.com/peelcapture)
-- [Pixera](https://pixera.one/en/)
-- [Pixotope](https://help.pixotope.com/phc/2.1/install-pixotope)
-- [SP Shield](https://www.stageprecision.com/products/shield/)
-- [Stypeland](https://stype.tv/product/stypeland/)
-- [Unreal Engine](https://www.unrealengine.com/en-US/download)
-- [UE Plugins / Kits](https://pro.sony/ue_US/products)
-- [Zero Density](https://www.zerodensity.tv/products/reality-engine/)
 ### Video-ProjectionMappingApps
 - [Heavy M](https://www.heavym.net/)
 - [Mad Mapper](https://madmapper.com/)	
@@ -144,6 +129,21 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Scopebox](https://hedge.video/scopebox) - (*Mac only)
 - [Drastic’s 4K Scope SDI Video Scope](https://www.drastic.tv/productsmenu-56/test-and-measurement/4kscope)
 - [Nobe Omniscope](https://timeinpixels.com/nobe-omniscope/)
+### Video-VirtualProductionApps
+- [7th Sense](https://portal.7thsense.one/online-help/index.html?online_help_home_page.html)
+- [Aximmetry](https://aximmetry.com/)
+- [Disguise Renderstream](https://www.disguise.one/en/products/renderstream)
+- [Mo-Sys](https://www.mo-sys.com/)
+- [nDisplay](https://docs.unrealengine.com/4.27/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/Overview/)
+- [Off World Live](https://offworld.live/)
+- [PeelCapture](https://peeldev.com/peelcapture)
+- [Pixera](https://pixera.one/en/)
+- [Pixotope](https://help.pixotope.com/phc/2.1/install-pixotope)
+- [SP Shield](https://www.stageprecision.com/products/shield/)
+- [Stypeland](https://stype.tv/product/stypeland/)
+- [Unreal Engine](https://www.unrealengine.com/en-US/download)
+- [UE Plugins / Kits](https://pro.sony/ue_US/products)
+- [Zero Density](https://www.zerodensity.tv/products/reality-engine/)
 
 ## AudioTools
 ### Audio-Integration
@@ -154,18 +154,14 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## System
 ### System-HardwareControlNetwork
-
 **Installation Management and Control**
    - [SudoSignals](https://www.sudosignals.com/) - by SudoMagic team
-
 **Lighting** 
    - [KLSTR](https://www.klstr.tech/)
    - [SIDUS](https://www.sidus.link/)
    - [Light Jams](https://www.lightjams.com/getIt.html/)
-
 **Video**
    - [Megapixel VR](https://megapixelvr.com/)
-
 **Audio**
    - [Dante](https://www.audinate.com/products/software/dante-controller)
 
