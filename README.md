@@ -204,15 +204,11 @@ An extensive list of apps for audiovisual production and creative programming us
   - [ControlNet](https://github.com/lllyasviel/ControlNet)
 
 
-### AI Tools: GPT AI
-- **Chat GPT Plus**
+### AI-GPT
   - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
-
-- **Gemini**
   - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
-- **Bing AI**
   - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
-- **Video AI**
+### AI-Video
   - Move.ai
   - Stable Video
 
