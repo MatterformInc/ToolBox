@@ -222,7 +222,7 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 - [Gihub](https://github.com/)
 - [Perforce Helix Core](https://www.perforce.com/products/helix-core)
 
-### Computer-VariousNitsOfSoftware
+### Computer-VariousBitsOfSoftware
 **Video Tools:**
 - [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
 - [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
