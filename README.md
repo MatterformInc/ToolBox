@@ -1,6 +1,3 @@
-markdown_extensions:
-  - attr_list
-
 
 
 # ToolBox
