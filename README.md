@@ -92,9 +92,6 @@ An extensive list of apps for audiovisual production and creative programming us
 
 
 ## ShowControl
-
-   ### Show Control
-
    ### ShowControl-Apps
    - [Bitfocus Companion](https://bitfocus.io/companion)
    - [Central Control](https://centralcontrol.io/)
