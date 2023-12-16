@@ -25,6 +25,101 @@ An extensive list of apps for audiovisual production and creative programming us
 
 - [Code Tools](#CodeTools)
 
+
+### Show Control
+- [Bitfocus Companion](https://bitfocus.io/companion)
+- [Central Control](https://centralcontrol.io/)
+- [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
+- [Cuepid by The Experiential](https://github.com/theexperiential/Cuepid)
+- [CuePilot](https://www.cuepilot.com/en/home.html)
+- [Ontime](https://www.getontime.no/)
+- [Ossia Score](https://ossia.io/)
+- [QLab (*Mac only)](https://qlab.app/)
+- [RabbitControl by Markus Heckmann](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)
+- [ShowKontrol](https://www.tc-supply.com/home)
+- [Sound Show](https://impronivers.itch.io/sound-show)
+- [Stage Precision](https://www.stageprecision.com/)
+- [TouchDeisgner](https://derivative.ca/download)
+- [Vezer (*Mac only)](https://imimot.com/vezer/)
+
+### Show Control Interface
+- [OSC/PILOT by Joel Zimmerman](https://oscpilot.com/)
+- [Open Stage Control](https://openstagecontrol.ammd.net/)
+- [TouchOSC](https://hexler.net/touchosc)
+- [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
+- [Chameleon](https://savethehuman5.com/)
+- [OSC Query Server Component by Manuel Mitasch](https://derivative.ca/community-post/asset/osc-query-server-component/62663)
+- [Mitti (*Mac only)](https://imimot.com/mitti/)
+
+### Installation Management and Control
+- [SudoSignals by SudoMagic team](https://www.sudosignals.com/)
+
+### Cables - Web based visual coding
+- [cables.gl](https://cables.gl/)
+- [Notch](https://www.notch.one/support/downloads_area/)
+- [Troikatronix](https://troikatronix.com/)
+- [TouchDeisgner](https://derivative.ca/download)
+- [vvvv](https://visualprogramming.net/)
+
+### AR Tools
+- [Metaspark](https://spark.meta.com/)
+- [Lens Studio](https://ar.snap.com/lens-studio)
+- [Effect House](https://effecthouse.tiktok.com/)
+
+### Video Tools
+- [NDI Video Tools](https://ndi.video/tools/)
+- [Sienna-NDI Tools](https://www.sienna-tv.com/ndi/)
+- [Scopebox (*Mac only)](https://hedge.video/scopebox)
+- [Drastic’s 4K Scope SDI Video Scope](https://www.drastic.tv/productsmenu-56/test-and-measurement/4kscope)
+- [Nobe Omniscope](https://timeinpixels.com/nobe-omniscope/)
+
+### LED Pixel Map / Test Pattern Generator
+- [Artio by The Experiential](https://github.com/theexperiential/Artio)
+- [Blinking Things’ Pixel Mapulator](https://blinkingthings.com/)
+- [Video Walrus’ pixl Grid Multi](https://videowalrus.com/pixl-grid/)
+- [VIOSO’s Test Pattern Generator](https://vioso.com/testpattern-generator/)
+- [TV Testcard Generator](https://testcardgen.onrender.com)
+- [Murideo Official Test Pattern Library](https://www.murideo.com/test-pattern-library.html)
+
+### Time / Timecode
+- [Timecode Tools Suite](https://timecodesync.com/)
+- [Stagetimer.io](https://stagetimer.io/)
+- [El-Tee-See 2](https://elteesee.pehrhovey.net/)
+
+### Remote Access
+- [AnyDesk](https://anydesk.com/en/downloads/windows)
+- [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
+- [RustDesk](https://rustdesk.com/)
+- [Teradici PCoIP](https://teradici.com/)
+- [Parsec](https://parsec.app/downloads)
+- [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)
+
+### VPN
+- [OpenVPN](https://openvpn.net/)
+- [ZeroTier](https://zerotier.com/)
+
+### Unreal Engine / Virtual Production
+#### Game Engine / Wrappers
+- [Unreal Engine](https://www.unrealengine.com/en-US/download)
+- [SP Shield](https://www.stageprecision.com/products/shield/)
+- [Ndisplay (Native)](https://docs.unrealengine.com/4.27/en-US/WorkingWithMedia/IntegratingMedia/nDisplay/Overview/)
+- [Pixotope](https://help.pixotope.com/phc/2.1/install-pixotope)
+- [Zero Density](https://www.zerodensity.tv/products/reality-engine/)
+- [Mo-Sys](https://www.mo-sys.com/)
+- [Off World Live](https://offworld.live/)
+- [Aximmetry](https://aximmetry.com/)
+- [Disguise Renderstream](https://www.disguise.one/en/products/renderstream)
+- [7th Sense](https://portal.7thsense.one/online-help/index.html?online_help_home_page.html)
+- [Pixera](https://pixera.one/en/)
+- [Stypeland](https://stype.tv/product/stypeland/)
+- [PeelCapture](https://peeldev.com/peelcapture)
+- [UE Plugins / Kits](https://pro.sony/ue_US/products
+
+
+
+
+
+
 ## ShowControl
    ### ShowControl-Protocol
    ### ShowControl-Hardware
