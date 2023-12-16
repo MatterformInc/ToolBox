@@ -6,6 +6,8 @@ An extensive list of apps for audiovisual production and creative programming us
 
 ## Contents
 - [Show Control Tools](#ShowControl)
+   - [Show Control Apps](#ShowControl-Apps) 
+   - [GUI / UI Interface Apps](#ShowControl-InterfaceApps)
 - [Hardware Tools](#Hardware)
    - [MIDI Controllers](#Hardware-MIDIControllers)
    - [DMX Consoles](#Hardware-DMXConsoles)
