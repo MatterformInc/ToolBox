@@ -3,9 +3,9 @@ An extensive list of apps for audiovisual production and creative programming us
 
 ## Contents
 - [Show Control](#ShowControl)
-   - [Show Control Apps](#ShowControl-Apps) 
-   - [Show Control GUI / UI Interface Apps](#ShowControl-InterfaceApps)
-   - [Show Control Hardware](#ShowControl-Hardware)
+   - [Apps](#ShowControl-Apps) 
+   - [GUI / UI Interface Apps](#ShowControl-InterfaceApps)
+   - [Hardware](#ShowControl-Hardware)
 - [Video Tools](#VideoTools)
    - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
