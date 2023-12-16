@@ -105,17 +105,17 @@ An extensive list of apps for audiovisual production and creative programming us
    - [Bitfocus Companion](https://bitfocus.io/companion)
    - [Central Control](https://centralcontrol.io/)
    - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
-   - [Cuepid by The Experiential](https://github.com/theexperiential/Cuepid)
+   - [Cuepid](https://github.com/theexperiential/Cuepid) - by The Experiential
    - [CuePilot](https://www.cuepilot.com/en/home.html)
    - [Ontime](https://www.getontime.no/)
    - [Ossia Score](https://ossia.io/)
-   - [QLab (*Mac only)](https://qlab.app/)
+   - [QLab](https://qlab.app/) - (*Mac only)
    - [RabbitControl by Markus Heckmann](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)
    - [ShowKontrol](https://www.tc-supply.com/home)
    - [Sound Show](https://impronivers.itch.io/sound-show)
    - [Stage Precision](https://www.stageprecision.com/)
    - [TouchDeisgner](https://derivative.ca/download)
-   - [Vezer (*Mac only)](https://imimot.com/vezer/)
+   - [Vezer](https://imimot.com/vezer/) - (*Mac only)
    
    ### ShowControl-InterfaceApps
 
@@ -123,7 +123,7 @@ An extensive list of apps for audiovisual production and creative programming us
    ### Video-UtilityApps
 - [NDI Video Tools](https://ndi.video/tools/)
 - [Sienna-NDI Tools](https://www.sienna-tv.com/ndi/)
-- [Scopebox (*Mac only)](https://hedge.video/scopebox)
+- [Scopebox](https://hedge.video/scopebox) - (*Mac only)
 - [Drastic’s 4K Scope SDI Video Scope](https://www.drastic.tv/productsmenu-56/test-and-measurement/4kscope)
 - [Nobe Omniscope](https://timeinpixels.com/nobe-omniscope/)
    
@@ -159,13 +159,15 @@ An extensive list of apps for audiovisual production and creative programming us
    ### Data-Translators
 ## AITools
    ### AI-MachineLearning
+   - [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)
+   -  [ControlNet](https://github.com/lllyasviel/ControlNet)
    ### AI-GPT
-  - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
-  - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
-  - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
+   - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
+   - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
+   - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
 ### AI-Video
-  - Move.ai
-  - Stable Video
+  - [Move.ai](https://www.move.ai/)
+  - [Stability.ai](https://www.stability.ai/)
 ### AI-Generative
   - [Stability AI - SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
   - [RunwayML](https://runwayml.com/)
@@ -198,25 +200,13 @@ An extensive list of apps for audiovisual production and creative programming us
 
 
 ### 3D Modeling Software
-
-- **Blender**
-  - [Official Website](https://www.blender.org/)
-- **Maya**
-  - [Free Trial](https://www.autodesk.com/products/maya/free-trial)
-- **Cinema 4D**
-  - [Official Website](https://www.maxon.net/en/cinema-4d)
-- **Vectorworks**
-  - [Official Website](https://www.vectorworks.net/)
-- **Grasshopper**
-  - [Official Website](https://www.grasshopper3d.com/)
+  - [Blender](https://www.blender.org/)
+  - [Maya](https://www.autodesk.com/products/maya/free-trial)
+  - [Cinema 4D](https://www.maxon.net/en/cinema-4d)
+  - [Vectorworks](https://www.vectorworks.net/)
+  - [Grasshopper](https://www.grasshopper3d.com/)
 
 
-### Machine Learning:
-- **Azure ML**
-  - [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning)
-
-- **ControlNet**
-  - [ControlNet](https://github.com/lllyasviel/ControlNet)
 
 
 
