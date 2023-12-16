@@ -10,8 +10,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## Contents
 - [Show Control Tools](#ShowControl)
-   - [GUI / UI Interface Apps](#ShowControl-InterfaceApps)
-   - [Show Control Apps](#ShowControl-Apps) 
+   - [GUI / UI Interface Apps](#ShowControl-GUIInterfaceApps)
+   - [Show Control Apps](#ShowControl-ShowControlApps)
+   - [Timecode Apps](#ShowControl-TimecodeApps)
 - [Video Tools](#VideoTools)
    - [Camera and Hardware Control](#Video-CameraHardwareControl)
    - [Media Server](#Video-MediaServerApps)
@@ -62,7 +63,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 
 ## ShowControl
-### ShowControl-InterfaceApps
+### ShowControl-GUIInterfaceApps
 - [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman
 - [Open Stage Control](https://openstagecontrol.ammd.net/)
 - [TouchOSC](https://hexler.net/touchosc)
@@ -85,7 +86,10 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDeisgner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/) - (*Mac only)
-
+### ShowControl-TimecodeApps
+- [Timecode Tools Suite](https://timecodesync.com/)
+- [Stagetimer.io](https://stagetimer.io/)
+- [El-Tee-See 2](https://elteesee.pehrhovey.net/)
 
 ## VideoTools
 ### Video-CameraHardwareControl
@@ -303,10 +307,6 @@ COMING SOON!!!!
 
 
 
-### Time / Timecode
-- [Timecode Tools Suite](https://timecodesync.com/)
-- [Stagetimer.io](https://stagetimer.io/)
-- [El-Tee-See 2](https://elteesee.pehrhovey.net/)
 
 ### Remote Access
 - [AnyDesk](https://anydesk.com/en/downloads/windows)
