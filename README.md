@@ -65,25 +65,27 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Bitfocus Companion](https://bitfocus.io/companion)
 - [Central Control](https://centralcontrol.io/)
 - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
-- [Cuepid](https://github.com/theexperiential/Cuepid) - by
+- [Cuepid](https://github.com/theexperiential/Cuepid) - 
   [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
 
 - [CuePilot](https://www.cuepilot.com/en/home.html)
 - [Ontime](https://www.getontime.no/)
 - [Ossia Score](https://ossia.io/)
-- [QLab](https://qlab.app/)
+- [QLab](https://qlab.app/) - 
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 - [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)
   [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control-%232b2a28?logo=github)](https://github.com/rabbitControl)
 
-- [ShowKontrol](https://www.tc-supply.com/home)
+- [ShowKontrol](https://www.tc-supply.com/home) - 
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 - [Sound Show](https://impronivers.itch.io/sound-show)
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDeisgner](https://derivative.ca/download)
-- [Vezer](https://imimot.com/vezer/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [Vezer](https://imimot.com/vezer/) -
+  <!---Mac Only--->
+  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 ### ShowControl-GUIInterfaceApps
 - [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman + Crew
 - [Open Stage Control](https://openstagecontrol.ammd.net/)
