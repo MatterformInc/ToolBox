@@ -70,6 +70,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 [![Rabbit Control](https://img.shields.io/static/v1?label=Rabbit-Control&color=blue&logo=github)](https://github.com/rabbitControl)
 
 [![The Experiential Co.](https://img.shields.io/static/v1?label=The-Experiential-Co&color=blue&logo=github)](https://github.com/theExperiential)
+[![Credit:](https://img.shields.io/static/v1?message=The-Experiential-Co&color=blue&logo=github)](https://github.com/theExperiential)
 
 
 - [CuePilot](https://www.cuepilot.com/en/home.html)
