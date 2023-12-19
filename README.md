@@ -137,12 +137,14 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Test Pattern Generator](https://vioso.com/testpattern-generator/) - by VIOSO
 - [TV Testcard Generator](https://testcardgen.onrender.com)
 - [Official Test Pattern Library](https://www.murideo.com/test-pattern-library.html) - Murideo
+-
 ### Video-UtilityApps
 - [NDI Video Tools](https://ndi.video/tools/)
 - [Sienna-NDI Tools](https://www.sienna-tv.com/ndi/)
 - [Scopebox](https://hedge.video/scopebox) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 - [Drastic’s 4K Scope SDI Video Scope](https://www.drastic.tv/productsmenu-56/test-and-measurement/4kscope)
 - [Nobe Omniscope](https://timeinpixels.com/nobe-omniscope/)
+
 ### Video-VirtualProductionApps
 - [7th Sense](https://portal.7thsense.one/online-help/index.html?online_help_home_page.html)
 - [Aximmetry](https://aximmetry.com/)
@@ -185,8 +187,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 **Lighting** 
    - [KLSTR](https://www.klstr.tech/)
-   - [SIDUS](https://www.sidus.link/)
    - [Light Jams](https://www.lightjams.com/getIt.html/)
+   - [SIDUS](https://www.sidus.link/)
 
 **Video**
    - [Megapixel VR](https://megapixelvr.com/)
@@ -204,10 +206,10 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### Data-Translators
 - [BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)
 ### Data-VisualCoding
-- [XOD.io](https://xod.io/) 
+- [Fugio](https://www.bigfug.com/software/fugio/)
 - [Processing](https://processing.org/) 
 - [Pure Data](https://puredata.info/)
-- [Fugio](https://www.bigfug.com/software/fugio/)
+- [XOD.io](https://xod.io/) 
 
   
 ## //AITools
@@ -215,20 +217,20 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)
 - [ControlNet](https://github.com/lllyasviel/ControlNet)
 ### AI-GPT
-- [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
-- [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
 - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
+- [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
+- [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
 ### AI-Video
 - [Move.ai](https://www.move.ai/)
 - [Stability.ai](https://www.stability.ai/)
 ### AI-GenerativeImage
-- [Stability AI - SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
-- [RunwayML](https://runwayml.com/)
-- [Midjourney](https://www.midjourney.com/)
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
-- [GIMP](https://www.gimp.org/)
-- [OpenAI - DALL-E 3](https://openai.com/dall-e-3)
 - [Cuebric](https://cuebric.com/)
+- [GIMP](https://www.gimp.org/)
+- [Midjourney](https://www.midjourney.com/)
+- [OpenAI - DALL-E 3](https://openai.com/dall-e-3)
+- [RunwayML](https://runwayml.com/)
+- [Stability AI - SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
 <!-- ### AI-GenerativeVideo
 COMING SOON!!!!
 - []()
@@ -239,19 +241,19 @@ COMING SOON!!!!
 ## //ComputerTools
 ### Computer-RemoteAccess
 - [AnyDesk](https://anydesk.com/en/downloads/windows)
-- [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
-- [RustDesk](https://rustdesk.com/) - (Open-Source Remote Access software, can be self-hosted)
-- [Teradici PCoIP](https://teradici.com/)
-- [Parsec](https://parsec.app/downloads)
 - [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)
+- [Parsec](https://parsec.app/downloads)
+- [RustDesk](https://rustdesk.com/) - (Open-Source Remote Access software, can be self-hosted)
+- [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
+- [Teradici PCoIP](https://teradici.com/)
 ### Computer-ExcecutableCreation
 - [Node-Red](https://nodered.org/) - (Cross Platform visual IDE)
 - [Xojo](https://www.xojo.com/) - (Cross Platform visual IDE)
 ### Computer-Automation
 - [AutoHotkey](https://www.autohotkey.com/)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-- [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
 - [Octopus](https://www.octopusshowcontrol.com/)
+- [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
 ### Computer-Optimization
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Overclocking Management 
 - [HWINFO](https://www.hwinfo.com/) - Hardware Monitor
@@ -266,23 +268,23 @@ COMING SOON!!!!
 
 ### Computer-VariousBitsOfSoftware
 **Video Tools:**
-   - [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
    - [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
+   - [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
 
 **Webcam Emulation:**
+   - [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
    - [Syphon Virtual Webcam](https://troikatronix.com/add-ons/syphon-virtual-webcam/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
    - [Spout Virtual Webcam](https://github.com/leadedge/SpoutCam)
-   - [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
 
 **Gamepad:**
-   - [Xbox Gamepad Emulation](https://www.x360ce.com/)
    - [Gamepad to Keystroke](https://emutopia.com/index.php/emulators/item/240-gamepads/470-joytokey)
-   - [Virtual Joystick](https://emutopia.com/index.php/emulators/item/240-gamepads/1454-vjoy)
+   - [Xbox Gamepad Emulation](https://www.x360ce.com/)
    - [Gamepad Remapper](https://www.rewasd.com/)
+   - [Virtual Joystick](https://emutopia.com/index.php/emulators/item/240-gamepads/1454-vjoy)
 
 **Screen Management:**
-   - [Masquerade](https://apps.apple.com/us/app/masquerade/id907165103?mt=12) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
    - [Flux](https://justgetflux.com/)
+   - [Masquerade](https://apps.apple.com/us/app/masquerade/id907165103?mt=12) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
    
 **Multi Computer Management (Digital KVM):**
    - [ShareMouse](https://www.sharemouse.com/)
@@ -313,9 +315,9 @@ COMING SOON!!!!
 - [ZeroTier](https://zerotier.com/)
 
 ### //ARTools
-- [Metaspark](https://spark.meta.com/)
-- [Lens Studio](https://ar.snap.com/lens-studio)
 - [Effect House](https://effecthouse.tiktok.com/)
+- [Lens Studio](https://ar.snap.com/lens-studio)
+- [Metaspark](https://spark.meta.com/)
 
 
 
@@ -323,41 +325,48 @@ COMING SOON!!!!
 
 ## //RemoteAccessTools
 - [AnyDesk](https://anydesk.com/en/downloads/windows)
-- [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
-- [RustDesk](https://rustdesk.com/)
-- [Teradici PCoIP](https://teradici.com/)
-- [Parsec](https://parsec.app/downloads)
 - [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)
+- [Parsec](https://parsec.app/downloads)
+- [RustDesk](https://rustdesk.com/)
+- [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
+- [Teradici PCoIP](https://teradici.com/)
 
 
 ## //CodeTools
 ### Code-EditorApps
+- [Collabedit](https://collabedit.com/crjcn)
+- [Microsoft Visual Studio](https://code.visualstudio.com/)
+- [Notepad ++](https://notepad-plus-plus.org/)
+- [Sublime Text Editor](https://www.sublimetext.com/)
 ### Code-Debugging
 ### Code-CodeBeautifier
-
+- [Beautifier.io](https://beautifier.io/)
+- [Code Beautifier](https://codebeautify.org/)
+- [formatter.org](https://formatter.org/)
 
 ## //3DTools
+### 3D-DLLs
 - [Blender](https://www.blender.org/)
-- [Maya](https://www.autodesk.com/products/maya/free-trial)
 - [Cinema 4D](https://www.maxon.net/en/cinema-4d)
-- [Vectorworks](https://www.vectorworks.net/)
 - [Grasshopper](https://www.grasshopper3d.com/)
-
+- [Maya](https://www.autodesk.com/products/maya/free-trial)
+- [SketchUp](https://www.sketchup.com/)
+- [Vectorworks](https://www.vectorworks.net/)
 
 
 
 ## //HardwareTools
 ### Hardware-PhysicalControllers
-- [StreamDeck XL](https://www.elgato.com/us/en/p/stream-deck-xl 
-- [StreamDeck Plus](https://www.elgato.com/us/en/p/stream-deck-plus-black 
-- [Bitfocus Companion on Raspberry Pi](https://bitfocus.io/companion-pi 
+- [Bitfocus Companion on Raspberry Pi](https://bitfocus.io/companion-pi)
+- [StreamDeck XL](https://www.elgato.com/us/en/p/stream-deck-xl)
+- [StreamDeck Plus](https://www.elgato.com/us/en/p/stream-deck-plus-black)
 ### Hardware-MIDIControllers
+- [Ableton: Push](https://www.ableton.com/en/push/)
+- [Behringer: P0B1X](https://www.behringer.com/product.html?modelCode=P0B1X) 
+- [Choi Sauce MIDI Fader](https://choisaucedesigns.com/)
 - [Novation: LaunchPad X](https://us.novationmusic.com/products/launchpad-x)
 - [Novation: Launch Control X1](https://us.novationmusic.com/products/launch-control-xl)
-- [Ableton: Push](https://www.ableton.com/en/push/)
 - [Sparrow](https://themidimaker.com/products/sparrow-4x100mm-midi-controller)
-- [Choi Sauce MIDI Fader](https://choisaucedesigns.com/)
-- [Behringer: P0B1X](https://www.behringer.com/product.html?modelCode=P0B1X) 
 ### Hardware-DMXConsoles-EntryLevel
 - [ADJ: WMX1](https://www.adj.com/wmx1)
 - [ETC: ColorSource](https://www.etcconnect.com/Products/Consoles/ColorSource/Features.aspx)
