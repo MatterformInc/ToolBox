@@ -1,4 +1,3 @@
-![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=plastic&label=OS&color=white&link=%20)
 
 # ToolBox
 An extensive list of apps for audiovisual production and creative programming use cases. First made public on Interactive & Immersive HQ.  
@@ -72,13 +71,13 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [CuePilot](https://www.cuepilot.com/en/home.html)
 - [Ontime](https://www.getontime.no/)
 - [Ossia Score](https://ossia.io/)
-- [QLab](https://qlab.app/) - (*Mac only)
+- [QLab](https://qlab.app/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=black&color=white&link=%20)
 - [RabbitControl by Markus Heckmann](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)
 - [ShowKontrol](https://www.tc-supply.com/home)
 - [Sound Show](https://impronivers.itch.io/sound-show)
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDeisgner](https://derivative.ca/download)
-- [Vezer](https://imimot.com/vezer/) - (*Mac only)
+- [Vezer](https://imimot.com/vezer/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=black&color=white&link=%20)
 ### ShowControl-GUIInterfaceApps
 - [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman
 - [Open Stage Control](https://openstagecontrol.ammd.net/)
@@ -86,7 +85,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
 - [Chameleon](https://savethehuman5.com/)
 - [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - by Manuel Mitasch
-- [Mitti](https://imimot.com/mitti/) - (*Mac only)
+- [Mitti](https://imimot.com/mitti/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=black&color=white&link=%20)
 ### ShowControl-TimecodeApps
 - [Timecode Tools Suite](https://timecodesync.com/)
 - [Stagetimer.io](https://stagetimer.io/)
@@ -103,11 +102,11 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### Video-MediaServerApps
 - [Disguise Designer](https://www.disguise.one/en/products/designer)
 - [Green Hippo Hippotizer](https://support.green-hippo.com/article/2-hippotizer-downloads)
-- [Millumin](https://www.millumin.com/v4/index.php) - (*Mac only)
+- [Millumin](https://www.millumin.com/v4/index.php) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=black&color=white&link=%20)
 - [Pixera](https://pixera.one/en/) 
 - [Resolume](https://resolume.com/download/)
 - [Smode](https://www.smode.io/en/) 
-- [VDMX](https://vidvox.net/) - (*Mac only)
+- [VDMX](https://vidvox.net/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=black&color=white&link=%20)
 ### Video-RealTimeVisuals
 - [cables.gl](https://cables.gl/)
 - [Notch](https://www.notch.one/support/downloads_area/)
@@ -129,7 +128,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### Video-UtilityApps
 - [NDI Video Tools](https://ndi.video/tools/)
 - [Sienna-NDI Tools](https://www.sienna-tv.com/ndi/)
-- [Scopebox](https://hedge.video/scopebox) - (*Mac only)
+- [Scopebox](https://hedge.video/scopebox) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=black&color=white&link=%20)
 - [Drastic’s 4K Scope SDI Video Scope](https://www.drastic.tv/productsmenu-56/test-and-measurement/4kscope)
 - [Nobe Omniscope](https://timeinpixels.com/nobe-omniscope/)
 ### Video-VirtualProductionApps
@@ -237,7 +236,7 @@ COMING SOON!!!!
 - [Xojo](https://www.xojo.com/) - (Cross Platform visual IDE)
 ### Computer-Automation
 - [AutoHotkey](https://www.autohotkey.com/)
-- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - (* Mac only, but incredible software!!!)
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=black&color=white&link=%20)
 - [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
 - [Octopus](https://www.octopusshowcontrol.com/)
 ### Computer-Optimization
@@ -258,7 +257,7 @@ COMING SOON!!!!
    - [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
 
 **Webcam Emulation:**
-   - [Syphon Virtual Webcam (*Mac only*)](https://troikatronix.com/add-ons/syphon-virtual-webcam/)
+   - [Syphon Virtual Webcam](https://troikatronix.com/add-ons/syphon-virtual-webcam/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=black&color=white&link=%20)
    - [Spout Virtual Webcam](https://github.com/leadedge/SpoutCam)
    - [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
 
@@ -269,7 +268,7 @@ COMING SOON!!!!
    - [Gamepad Remapper](https://www.rewasd.com/)
 
 **Screen Management:**
-   - [Masquerade (*Mac only*)](https://apps.apple.com/us/app/masquerade/id907165103?mt=12)
+   - [Masquerade](https://apps.apple.com/us/app/masquerade/id907165103?mt=12) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=black&color=white&link=%20)
    - [Flux](https://justgetflux.com/)
    
 **Multi Computer Management (Digital KVM):**
