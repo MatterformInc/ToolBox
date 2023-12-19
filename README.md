@@ -75,8 +75,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Ossia Score](https://ossia.io/)
 - [QLab](https://qlab.app/)
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-- [RabbitControl by Markus Heckmann](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)
-  [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control-%232b2a28?logo=github)](https://github.com/rabbitControl)
+- [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)
+  [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control_by_Markus_Heckmann-%232b2a28?logo=github)](https://github.com/rabbitControl)
 
 - [ShowKontrol](https://www.tc-supply.com/home)
 - [Sound Show](https://impronivers.itch.io/sound-show)
