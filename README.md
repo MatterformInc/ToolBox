@@ -84,7 +84,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDeisgner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/) -
-  <!---Mac Only--->
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 ### ShowControl-GUIInterfaceApps
 - [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman + Crew
