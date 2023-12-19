@@ -71,7 +71,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 [![The Experiential Co.](https://img.shields.io/static/v1?label=The-Experiential-Co&color=blue&logo=github)](https://github.com/theExperiential)
 [![Credit:](https://img.shields.io/static/v1?message=The-Experiential-Co&color=blue&logo=github)](https://github.com/theExperiential)
-[![GitHub](https://img.shields.io/badge/GitHub-%40TheExperientialCo-black?logo=github)](https://github.com/theexperiential)
+[![GitHub](https://img.shields.io/badge/GitHub-%40TheExperiential-black?logo=github)](https://github.com/theexperiential)
 
 
 - [CuePilot](https://www.cuepilot.com/en/home.html)
