@@ -165,7 +165,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Synesthesia](https://synesthesia.live/) 
 
 
-## System
+## SystemTools
 ### System-HardwareControlNetwork
 **Installation Management and Control**
    - [SudoSignals](https://www.sudosignals.com/) - by SudoMagic team
