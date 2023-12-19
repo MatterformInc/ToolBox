@@ -66,19 +66,20 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Central Control](https://centralcontrol.io/)
 - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
 - [Cuepid](https://github.com/theexperiential/Cuepid) - by
-[![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
-
-
+  [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
 
 - [CuePilot](https://www.cuepilot.com/en/home.html)
 - [Ontime](https://www.getontime.no/)
 - [Ossia Score](https://ossia.io/)
 - [QLab](https://qlab.app/)
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+
 - [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)
-  [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control_by_Markus_Heckmann-%232b2a28?logo=github)](https://github.com/rabbitControl)
+  [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control-%232b2a28?logo=github)](https://github.com/rabbitControl)
 
 - [ShowKontrol](https://www.tc-supply.com/home)
+  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+
 - [Sound Show](https://impronivers.itch.io/sound-show)
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDeisgner](https://derivative.ca/download)
@@ -90,7 +91,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
 - [Chameleon](https://savethehuman5.com/)
 - [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - by Manuel Mitasch
-- [Mitti](https://imimot.com/mitti/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [Mitti](https://imimot.com/mitti/) -
+  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 ### ShowControl-TimecodeApps
 - [Timecode Tools Suite](https://timecodesync.com/)
 - [Stagetimer.io](https://stagetimer.io/)
