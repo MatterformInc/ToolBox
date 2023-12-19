@@ -67,8 +67,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
 - [Cuepid](https://github.com/theexperiential/Cuepid) - by
 
-[![GitHub](https://img.shields.io/badge/GitHub-black%40The_Experiential_Co.-gray?logo=github)](https://github.com/theexperiential)
-[![GitHub](https://img.shields.io/badge/GitHub-black%40Rabbit_Control-gray?logo=github)](https://github.com/rabbitControl)
+[![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-gray?logo=github)](https://github.com/theexperiential)
+[![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control-gray?logo=github)](https://github.com/rabbitControl)
+[![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-black?logo=github&color=gray)](https://github.com/theexperiential)
 
 
 - [CuePilot](https://www.cuepilot.com/en/home.html)
