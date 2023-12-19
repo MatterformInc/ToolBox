@@ -189,7 +189,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## DataTools
 ### Data-Translators
--[BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)
+- [BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)
 ### Data-VisualCoding
 - [XOD.io](https://xod.io/) 
 - [Processing](https://processing.org/) 
