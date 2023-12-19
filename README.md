@@ -79,7 +79,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [TouchDeisgner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 ### ShowControl-GUIInterfaceApps
-- [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman
+- [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman + Crew
 - [Open Stage Control](https://openstagecontrol.ammd.net/)
 - [TouchOSC](https://hexler.net/touchosc)
 - [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
