@@ -74,7 +74,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [QLab](https://qlab.app/) - 
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
-- [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)
+- [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) - 
   [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control-%232b2a28?logo=github)](https://github.com/rabbitControl)
 
 - [ShowKontrol](https://www.tc-supply.com/home) - 
@@ -119,7 +119,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [cables.gl](https://cables.gl/)
 - [Notch](https://www.notch.one/support/downloads_area/)
 - [Resolume Wire](https://www.resolume.com/software/wire)
-- [Troikatronix](https://troikatronix.com/)
+- [Smode](https://www.smode.io/en/)
+- [Troikatronix Isadora](https://troikatronix.com/)
 - [TouchDeisgner](https://derivative.ca/download)
 - [vvvv](https://visualprogramming.net/)
 ### Video-ProjectionMappingApps
@@ -127,8 +128,11 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Mad Mapper](https://madmapper.com/)	
 - [Modulo Pi](https://www.modulo-pi.com/) 
 ### Video-TestPatternPixelMapGenerator
-- [Artio ](https://github.com/theexperiential/Artio) - by The Experiential
+- [Artio ](https://github.com/theexperiential/Artio) -
+  [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
+
 - [Pixel Mapulator](https://blinkingthings.com/) - by Blinking Things
+  [![GitHub](https://img.shields.io/badge/GitHub-%40Blinking_Things-%232b2a28?logo=github)](  https://github.com/blinkingthings)
 - [pixl Grid Multi](https://videowalrus.com/pixl-grid/) - by Video Walrus
 - [Test Pattern Generator](https://vioso.com/testpattern-generator/) - by VIOSO
 - [TV Testcard Generator](https://testcardgen.onrender.com)
@@ -176,7 +180,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ## //SystemTools
 ### System-HardwareControlNetwork
 **Installation Management and Control**
-   - [SudoSignals](https://www.sudosignals.com/) - by SudoMagic team
+   - [SudoSignals](https://www.sudosignals.com/)
+     [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
 
 **Lighting** 
    - [KLSTR](https://www.klstr.tech/)
