@@ -1,6 +1,4 @@
-<a href="http://libp2p.io/"><img src="https://img.shields.io/badge/project-libp2p-yellow.svg?style=flat-square" /></a>
-[![docs.rs](https://img.shields.io/badge/api-rustdoc-blue.svg)](https://docs.rs/libp2p)
-[![docs.rs master](https://img.shields.io/badge/docs-master-blueviolet)](https://libp2p.github.io/rust-libp2p/libp2p/)
+![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=plastic&label=OS&color=white&link=%20)
 
 # ToolBox
 An extensive list of apps for audiovisual production and creative programming use cases. First made public on Interactive & Immersive HQ.  
