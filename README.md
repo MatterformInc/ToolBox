@@ -91,7 +91,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Stagetimer.io](https://stagetimer.io/)
 - [El-Tee-See 2](https://elteesee.pehrhovey.net/)
 
-## VideoTools
+## //VideoTools
 ### Video-CameraHardwareControl
 - [atemOSC](https://www.atemosc.com/)
 - [Bitfocus Companion](https://bitfocus.io/companion)
@@ -147,7 +147,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [UE Plugins / Kits](https://pro.sony/ue_US/products)
 - [Zero Density](https://www.zerodensity.tv/products/reality-engine/)
 
-## AudioTools
+## //AudioTools
 ### Audio-Integration
 - [Ableton Live](https://www.ableton.com)
 - [Ableton - Max for Live](https://www.ableton.com/en/live/max-for-live/ )
@@ -165,7 +165,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Synesthesia](https://synesthesia.live/) 
 
 
-## SystemTools
+## //SystemTools
 ### System-HardwareControlNetwork
 **Installation Management and Control**
    - [SudoSignals](https://www.sudosignals.com/) - by SudoMagic team
@@ -182,12 +182,12 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Dante](https://www.audinate.com/products/software/dante-controller)
 
 
-## ProductionTools
+## //ProductionTools
 ### Production-Management
 - [Here 2 Record](https://heretorecord.com/apps)
 
 
-## DataTools
+## //DataTools
 ### Data-Translators
 - [BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)
 ### Data-VisualCoding
@@ -197,7 +197,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Fugio](https://www.bigfug.com/software/fugio/)
 
   
-## AITools
+## //AITools
 ### AI-MachineLearning
 - [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)
 - [ControlNet](https://github.com/lllyasviel/ControlNet)
@@ -223,7 +223,7 @@ COMING SOON!!!!
  
 
 
-## ComputerTools
+## //ComputerTools
 ### Computer-RemoteAccess
 - [AnyDesk](https://anydesk.com/en/downloads/windows)
 - [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
@@ -277,7 +277,7 @@ COMING SOON!!!!
    
 
 
-## Debugging
+## //DebuggingTools
 - [Artnetominator](https://www.lightjams.com/artnetominator/)
 - [Art-Net View](https://artnetview.com/)
 - [Art-Net Recorder](https://hautetechnique.com/artnet/artnetrecorder/)
@@ -290,7 +290,7 @@ COMING SOON!!!!
 
 
 
-## NetworkTools
+## //NetworkTools
 ### Network-IP
 - [Angry IP Scanner](https://angryip.org/)
 ### Network-ReverseEngineering
@@ -299,7 +299,7 @@ COMING SOON!!!!
 - [OpenVPN](https://openvpn.net/)
 - [ZeroTier](https://zerotier.com/)
 
-### AR Tools
+### //ARTools
 - [Metaspark](https://spark.meta.com/)
 - [Lens Studio](https://ar.snap.com/lens-studio)
 - [Effect House](https://effecthouse.tiktok.com/)
@@ -308,7 +308,7 @@ COMING SOON!!!!
 
 
 
-### Remote Access
+## //RemoteAccessTools
 - [AnyDesk](https://anydesk.com/en/downloads/windows)
 - [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
 - [RustDesk](https://rustdesk.com/)
@@ -317,13 +317,13 @@ COMING SOON!!!!
 - [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)
 
 
-## CodeTools
+## //CodeTools
 ### Code-EditorApps
 ### Code-Debugging
 ### Code-CodeBeautifier
 
 
-### 3D Modeling Software
+## //3DTools
 - [Blender](https://www.blender.org/)
 - [Maya](https://www.autodesk.com/products/maya/free-trial)
 - [Cinema 4D](https://www.maxon.net/en/cinema-4d)
@@ -333,7 +333,7 @@ COMING SOON!!!!
 
 
 
-## Hardware
+## //HardwareTools
 ### Hardware-PhysicalControllers
 - [StreamDeck XL](https://www.elgato.com/us/en/p/stream-deck-xl 
 - [StreamDeck Plus](https://www.elgato.com/us/en/p/stream-deck-plus-black 
