@@ -68,7 +68,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Cuepid](https://github.com/theexperiential/Cuepid) - by
 ![Static Badge](https://img.shields.io/badge/The_Experiential_Co.-badgeContent?logo=github&color=gray&link=%3Cobject%3Ehttps%3A%2F%2Fgithub.com%2FTheExperiential%3C!object%3E)
 [![Rabbit Control](https://img.shields.io/static/v1?label=Rabbit-Control&color=blue&logo=github)](https://github.com/rabbitControl)
+
 [![The Experiential Co.](https://img.shields.io/static/v1?label=The-Experiential-Co&color=blue&logo=github)](https://github.com/theExperiential)
+
 
 - [CuePilot](https://www.cuepilot.com/en/home.html)
 - [Ontime](https://www.getontime.no/)
