@@ -65,7 +65,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Bitfocus Companion](https://bitfocus.io/companion)
 - [Central Control](https://centralcontrol.io/)
 - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
-- [Cuepid](https://github.com/theexperiential/Cuepid) - by The Experiential
+- [Cuepid](https://github.com/theexperiential/Cuepid) - by [![The Experiential - badge-generator](https://img.shields.io/static/v1?label=TheExperiential&message=badge-generator&color=blue&logo=github)](https://github.com/TheExperiential)
+
 - [CuePilot](https://www.cuepilot.com/en/home.html)
 - [Ontime](https://www.getontime.no/)
 - [Ossia Score](https://ossia.io/)
