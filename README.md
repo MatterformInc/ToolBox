@@ -22,7 +22,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
 - [Audio Tools](#AudioTools)
-<!---   - [Audio Generative Apps](#Audio-GenerativeApps)  --->
    - [Audio Integration](#Audio-Integration)
 - [Lighting Tools](#LightingTools)
    - (COMING SOON)
@@ -38,7 +37,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Raw Data Visual Coding](#Data-VisualCoding)
 - [AI Tools](#AITools)
    - [Generative Image](#AI-Generative)
-<!--   - [Generative Video](#AI-Video) COMING SOON!!!! -->
    - [GPTs and Chat Bots](#AI-GPT)
    - [Machine Learning](#AI-MachineLearning)
 - [Computer Tools](#ComputerTools)
