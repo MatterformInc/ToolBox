@@ -66,7 +66,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Central Control](https://centralcontrol.io/)
 - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)
 - [Cuepid](https://github.com/theexperiential/Cuepid) - by
-![Static Badge](https://img.shields.io/badge/The_Experiential_Co.-badgeContent?logo=github&color=gray)(https://github.com/TheExperiential)
+![Static Badge](https://img.shields.io/badge/The_Experiential_Co.-badgeContent?logo=github&color=gray&link=https%3A%2F%2Fgithub.com%2FTheExperiential)
 
 - [CuePilot](https://www.cuepilot.com/en/home.html)
 - [Ontime](https://www.getontime.no/)
