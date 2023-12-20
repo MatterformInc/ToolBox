@@ -47,6 +47,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Version Control](#Computer-VersionControl)
 - [Pre-Visualization Tools](#PreVisTools)
 - [Code Tools](#CodeTools)
+- [Text Editor Apps](#Code-TextEditorApps)
 - [Hardware Tools](#HardwareTools)
    - [MIDI Controllers](#Hardware-MIDIControllers)
    - [DMX Consoles](#Hardware-DMXConsoles)
@@ -330,18 +331,21 @@ COMING SOON!!!!
 
 
 ## //CodeTools
-### Code-EditorApps
+### Code-TextEditorApps
 - [Collabedit](https://collabedit.com/crjcn)
 - [Microsoft Visual Studio](https://code.visualstudio.com/)
 - [Notepad ++](https://notepad-plus-plus.org/)
 - [Sublime Text Editor](https://www.sublimetext.com/)
 
 ### Code-Debugging
+- [ChatGPT](https://chat.openai.com/) - Send it your code, ask what's wrong, ask it to convert data to various formats!
+- [Online GDB](https://www.onlinegdb.com/)
+- [Python Compiler](https://pythontutor.com/python-compiler.html#mode=edit)
 
 ### Code-CodeBeautifier
 - [Beautifier.io](https://beautifier.io/)
 - [Code Beautifier](https://codebeautify.org/)
-- [formatter.org](https://formatter.org/)
+- [Formatter.org](https://formatter.org/)
 
 
 
