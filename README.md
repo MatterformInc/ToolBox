@@ -250,10 +250,10 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ### Data_Shaders
 - [Book of Shaders](https://thebookofshaders.com/)
-- [ISF (“Interactive Shader Format”)](https://editor.isf.video/shaders?q=&category=&sort=&page=0)
+- [ISF (“Interactive Shader Format”)](https://editor.isf.video/shaders?q=&category=&sort=&page=0) - Compatible with [HeavyM](https://www.heavym.net/)  
    - [ISF Docs](https://docs.isf.video/) 
 - [KodeLife](https://hexler.net/kodelife)
-- [Processing](https://processing.org/) - 
+- [Processing](https://processing.org/) 
 - [Shadertoy](https://www.shadertoy.com/)
 
 ## //AITools
