@@ -79,22 +79,16 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Central Control](https://centralcontrol.io/)
 - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Cuepid](https://github.com/theexperiential/Cuepid)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
-
 - [CuePilot](https://www.cuepilot.com/en/home.html)
 - [Ontime](https://www.getontime.no/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Ossia Score](https://ossia.io/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [QLab](https://qlab.app/)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-
 - [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control-%232b2a28?logo=github)](https://github.com/rabbitControl)
-
-- [ShowKontrol](https://www.tc-supply.com/home)  
-  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-
+- [ShowKontrol](https://www.tc-supply.com/home)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 - [Sound Show](https://impronivers.itch.io/sound-show)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDeisgner](https://derivative.ca/download)
-- [Vezer](https://imimot.com/vezer/) 
-  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [Vezer](https://imimot.com/vezer/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 ### ShowControl_ControlInterfaceApps
 - [Chameleon](https://savethehuman5.com/)
