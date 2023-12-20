@@ -293,14 +293,14 @@ COMING SOON!!!!
 - [RustDesk](https://rustdesk.com/) - (Open-Source Remote Access software, can be self-hosted)
 - [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
 - [Teradici PCoIP](https://teradici.com/)
-- 
+  
 ### Computer_ExcecutableCreation
 - [Node-Red](https://nodered.org/) - (Cross Platform visual IDE)
 - [Xojo](https://www.xojo.com/) - (Cross Platform visual IDE)
 
 ### Computer_Automation
 - [AutoHotkey](https://www.autohotkey.com/)
-- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20) - Now that I'm almost entirely PC,, I miss this app on a daily basis! :cry:
 - [Octopus](https://www.octopusshowcontrol.com/)
 - [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
 
