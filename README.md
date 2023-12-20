@@ -22,7 +22,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Video Utility Apps](#Video-UtilityApps)
    - [Virtual Production Apps](#Video-VirtualProductionApps)
 - [Audio Tools](#AudioTools)
-   - [Audio Integration](#Audio-Integration)
+   - [Audio Integration](#Audio_Integration)
 - [Lighting Tools](#LightingTools)
    - (COMING SOON)
 - [System Hardware Control and Management](#System-HardwareControlNetwork)
@@ -167,7 +167,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Zero Density](https://www.zerodensity.tv/products/reality-engine/)
 
 ## //AudioTools
-### Audio-Integration
+### Audio_Integration
 - [Ableton Live](https://www.ableton.com)
 - [Ableton - Max for Live](https://www.ableton.com/en/live/max-for-live/ )
 - [Bitwig](https://www.bitwig.com)
