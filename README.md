@@ -11,7 +11,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ## Contents
 - [Show Control Tools](#ShowControl)
    - [Show Control Apps](#ShowControl-Apps)
-   - [Interface GUI / UI Apps](#ShowControl-InterfaceApps)
+   - [Control Interface Apps](#ShowControl-ControlInterfaceApps)
    - [Timecode Apps](#ShowControl-TimecodeApps)
 - [Video Tools](#VideoTools)
    - [Camera and Hardware Control](#Video-CameraHardwareControl)
