@@ -303,6 +303,7 @@ COMING SOON!!!!
 - [ModBros](https://www.mod-bros.com) - (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
 
 ### Computer_FileSharing
+Note: (We do not ensure the security of any file transfer service, nor endorse any services that are used for NDA'd content. We are not responsible for where your file transfers go.)
 - [File.io](https://www.file.io/) 
 - [Wetransfer](https://wetransfer.com/)
 
@@ -408,10 +409,10 @@ COMING SOON!!!!
 
 
 ## //TouchDesignerTools
-[OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) by Manuel Mitasch (@manuel_mitasch on TD Forum)
-[PROMOTE](https://derivative.ca/community-post/asset/promote/68631) by Unveil Studio
-[RabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) by Markus Heckmann (@snaut on TD Forum)
-[Timekeeper](https://github.com/theexperiential/Timekeeper) by The Experiential
+- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) by Manuel Mitasch (@manuel_mitasch on TD Forum)
+- [PROMOTE](https://derivative.ca/community-post/asset/promote/68631) by Unveil Studio
+- [RabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) by Markus Heckmann (@snaut on TD Forum)
+- [Timekeeper](https://github.com/theexperiential/Timekeeper) by The Experiential
 
 
 
