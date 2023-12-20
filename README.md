@@ -91,15 +91,21 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [TouchDeisgner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/) -
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+
 ### ShowControl_ControlInterfaceApps
-- [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman + Crew
-- [Open Stage Control](https://openstagecontrol.ammd.net/)
-- [TouchOSC](https://hexler.net/touchosc)
-- [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
 - [Chameleon](https://savethehuman5.com/)
-- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - by Manuel Mitasch
+- [Open Stage Control](https://openstagecontrol.ammd.net/)
+- [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman + Crew
 - [Mitti](https://imimot.com/mitti/) -
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+
+- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - by Manuel Mitasch
+- [SudoSignals](https://www.sudosignals.com/)
+  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
+
+- [TouchOSC](https://hexler.net/touchosc)
+- [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
+
 ### ShowControl_TimecodeApps
 - [Timecode Tools Suite](https://timecodesync.com/)
 - [Stagetimer.io](https://stagetimer.io/)
@@ -113,6 +119,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Middle Control](https://www.middlethings.co/product-middle-control/) - by Middle Things 
 - [Ross Video Hardware Dashboard](https://www.rossvideo.com/support/software-downloads/dashboard/)
 - [Stage Precision](https://www.stageprecision.com/)
+
 ### Video_MediaServerApps
 - [Disguise Designer](https://www.disguise.one/en/products/designer)
 - [Green Hippo Hippotizer](https://support.green-hippo.com/article/2-hippotizer-downloads)
@@ -121,6 +128,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Resolume](https://resolume.com/download/)
 - [Smode](https://www.smode.io/en/) 
 - [VDMX](https://vidvox.net/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+
 ### Video_RealTimeVisuals
 - [cables.gl](https://cables.gl/)
 - [Notch](https://www.notch.one/support/downloads_area/)
@@ -129,10 +137,12 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Troikatronix Isadora](https://troikatronix.com/)
 - [TouchDeisgner](https://derivative.ca/download)
 - [vvvv](https://visualprogramming.net/)
+
 ### Video_ProjectionMappingApps
 - [Heavy M](https://www.heavym.net/)
 - [Mad Mapper](https://madmapper.com/)	
 - [Modulo Pi](https://www.modulo-pi.com/) 
+
 ### Video_TestPatternPixelMapGenerator
 - [Artio ](https://github.com/theexperiential/Artio) -
   [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
@@ -166,6 +176,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Unreal Engine](https://www.unrealengine.com/en-US/download)
 - [UE Plugins / Kits](https://pro.sony/ue_US/products)
 - [Zero Density](https://www.zerodensity.tv/products/reality-engine/)
+
 
 ## //AudioTools
 ### Audio_Integration
@@ -211,6 +222,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ## //DataTools
 ### Data_Translators
 - [BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)
+
 ### Data_VisualCoding
 - [Fugio](https://www.bigfug.com/software/fugio/)
 - [Processing](https://processing.org/) 
@@ -222,13 +234,16 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### AI_MachineLearning
 - [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)
 - [ControlNet](https://github.com/lllyasviel/ControlNet)
+
 ### AI_GPT
 - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
 - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
 - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
+
 ### AI_Video
 - [Move.ai](https://www.move.ai/)
 - [Stability.ai](https://www.stability.ai/)
+
 ### AI_GenerativeImage
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Cuebric](https://cuebric.com/)
@@ -372,6 +387,7 @@ COMING SOON!!!!
 - [Bitfocus Companion on Raspberry Pi](https://bitfocus.io/companion-pi)
 - [StreamDeck XL](https://www.elgato.com/us/en/p/stream-deck-xl)
 - [StreamDeck Plus](https://www.elgato.com/us/en/p/stream-deck-plus-black)
+
 ### Hardware_MIDIControllers
 - [Ableton: Push](https://www.ableton.com/en/push/)
 - [Behringer: P0B1X](https://www.behringer.com/product.html?modelCode=P0B1X) 
@@ -379,7 +395,9 @@ COMING SOON!!!!
 - [Novation: LaunchPad X](https://us.novationmusic.com/products/launchpad-x)
 - [Novation: Launch Control X1](https://us.novationmusic.com/products/launch-control-xl)
 - [Sparrow](https://themidimaker.com/products/sparrow-4x100mm-midi-controller)
+
 ## Hardware_DMXConsoles
+
 ### Hardware_DMXConsoles-EntryLevel
 - [ADJ: WMX1](https://www.adj.com/wmx1)
 - [ETC: ColorSource](https://www.etcconnect.com/Products/Consoles/ColorSource/Features.aspx)
