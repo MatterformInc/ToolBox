@@ -82,9 +82,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
   [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
 
 - [CuePilot](https://www.cuepilot.com/en/home.html)
-- [Ontime](https://www.getontime.no/)
+- [Ontime](https://www.getontime.no/) - ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Ossia Score](https://ossia.io/) - ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [QLab](https://qlab.app/) - 
+- [QLab](https://qlab.app/) - ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 - [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) - ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - 
