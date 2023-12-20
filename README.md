@@ -25,6 +25,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Audio Integration](#Audio_Integration)
    - [Music Visualization](#Audio_MusicVisualization)
 - [System Hardware Control and Management](#System_HardwareControlNetwork)
+   - [Signal Flow Diagram Apps](#System_SignalFlowDiagramApps)
 - [Production Tools](#ProductionTools)
    - [Production Management Apps](#Production_Management)
 - [Network Tools](#NetworkTools)
@@ -49,6 +50,11 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Text Editor Apps](#Code_TextEditorApps)
    - [Debugging](#Code_Debugging)
    - [Code Beautifiers](#Code_CodeBeautifier)
+- [3D Tools](#3DTools)
+   - [3D Apps](#3D-Apps)
+   - [3D Converters](#3D-Converters)
+   - [3D Utility Apps](#3D_UtilityApps)
+- [TouchDesigner Tools](#TouchDesignerTools)
 - [Hardware Tools](#HardwareTools)
    - [Physical Controllers](#Hardware_PhysicalControllers)
    - [MIDI Controllers](#Hardware_MIDIControllers)
@@ -214,6 +220,12 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 **Audio**
    - [Dante](https://www.audinate.com/products/software/dante-controller) - Extremely efficient audio over network protocol / hardware integration system 
 
+### System_SignalFlowDiagramApps
+- [Diagrams.net](https://app.diagrams.net/)
+- [Here to Record Gear](https://h2rgear.com/)
+- [Lucidchart](https://www.lucidchart.com/)
+- [Miro](https://miro.com/)
+
 
 ## //ProductionTools
 ### Production_Management
@@ -375,7 +387,6 @@ COMING SOON!!!!
 - [Formatter.org](https://formatter.org/)
 
 
-
 ## //3DTools
 ### 3D_Apps
 - [Blender](https://www.blender.org/)
@@ -388,6 +399,18 @@ COMING SOON!!!!
 
 ### 3D_Converters
 - [CADMonster](https://cadmonster.org/knowledge/?convert=mb&to=obj)
+
+### 3D_UtilityApps
+- [Virtucam](https://virtucamera.com/) - Awesome real-time 3D phone camera tracking > Maya / Blender plugin
+
+
+## //TouchDesignerTools
+[OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) by Manuel Mitasch (@manuel_mitasch on TD Forum)
+[PROMOTE](https://derivative.ca/community-post/asset/promote/68631) by Unveil Studio
+[RabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) by Markus Heckmann (@snaut on TD Forum)
+[Timekeeper](https://github.com/theexperiential/Timekeeper) by The Experiential
+
+
 
 ## //HardwareTools
 ### Hardware_PhysicalControllers
