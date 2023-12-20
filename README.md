@@ -55,6 +55,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [DMX Consoles](#Hardware-DMXConsoles)
       - [Entry Level](#Hardware-DMXConsoles-EntryLevel)
       - [Pro Level](#Hardware-DMXConsoles-ProLevel)
+   - [DIY Stores](#Hardware-DIY)
+      - (COMING SOON)
 
 <!--- END OF TABLE OF CONTENTS -------------------------------------------------------------------- --->
 
