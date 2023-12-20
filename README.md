@@ -14,6 +14,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Control Interface Apps](#ShowControl_ControlInterfaceApps)
    - [Timecode Apps](#ShowControl_TimecodeApps)
 - [Video Tools](#VideoTools)
+   - [AR Tools](#Video-ARTools)
    - [Camera and Hardware Control](#Video_CameraHardwareControl)
    - [Media Server](#Video_MediaServerApps)
    - [Projection Mapping Apps](#Video_ProjectionMappingApps)
@@ -32,7 +33,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [IP](#Network_IP)
    - [Reverse Engineering](#Network_ReverseEngineering)
    - [VPN](#Network_VPN)
-- [AR Tools](#ARTools)
 - [Data Tools](#DataTools)
    - [Data Translators](#Data_Translators)
    - [Raw Data Visual Coding](#Data_VisualCoding)
@@ -120,6 +120,12 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Stagetimer.io](https://stagetimer.io/)
 
 ## //VideoTools
+
+### //Video_ARTools
+- [Effect House](https://effecthouse.tiktok.com/)
+- [Lens Studio](https://ar.snap.com/lens-studio)
+- [Metaspark](https://spark.meta.com/)
+
 ### Video_CameraHardwareControl
 - [atemOSC](https://www.atemosc.com/)
 - [Bitfocus Companion](https://bitfocus.io/companion)
@@ -368,10 +374,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 
 
-### //ARTools
-- [Effect House](https://effecthouse.tiktok.com/)
-- [Lens Studio](https://ar.snap.com/lens-studio)
-- [Metaspark](https://spark.meta.com/)
+
 
 
 ## //CodeTools
