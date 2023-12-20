@@ -107,9 +107,10 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
 
 ### ShowControl_TimecodeApps
+- [El-Tee-See 2](https://elteesee.pehrhovey.net/)
+- [Figure 53 Apps](https://figure53.github.io/studio/)
 - [Timecode Tools Suite](https://timecodesync.com/)
 - [Stagetimer.io](https://stagetimer.io/)
-- [El-Tee-See 2](https://elteesee.pehrhovey.net/)
 
 ## //VideoTools
 ### Video_CameraHardwareControl
