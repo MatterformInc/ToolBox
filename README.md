@@ -444,6 +444,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - Crystal Jow - [LinkedIn](https://www.linkedin.com/in/crystaljow/)
 - Dylan Roscover - [The Experiential](https://theexperiential.com/)
 - Ed Carlson - [4K Media](http://4kmedia.live/)
+- Elburz Sorkhabi - [All around cool guy]
 - Ethan Hedrick - [LinkedIn](https://www.linkedin.com/in/ethanhedrick/)
 - Ian Shelansky - [Personal Website](https://ianshelanskey.com/)
 - Jeff Shood - [IMDb](https://www.imdb.com/name/nm5218666/)
