@@ -121,7 +121,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## //VideoTools
 
-### //Video_ARTools
+### Video_ARTools
 - [Effect House](https://effecthouse.tiktok.com/)
 - [Lens Studio](https://ar.snap.com/lens-studio)
 - [Metaspark](https://spark.meta.com/)
