@@ -148,7 +148,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Artio ](https://github.com/theexperiential/Artio) -
   [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
 
-- [Pixel Mapulator](https://blinkingthings.com/) - by Blinking Things
+- [Pixel Mapulator](https://blinkingthings.com/) - 
   [![GitHub](https://img.shields.io/badge/GitHub-%40Blinking_Things-%232b2a28?logo=github)](  https://github.com/blinkingthings)
 - [pixl Grid Multi](https://videowalrus.com/pixl-grid/) - by Video Walrus
 - [Test Pattern Generator](https://vioso.com/testpattern-generator/) - by VIOSO
@@ -181,38 +181,38 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## //AudioTools
 ### Audio_Integration
-- [Ableton Live](https://www.ableton.com)
-- [Ableton - Max for Live](https://www.ableton.com/en/live/max-for-live/ )
-- [Bitwig](https://www.bitwig.com)
-- [Cycling 74’s Max](https://cycling74.com/) 
-- [Cycling 74’s RNBO](https://cycling74.com/products/rnbo)
+- [Ableton Live](https://www.ableton.com) - Modular DAW, lots of integration and control I/O
+- [Ableton - Max for Live](https://www.ableton.com/en/live/max-for-live/ ) - Modular connections briding Ableon Live <> MAX MSP
+- [Bitwig](https://www.bitwig.com) - DAW 
+- [Cycling 74’s Max](https://cycling74.com/) - Audio visual processing app
+- [Cycling 74’s RNBO](https://cycling74.com/products/rnbo) - Hardware audio patch designer app
 - [Cantabile](https://www.cantabilesoftware.com/ ) - Live Performance VST App
-- [Dante](https://www.audinate.com/products/software/dante-controller)
-- [REAPER](https://www.reaper.fm/)
+- [Dante](https://www.audinate.com/products/software/dante-controller) - Extremely efficient audio over network protocol / hardware integration system 
+- [REAPER](https://www.reaper.fm/) - DAW
   
 <!--- ### Audio-GenerativeApps --->
 ### Audio_MusicVisualization
-- [Milkdrop](https://www.geisswerks.com/about_milkdrop.html) 
-- [Nestdrop](https://nestimmersion.ca/nestdrop.php)
-- [Synesthesia](https://synesthesia.live/) 
+- [Milkdrop](https://www.geisswerks.com/about_milkdrop.html) - Music visualizer 
+- [Nestdrop](https://nestimmersion.ca/nestdrop.php) - Music visualizer
+- [Synesthesia](https://synesthesia.live/) - Music visualizer
 
 
 ## //SystemTools
 ### System_HardwareControlNetwork
 **Installation Management and Control**
    - [SudoSignals](https://www.sudosignals.com/) - 
-     [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
+     [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode) - Super high-level installation management app, and project health/runtime reporter/logger 
 
 **Lighting** 
-   - [KLSTR](https://www.klstr.tech/)
-   - [Light Jams](https://www.lightjams.com/getIt.html/)
-   - [SIDUS](https://www.sidus.link/)
+   - [KLSTR](https://www.klstr.tech/) - Smart lighting interconnectivity app for managing lighting installations / show networks
+   - [Light Jams](https://www.lightjams.com/getIt.html/) 
+   - [SIDUS](https://www.sidus.link/) 
 
 **Video**
-   - [Megapixel VR](https://megapixelvr.com/)
+   - [Megapixel VR](https://megapixelvr.com/) Smart video hardware management for large scale LED wall installations / show networks. Also works as an issue reporter/logger
 
 **Audio**
-   - [Dante](https://www.audinate.com/products/software/dante-controller)
+   - [Dante](https://www.audinate.com/products/software/dante-controller) - Extremely efficient audio over network protocol / hardware integration system 
 
 
 ## //ProductionTools
@@ -222,15 +222,21 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## //DataTools
 ### Data_Translators
-- [BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)
+- [BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator) - Translates MIDI <> Keystroke, scripting and gamepad data
 
 ### Data_VisualCoding
-- [Fugio](https://www.bigfug.com/software/fugio/)
-- [Processing](https://processing.org/) 
-- [Pure Data](https://puredata.info/)
+- [Fugio](https://www.bigfug.com/software/fugio/) 
+- [Pure Data](https://puredata.info/) - Raw data visual coding, and low/high level access to protocols
 - [XOD.io](https://xod.io/) 
 
-  
+### Data_Shaders
+- [Book of Shaders](https://thebookofshaders.com/)
+- [ISF (“Interactive Shader Format”)](https://editor.isf.video/shaders?q=&category=&sort=&page=0)
+   - [ISF Docs](https://docs.isf.video/) 
+- [KodeLife](https://hexler.net/kodelife)
+- [Processing](https://processing.org/) - 
+- [Shadertoy](https://www.shadertoy.com/)
+
 ## //AITools
 ### AI_MachineLearning
 - [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)
