@@ -77,7 +77,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### ShowControl_Apps
 - [Bitfocus Companion](https://bitfocus.io/companion)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Interoperability focused macro creation app. Production hardware protocols already included! 
 - [Central Control](https://centralcontrol.io/)
-- [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Ben_Kuper-%232b2a28?logo=github)](https://github.com/benkuper)
 - [Cuepid](https://github.com/theexperiential/Cuepid)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
 - [CuePilot](https://www.cuepilot.com/en/home.html)
 - [Ontime](https://www.getontime.no/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
@@ -92,7 +92,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ### ShowControl_ControlInterfaceApps
 - [Chameleon](https://savethehuman5.com/)
-- [Open Stage Control](https://openstagecontrol.ammd.net/)
+- [Open Stage Control](https://openstagecontrol.ammd.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Jean_Emmanuel-%232b2a28?logo=github)](https://github.com/jean-emmanuel)
 - [OSC/PILOT](https://oscpilot.com/)  by Joel Zimmerman + Crew
 - [Mitti](https://imimot.com/mitti/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 - [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40jonglissimo_(Manuel_Mitasch)-%232b2a28?logo=github)](https://github.com/jonglissimo)
