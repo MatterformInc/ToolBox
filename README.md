@@ -379,6 +379,7 @@ COMING SOON!!!!
 - [Novation: LaunchPad X](https://us.novationmusic.com/products/launchpad-x)
 - [Novation: Launch Control X1](https://us.novationmusic.com/products/launch-control-xl)
 - [Sparrow](https://themidimaker.com/products/sparrow-4x100mm-midi-controller)
+## Hardware_DMXConsoles
 ### Hardware_DMXConsoles-EntryLevel
 - [ADJ: WMX1](https://www.adj.com/wmx1)
 - [ETC: ColorSource](https://www.etcconnect.com/Products/Consoles/ColorSource/Features.aspx)
