@@ -100,7 +100,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 - [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - by Manuel Mitasch
-- [SudoSignals](https://www.sudosignals.com/)
+- [SudoSignals](https://www.sudosignals.com/) - 
   [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
 
 - [TouchOSC](https://hexler.net/touchosc)
@@ -200,7 +200,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ## //SystemTools
 ### System_HardwareControlNetwork
 **Installation Management and Control**
-   - [SudoSignals](https://www.sudosignals.com/)
+   - [SudoSignals](https://www.sudosignals.com/) - 
      [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
 
 **Lighting** 
