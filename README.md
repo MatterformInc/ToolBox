@@ -93,7 +93,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [ShowKontrol](https://www.tc-supply.com/home) - 
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
-- [Sound Show](https://impronivers.itch.io/sound-show)
+- [Sound Show](https://impronivers.itch.io/sound-show) - ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDeisgner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/) -
