@@ -78,17 +78,14 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Bitfocus Companion](https://bitfocus.io/companion)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Interoperability focused macro creation app. Production hardware protocols already included! 
 - [Central Control](https://centralcontrol.io/)
 - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [Cuepid](https://github.com/theexperiential/Cuepid)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  
-  [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
+- [Cuepid](https://github.com/theexperiential/Cuepid)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
 
 - [CuePilot](https://www.cuepilot.com/en/home.html)
 - [Ontime](https://www.getontime.no/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Ossia Score](https://ossia.io/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [QLab](https://qlab.app/)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)
-  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [QLab](https://qlab.app/)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
-- [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  
-  [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control-%232b2a28?logo=github)](https://github.com/rabbitControl)
+- [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control-%232b2a28?logo=github)](https://github.com/rabbitControl)
 
 - [ShowKontrol](https://www.tc-supply.com/home)  
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
@@ -107,8 +104,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 - [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Manuel Mitasch
-- [SudoSignals](https://www.sudosignals.com/)  
-  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
+- [SudoSignals](https://www.sudosignals.com/)  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
 
 - [TouchOSC](https://hexler.net/touchosc)
 - [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
@@ -158,11 +154,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Modulo Pi](https://www.modulo-pi.com/) 
 
 ### Video_TestPatternPixelMapGenerator
-- [Artio ](https://github.com/theexperiential/Artio)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) 
-  [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
+- [Artio ](https://github.com/theexperiential/Artio)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
 
-- [Pixel Mapulator](https://blinkingthings.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  
-  [![GitHub](https://img.shields.io/badge/GitHub-%40Blinking_Things-%232b2a28?logo=github)](  https://github.com/blinkingthings)
+- [Pixel Mapulator](https://blinkingthings.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Blinking_Things-%232b2a28?logo=github)](https://github.com/blinkingthings)
 - [pixl Grid Multi](https://videowalrus.com/pixl-grid/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Video Walrus
 - [Test Pattern Generator](https://vioso.com/testpattern-generator/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by VIOSO
 - [TV Testcard Generator](https://testcardgen.onrender.com)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
@@ -213,8 +207,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ## //SystemTools
 ### System_HardwareControlNetwork
 **Installation Management and Control**
-   - [SudoSignals](https://www.sudosignals.com/)  
-     [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)  Super high-level installation management app, and project health/runtime reporter/logger 
+   - [SudoSignals](https://www.sudosignals.com/)  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)  Super high-level installation management app, and project health/runtime reporter/logger 
 
 **Lighting** 
    - [KLSTR](https://www.klstr.tech/)  Smart lighting interconnectivity app for managing lighting installations / show networks
