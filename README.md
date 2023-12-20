@@ -246,21 +246,26 @@ COMING SOON!!!!
 - [RustDesk](https://rustdesk.com/) - (Open-Source Remote Access software, can be self-hosted)
 - [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
 - [Teradici PCoIP](https://teradici.com/)
+- 
 ### Computer-ExcecutableCreation
 - [Node-Red](https://nodered.org/) - (Cross Platform visual IDE)
 - [Xojo](https://www.xojo.com/) - (Cross Platform visual IDE)
+
 ### Computer-Automation
 - [AutoHotkey](https://www.autohotkey.com/)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 - [Octopus](https://www.octopusshowcontrol.com/)
 - [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
+
 ### Computer-Optimization
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards) - Overclocking Management 
 - [HWINFO](https://www.hwinfo.com/) - Hardware Monitor
 - [ModBros](https://www.mod-bros.com) - (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
+
 ### Computer-FileSharing
 - [File.io](https://www.file.io/) 
 - [Wetransfer](https://wetransfer.com/)
+
 ### Computer-VersionControl
 - [Git](https://git-scm.com/)
 - [Gihub](https://github.com/)
@@ -278,9 +283,9 @@ COMING SOON!!!!
 
 **Gamepad:**
    - [Gamepad to Keystroke](https://emutopia.com/index.php/emulators/item/240-gamepads/470-joytokey)
-   - [Xbox Gamepad Emulation](https://www.x360ce.com/)
    - [Gamepad Remapper](https://www.rewasd.com/)
    - [Virtual Joystick](https://emutopia.com/index.php/emulators/item/240-gamepads/1454-vjoy)
+   - [Xbox Gamepad Emulation](https://www.x360ce.com/)
 
 **Screen Management:**
    - [Flux](https://justgetflux.com/)
@@ -308,28 +313,20 @@ COMING SOON!!!!
 ## //NetworkTools
 ### Network-IP
 - [Angry IP Scanner](https://angryip.org/)
+
 ### Network-ReverseEngineering
 - [Wireshark](https://www.wireshark.org/download.html)
+
 ### Network-VPN
 - [OpenVPN](https://openvpn.net/)
 - [ZeroTier](https://zerotier.com/)
+
+
 
 ### //ARTools
 - [Effect House](https://effecthouse.tiktok.com/)
 - [Lens Studio](https://ar.snap.com/lens-studio)
 - [Metaspark](https://spark.meta.com/)
-
-
-
-
-
-## //RemoteAccessTools
-- [AnyDesk](https://anydesk.com/en/downloads/windows)
-- [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)
-- [Parsec](https://parsec.app/downloads)
-- [RustDesk](https://rustdesk.com/)
-- [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
-- [Teradici PCoIP](https://teradici.com/)
 
 
 ## //CodeTools
@@ -338,22 +335,28 @@ COMING SOON!!!!
 - [Microsoft Visual Studio](https://code.visualstudio.com/)
 - [Notepad ++](https://notepad-plus-plus.org/)
 - [Sublime Text Editor](https://www.sublimetext.com/)
+
 ### Code-Debugging
+
 ### Code-CodeBeautifier
 - [Beautifier.io](https://beautifier.io/)
 - [Code Beautifier](https://codebeautify.org/)
 - [formatter.org](https://formatter.org/)
 
+
+
 ## //3DTools
-### 3D-DLLs
+### 3D-Apps
 - [Blender](https://www.blender.org/)
 - [Cinema 4D](https://www.maxon.net/en/cinema-4d)
 - [Grasshopper](https://www.grasshopper3d.com/)
 - [Maya](https://www.autodesk.com/products/maya/free-trial)
 - [SketchUp](https://www.sketchup.com/)
 - [Vectorworks](https://www.vectorworks.net/)
+- [Wikipedia List of 3D Softwares](https://en.wikipedia.org/wiki/List_of_3D_modeling_software)
 
-
+### 3D-Converters
+- [CADMonster](https://cadmonster.org/knowledge/?convert=mb&to=obj)
 
 ## //HardwareTools
 ### Hardware-PhysicalControllers
@@ -376,8 +379,8 @@ COMING SOON!!!!
 - [MA Lighting: GrandMA 3](https://www.malighting.com/grandma3/products/) 
 - [Vari-Lite: Neo](https://www.vari-lite.com/global/products/neo-console) 
 
-
-
-
+### Hardware-DIY
+- [Phidgets](https://www.phidgets.com/)https://www.phidgets.com/
+- [Adafruit](https://www.adafruit.com/)https://www.adafruit.com/
 
 
