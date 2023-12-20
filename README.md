@@ -23,6 +23,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Virtual Production Apps](#Video_VirtualProductionApps)
 - [Audio Tools](#AudioTools)
    - [Audio Integration](#Audio_Integration)
+   - [Music Visualization](#Audio_MusicVisualization)
 - [Lighting Tools](#LightingTools)
    - (COMING SOON)
 - [System Hardware Control and Management](#System_HardwareControlNetwork)
