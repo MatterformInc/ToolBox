@@ -24,8 +24,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Audio Tools](#AudioTools)
    - [Audio Integration](#Audio_Integration)
    - [Music Visualization](#Audio_MusicVisualization)
-- [Lighting Tools](#LightingTools)
-   - (COMING SOON)
 - [System Hardware Control and Management](#System_HardwareControlNetwork)
 - [Production Tools](#ProductionTools)
    - [Production Management Apps](#Production_Management)
@@ -58,7 +56,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
       - [Pro Level](#Hardware_DMXConsoles-ProLevel)
    - [DIY Stores](#Hardware_DIY)
       - (COMING SOON)
-
+- [Lighting Tools](#LightingTools)
+   - (COMING SOON)
 <!--- END OF TABLE OF CONTENTS -------------------------------------------------------------------- --->
 
 
