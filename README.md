@@ -75,10 +75,10 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## ShowControl
 ### ShowControl_Apps
-- [Bitfocus Companion](https://bitfocus.io/companion)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - Interoperability focused macro creation app. Production hardware protocols already included! 
+- [Bitfocus Companion](https://bitfocus.io/companion)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Interoperability focused macro creation app. Production hardware protocols already included! 
 - [Central Control](https://centralcontrol.io/)
 - [Chataigne](https://benjamin.kuperberg.fr/chataigne/en)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [Cuepid](https://github.com/theexperiential/Cuepid)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - 
+- [Cuepid](https://github.com/theexperiential/Cuepid)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  
   [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
 
 - [CuePilot](https://www.cuepilot.com/en/home.html)
@@ -87,27 +87,27 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [QLab](https://qlab.app/)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
-- [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) - ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - 
+- [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  
   [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control-%232b2a28?logo=github)](https://github.com/rabbitControl)
 
-- [ShowKontrol](https://www.tc-supply.com/home) - 
+- [ShowKontrol](https://www.tc-supply.com/home)  
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 - [Sound Show](https://impronivers.itch.io/sound-show)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDeisgner](https://derivative.ca/download)
-- [Vezer](https://imimot.com/vezer/) -
+- [Vezer](https://imimot.com/vezer/) 
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 ### ShowControl_ControlInterfaceApps
 - [Chameleon](https://savethehuman5.com/)
 - [Open Stage Control](https://openstagecontrol.ammd.net/)
-- [OSC/PILOT](https://oscpilot.com/) - by Joel Zimmerman + Crew
-- [Mitti](https://imimot.com/mitti/) -
+- [OSC/PILOT](https://oscpilot.com/)  by Joel Zimmerman + Crew
+- [Mitti](https://imimot.com/mitti/) 
   ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
-- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) - ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - by Manuel Mitasch
-- [SudoSignals](https://www.sudosignals.com/) - 
+- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Manuel Mitasch
+- [SudoSignals](https://www.sudosignals.com/)  
   [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
 
 - [TouchOSC](https://hexler.net/touchosc)
@@ -129,8 +129,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### Video_CameraHardwareControl
 - [atemOSC](https://www.atemosc.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Bitfocus Companion](https://bitfocus.io/companion)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [ATEM Control Software](https://www.blackmagicdesign.com/products/atemmini/software)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - by Blackmagic Design
-- [Middle Control](https://www.middlethings.co/product-middle-control/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - by Middle Things 
+- [ATEM Control Software](https://www.blackmagicdesign.com/products/atemmini/software)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Blackmagic Design
+- [Middle Control](https://www.middlethings.co/product-middle-control/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Middle Things 
 - [Ross Video Hardware Dashboard](https://www.rossvideo.com/support/software-downloads/dashboard/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Stage Precision](https://www.stageprecision.com/)
 
@@ -141,7 +141,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Pixera](https://pixera.one/en/) 
 - [Resolume](https://resolume.com/download/)
 - [Smode](https://www.smode.io/en/) 
-- [VDMX](https://vidvox.net/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [VDMX](https://vidvox.net/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 ### Video_RealTimeVisuals
 - [cables.gl](https://cables.gl/)
@@ -158,15 +158,15 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Modulo Pi](https://www.modulo-pi.com/) 
 
 ### Video_TestPatternPixelMapGenerator
-- [Artio ](https://github.com/theexperiential/Artio)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) -
+- [Artio ](https://github.com/theexperiential/Artio)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) 
   [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
 
-- [Pixel Mapulator](https://blinkingthings.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - 
+- [Pixel Mapulator](https://blinkingthings.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  
   [![GitHub](https://img.shields.io/badge/GitHub-%40Blinking_Things-%232b2a28?logo=github)](  https://github.com/blinkingthings)
-- [pixl Grid Multi](https://videowalrus.com/pixl-grid/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - by Video Walrus
-- [Test Pattern Generator](https://vioso.com/testpattern-generator/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - by VIOSO
+- [pixl Grid Multi](https://videowalrus.com/pixl-grid/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Video Walrus
+- [Test Pattern Generator](https://vioso.com/testpattern-generator/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by VIOSO
 - [TV Testcard Generator](https://testcardgen.onrender.com)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [Official Test Pattern Library](https://www.murideo.com/test-pattern-library.html)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - Murideo
+- [Official Test Pattern Library](https://www.murideo.com/test-pattern-library.html)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Murideo
 
 ### Video_UtilityApps
 - [NDI Video Tools](https://ndi.video/tools/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
@@ -194,30 +194,30 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## //AudioTools
 ### Audio_Integration
-- [Ableton Live](https://www.ableton.com) - Modular DAW, lots of integration and control I/O
-- [Ableton - Max for Live](https://www.ableton.com/en/live/max-for-live/ ) - Modular connections briding Ableon Live <> MAX MSP
-- [Bitwig](https://www.bitwig.com) - DAW 
-- [Cycling 74’s Max](https://cycling74.com/) - Audio visual processing app
-- [Cycling 74’s RNBO](https://cycling74.com/products/rnbo) - Hardware audio patch designer app
-- [Cantabile](https://www.cantabilesoftware.com/ ) - Live Performance VST App
-- [Dante](https://www.audinate.com/products/software/dante-controller) - Extremely efficient audio over network protocol / hardware integration system 
-- [REAPER](https://www.reaper.fm/) - DAW
+- [Ableton Live](https://www.ableton.com)  Modular DAW, lots of integration and control I/O
+- [Ableton - Max for Live](https://www.ableton.com/en/live/max-for-live/ )  Modular connections briding Ableon Live <> MAX MSP
+- [Bitwig](https://www.bitwig.com)  DAW 
+- [Cycling 74’s Max](https://cycling74.com/)  Audio visual processing app
+- [Cycling 74’s RNBO](https://cycling74.com/products/rnbo)  Hardware audio patch designer app
+- [Cantabile](https://www.cantabilesoftware.com/ )  Live Performance VST App
+- [Dante](https://www.audinate.com/products/software/dante-controller)  Extremely efficient audio over network protocol / hardware integration system 
+- [REAPER](https://www.reaper.fm/)  DAW
   
 <!--- ### Audio-GenerativeApps --->
 ### Audio_MusicVisualization
-- [Milkdrop](https://www.geisswerks.com/about_milkdrop.html) - Music visualizer 
-- [Nestdrop](https://nestimmersion.ca/nestdrop.php) - Music visualizer
-- [Synesthesia](https://synesthesia.live/) - Music visualizer
+- [Milkdrop](https://www.geisswerks.com/about_milkdrop.html)  Music visualizer 
+- [Nestdrop](https://nestimmersion.ca/nestdrop.php)   Music visualizer
+- [Synesthesia](https://synesthesia.live/)  Music visualizer
 
 
 ## //SystemTools
 ### System_HardwareControlNetwork
 **Installation Management and Control**
-   - [SudoSignals](https://www.sudosignals.com/) - 
-     [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode) - Super high-level installation management app, and project health/runtime reporter/logger 
+   - [SudoSignals](https://www.sudosignals.com/)  
+     [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)  Super high-level installation management app, and project health/runtime reporter/logger 
 
 **Lighting** 
-   - [KLSTR](https://www.klstr.tech/) - Smart lighting interconnectivity app for managing lighting installations / show networks
+   - [KLSTR](https://www.klstr.tech/)  Smart lighting interconnectivity app for managing lighting installations / show networks
    - [Light Jams](https://www.lightjams.com/getIt.html/) 
    - [SIDUS](https://www.sidus.link/) 
 
@@ -225,7 +225,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Megapixel VR](https://megapixelvr.com/) Smart video hardware management for large scale LED wall installations / show networks. Also works as an issue reporter/logger
 
 **Audio**
-   - [Dante](https://www.audinate.com/products/software/dante-controller) - Extremely efficient audio over network protocol / hardware integration system 
+   - [Dante](https://www.audinate.com/products/software/dante-controller)  Extremely efficient audio over network protocol / hardware integration system 
 
 ### System_SignalFlowDiagramApps
 - [Diagrams.net](https://app.diagrams.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
@@ -241,16 +241,16 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## //DataTools
 ### Data_Translators
-- [BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator) - Translates MIDI <> Keystroke, scripting and gamepad data
+- [BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)  Translates MIDI <> Keystroke, scripting and gamepad data
 
 ### Data_VisualCoding
 - [Fugio](https://www.bigfug.com/software/fugio/) 
-- [Pure Data](https://puredata.info/) - Raw data visual coding, and low/high level access to protocols
+- [Pure Data](https://puredata.info/)  Raw data visual coding, and low/high level access to protocols
 - [XOD.io](https://xod.io/) 
 
 ### Data_Shaders
 - [Book of Shaders](https://thebookofshaders.com/)
-- [ISF (“Interactive Shader Format”)](https://editor.isf.video/shaders?q=&category=&sort=&page=0) - Compatible with [HeavyM](https://www.heavym.net/)  
+- [ISF (“Interactive Shader Format”)](https://editor.isf.video/shaders?q=&category=&sort=&page=0)  Compatible with [HeavyM](https://www.heavym.net/)  
    - [ISF Docs](https://docs.isf.video/) 
 - [KodeLife](https://hexler.net/kodelife)
 - [Processing](https://processing.org/) 
@@ -277,7 +277,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Midjourney](https://www.midjourney.com/)
 - [OpenAI - DALL-E 3](https://openai.com/dall-e-3)
 - [RunwayML](https://runwayml.com/)
-- [Stability AI - SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
+- [Stability AI  SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
 <!-- ### AI-GenerativeVideo
 COMING SOON!!!!
 - []()
@@ -290,24 +290,24 @@ COMING SOON!!!!
 - [AnyDesk](https://anydesk.com/en/downloads/windows)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Parsec](https://parsec.app/downloads)
-- [RustDesk](https://rustdesk.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - (Open-Source Remote Access software, can be self-hosted) 
+- [RustDesk](https://rustdesk.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  (Open-Source Remote Access software, can be self-hosted) 
 - [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
 - [Teradici PCoIP](https://teradici.com/)
   
 ### Computer_ExcecutableCreation
-- [Node-Red](https://nodered.org/) - (Cross Platform visual IDE)
-- [Xojo](https://www.xojo.com/) - (Cross Platform visual IDE)
+- [Node-Red](https://nodered.org/)  (Cross Platform visual IDE)
+- [Xojo](https://www.xojo.com/)  (Cross Platform visual IDE)
 
 ### Computer_Automation
 - [AutoHotkey](https://www.autohotkey.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [Keyboard Maestro](https://www.keyboardmaestro.com/main/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20) - Now that I'm primarily PC-based... I miss this app on a daily basis! :cry:
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)  Now that I'm primarily PC-based... I miss this app on a daily basis! :cry:
 - [Octopus](https://www.octopusshowcontrol.com/)
 - [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
 
 ### Computer_Optimization
-- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - Overclocking Management 
-- [HWINFO](https://www.hwinfo.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - Hardware Monitor
-- [ModBros](https://www.mod-bros.com)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Overclocking Management 
+- [HWINFO](https://www.hwinfo.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Hardware Monitor
+- [ModBros](https://www.mod-bros.com)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
 
 ### Computer_FileSharing
 Note: (We do not ensure the security of any file transfer service, nor endorse any services that are used for NDA'd content. We are not responsible for where your file transfers go.)
@@ -326,7 +326,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 **Webcam Emulation:**
    - [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
-   - [Syphon Virtual Webcam](https://troikatronix.com/add-ons/syphon-virtual-webcam/) - ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+   - [Syphon Virtual Webcam](https://troikatronix.com/add-ons/syphon-virtual-webcam/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
    - [Spout Virtual Webcam](https://github.com/leadedge/SpoutCam)
 
 **Gamepad:**
@@ -349,9 +349,9 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Artnetominator](https://www.lightjams.com/artnetominator/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Art-Net View](https://artnetview.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Art-Net Recorder](https://hautetechnique.com/artnet/artnetrecorder/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [ChatGPT](https://chat.openai.com/) - Send it your code, ask what's wrong, ask it to convert data to various formats!
-- [Code Beautifier](https://codebeautify.org/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - For those "what am I doing wrong..." 3am evenings.
-- [Protokol](https://hexler.net/protokol)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) - Awesome OSC, MIDI, Gamepad protocol checker!
+- [ChatGPT](https://chat.openai.com/)  Send it your code, ask what's wrong, ask it to convert data to various formats!
+- [Code Beautifier](https://codebeautify.org/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  For those "what am I doing wrong..." 3am evenings.
+- [Protokol](https://hexler.net/protokol)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Awesome OSC, MIDI, Gamepad protocol checker!
 - [sACN View](https://sacnview.org/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [ZigSim](https://1-10.github.io/zigsim/getting-started.html)
 - [ZigCam](https://derivative.ca/community-post/ndi-ar-camera-app-zigcam-was-released/65430)
@@ -385,7 +385,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Sublime Text Editor](https://www.sublimetext.com/)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)
 
 ### Code_Debugging
-- [ChatGPT](https://chat.openai.com/) - Send it your code, ask what's wrong, ask it to convert data to various formats!
+- [ChatGPT](https://chat.openai.com/)  Send it your code, ask what's wrong, ask it to convert data to various formats!
 - [Online GDB](https://www.onlinegdb.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Python Compiler](https://pythontutor.com/python-compiler.html#mode=edit)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 
@@ -409,7 +409,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [CADMonster](https://cadmonster.org/knowledge/?convert=mb&to=obj)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 
 ### 3D_UtilityApps
-- [Virtucam](https://virtucamera.com/) - Awesome real-time 3D phone camera tracking > Maya / Blender plugin
+- [Virtucam](https://virtucamera.com/)  Awesome real-time 3D phone camera tracking > Maya / Blender plugin
 
 
 ## //TouchDesignerTools
