@@ -95,7 +95,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Open Stage Control](https://openstagecontrol.ammd.net/)
 - [OSC/PILOT](https://oscpilot.com/)  by Joel Zimmerman + Crew
 - [Mitti](https://imimot.com/mitti/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Manuel Mitasch
+- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40jonglissimo_Manuel_Mitasch-%232b2a28?logo=github)](https://github.com/jonglissimo)
 - [SudoSignals](https://www.sudosignals.com/)  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
 - [TouchOSC](https://hexler.net/touchosc)
 - [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
