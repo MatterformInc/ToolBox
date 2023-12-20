@@ -87,7 +87,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [ShowKontrol](https://www.tc-supply.com/home)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 - [Sound Show](https://impronivers.itch.io/sound-show)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Stage Precision](https://www.stageprecision.com/)
-- [TouchDeisgner](https://derivative.ca/download)
+- [TouchDesigner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 ### ShowControl_ControlInterfaceApps
@@ -397,7 +397,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 
 ## //TouchDesignerTools
-- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663) by Manuel Mitasch (@manuel_mitasch on TD Forum)
+- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40jonglissimo_(Manuel_Mitasch)-%232b2a28?logo=github)](https://github.com/jonglissimo)
 - [PROMOTE](https://derivative.ca/community-post/asset/promote/68631) by Unveil Studio
 - [RabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) by Markus Heckmann (@snaut on TD Forum)
 - [Timekeeper](https://github.com/theexperiential/Timekeeper) by The Experiential
