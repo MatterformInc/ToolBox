@@ -451,7 +451,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - Jeremy Hart - [LinkedIn](https://www.linkedin.com/in/jeremy-hart-b1b03673/)
 - Jim Geduldick - [LinkedIn](https://www.linkedin.com/in/jimgeduldick/)
 - Keith Anderson - [LinkedIn](https://www.linkedin.com/in/keithunrealxr/)
-- [Lukas Rooney] - [LinkedIn](https://www.linkedin.com/in/lukas-rooney/)
+- Lukas Rooney - [LinkedIn](https://www.linkedin.com/in/lukas-rooney/)
 - Matt McGee - [LinkedIn](https://www.linkedin.com/in/matthew-mcgee-5128b21ba/)
 - Parish Bracha - [Gray Area](https://grayarea.org/community-entry/parish-bracha/)
 - Phillip Liddell - [LinkedIn](https://www.linkedin.com/in/phil-l-17ba731ba/)
