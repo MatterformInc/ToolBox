@@ -6,6 +6,8 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 
 All tools are sorted alphabetically! Have fun! Recommendations can be made by making Issues for REQUESTS.md!
 
+- [Special thanks to list contributors:](#SpecialThanks)
+- 
 <!--- ------------------------------------------------------------START OF TABLE OF CONTENTS----------------------------------------------------------------------- --->
 
 ## Contents
@@ -434,3 +436,23 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Adafruit](https://www.adafruit.com/)
 
 
+
+#SpecialThanks
+- Adam Amaral - [Master of Shapes](https://masterofshapes.com/)
+- Akash Bartlett - [Bartlett Lighting](https://www.bartlettlighting.com/)
+- Ana Carolina - [Aestarita](https://www.aestarita.com/)
+- Crystal Jow - [LinkedIn](https://www.linkedin.com/in/crystaljow/)
+- Dylan Roscover - [The Experiential](https://theexperiential.com/)
+- Ed Carlson - [4K Media](http://4kmedia.live/)
+- Ethan Hedrick - [LinkedIn](https://www.linkedin.com/in/ethanhedrick/)
+- Ian Shelansky - [Personal Website](https://ianshelanskey.com/)
+- Jeff Shood - [IMDb](https://www.imdb.com/name/nm5218666/)
+- Jeremy Hart - [LinkedIn](https://www.linkedin.com/in/jeremy-hart-b1b03673/)
+- Jim Geduldick - [LinkedIn](https://www.linkedin.com/in/jimgeduldick/)
+- Keith Anderson - [LinkedIn](https://www.linkedin.com/in/keithunrealxr/)
+- Matt McGee - [LinkedIn](https://www.linkedin.com/in/matthew-mcgee-5128b21ba/)
+- Parish Bracha - [Gray Area](https://grayarea.org/community-entry/parish-bracha/)
+- Phillip Liddell - [LinkedIn](https://www.linkedin.com/in/phil-l-17ba731ba/)
+- Sean Willis - [LinkedIn](https://www.linkedin.com/in/willisean/)
+- Sting Alleman - [GitHub](https://github.com/stingalleman)
+- Stage Hacks - [Stage Hacks](https://www.stagehacks.com/)
