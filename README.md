@@ -437,7 +437,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 
 
-#SpecialThanks
+# SpecialThanks
 - Adam Amaral - [Master of Shapes](https://masterofshapes.com/)
 - Akash Bartlett - [Bartlett Lighting](https://www.bartlettlighting.com/)
 - Ana Carolina - [Aestarita](https://www.aestarita.com/)
