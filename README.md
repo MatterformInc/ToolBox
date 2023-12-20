@@ -229,7 +229,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ### System_SignalFlowDiagramApps
 - [Diagrams.net](https://app.diagrams.net/) - ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [Here to Record Gear](https://h2rgear.com/)
+- [Here to Record Gear](https://h2rgear.com/) - ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Lucidchart](https://www.lucidchart.com/)
 - [Miro](https://miro.com/)
 
