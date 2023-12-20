@@ -353,12 +353,15 @@ COMING SOON!!!!
 ## //NetworkTools
 ### Network_IP
 - [Angry IP Scanner](https://angryip.org/)
+- [Wireshark](https://www.wireshark.org/download.html)
+
 
 ### Network_ReverseEngineering
 - [Wireshark](https://www.wireshark.org/download.html)
 
 ### Network_VPN
 - [OpenVPN](https://openvpn.net/)
+- [tailscale](https://tailscale.com/)
 - [ZeroTier](https://zerotier.com/)
 
 
