@@ -7,7 +7,7 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 All tools are sorted alphabetically! Have fun! Recommendations can be made by making Issues for REQUESTS.md!
 
 - [Special thanks to list contributors:](#SpecialThanks)
-- 
+  
 <!--- ------------------------------------------------------------START OF TABLE OF CONTENTS----------------------------------------------------------------------- --->
 
 ## Contents
