@@ -144,7 +144,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### Video_ProjectionMappingApps
 - [Heavy M](https://www.heavym.net/)
 - [Mad Mapper](https://madmapper.com/)	
+- [Mapping Matter](https://www.mappingmatter.com/) Great projection mapping coverage calculator
 - [Modulo Pi](https://www.modulo-pi.com/) 
+- [VIOSO](https://vioso.com/)
 
 ### Video_TestPatternPixelMapGenerator
 - [Artio ](https://github.com/theexperiential/Artio)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
