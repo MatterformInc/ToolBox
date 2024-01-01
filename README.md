@@ -131,7 +131,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Resolume](https://resolume.com/download/)
 - [Smode](https://www.smode.io/en/) 
 - [VDMX](https://vidvox.net/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-
+  
 ### Video_RealTimeVisuals
 - [cables.gl](https://cables.gl/)
 - [Notch](https://www.notch.one/support/downloads_area/)
@@ -436,6 +436,8 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Phidgets](https://www.phidgets.com/)
 - [Adafruit](https://www.adafruit.com/)
 
+### Hardware_Network
+- [Netgear M4250](https://www.netgear.com/business/wired/switches/fully-managed/gsm4212p/)
 
 
 # SpecialThanks
