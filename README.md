@@ -61,6 +61,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Hardware Tools](#HardwareTools)
    - [Physical Controllers](#Hardware_PhysicalControllers)
    - [MIDI Controllers](#Hardware_MIDIControllers)
+   - [Video](#Hardware_Video)
+      - [Video Converters](#Hardware_Video-Converters)
    - [DMX Consoles](#Hardware_DMXConsoles)
       - [Entry Level](#Hardware_DMXConsoles-EntryLevel)
       - [Pro Level](#Hardware_DMXConsoles-ProLevel)
