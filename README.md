@@ -417,6 +417,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Ableton: Push](https://www.ableton.com/en/push/)
 - [Behringer: P0B1X](https://www.behringer.com/product.html?modelCode=P0B1X) 
 - [Choi Sauce MIDI Fader](https://choisaucedesigns.com/)
+- [Icon P1-M](https://iconproaudio.com/product/p1-m/)
 - [Novation: LaunchPad X](https://us.novationmusic.com/products/launchpad-x)
 - [Novation: Launch Control X1](https://us.novationmusic.com/products/launch-control-xl)
 - [Sparrow](https://themidimaker.com/products/sparrow-4x100mm-midi-controller)
@@ -431,6 +432,10 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [High End Systems: Hog-4](https://www.etcconnect.com/Products/High-End-Systems/Hog-4-Consoles/)
 - [MA Lighting: GrandMA 3](https://www.malighting.com/grandma3/products/) 
 - [Vari-Lite: Neo](https://www.vari-lite.com/global/products/neo-console) 
+
+### Hardware_Video-Converters
+- [Middle Things: Camera Box](https://store.middlethings.co/collections/middle-fiber/products/fiber-camera-box-6g)
+- [Middle Things: Fiber Unite 12G](https://store.middlethings.co/collections/middle-fiber/products/fiber-unite-5-6g)
 
 ### Hardware_DIY
 - [Phidgets](https://www.phidgets.com/)
