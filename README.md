@@ -436,6 +436,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 ### Hardware_Video-Converters
 - [Middle Things: Camera Box](https://store.middlethings.co/collections/middle-fiber/products/fiber-camera-box-6g)
 - [Middle Things: Fiber Unite 12G](https://store.middlethings.co/collections/middle-fiber/products/fiber-unite-5-6g)
+- [Theatrixx Video Converters](https://theatrixx.com/brand/theatrixx/#xvision-converter-series)
 
 ### Hardware_DIY
 - [Phidgets](https://www.phidgets.com/)
