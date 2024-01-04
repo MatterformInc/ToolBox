@@ -446,6 +446,9 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ### Hardware_Network
 - [Netgear M4250](https://www.netgear.com/business/wired/switches/fully-managed/gsm4212p/)
+- [GL-iNET](https://www.gl-inet.com/products/)
+- [Ubiquiti: Edge Router](https://store.ui.com/us/en/products/er-x)
+- [Ubiquiti: Pro Max 24 PoE](https://store.ui.com/us/en/pro/category/all-switching/collections/unifi-switching-pro-max/products/usw-pro-max-24-poe)
 
 
 # SpecialThanks
