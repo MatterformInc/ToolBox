@@ -402,7 +402,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Virtucam](https://virtucamera.com/)  Awesome real-time 3D phone camera tracking > Maya / Blender plugin
 
 ### 3D_UnrealEngineAddOns
-- [Material Vault](https://github.com/ScottRaffertyCG/MaterialVault)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)  Libre library of materials 
+- [Material Vault](https://github.com/ScottRaffertyCG/MaterialVault)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Libre library of materials 
 
 
 ## //TouchDesignerTools
