@@ -57,6 +57,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [3D Apps](#3D-Apps)
    - [3D Converters](#3D-Converters)
    - [3D Utility Apps](#3D_UtilityApps)
+   - [3D Unreal Engine AddOns](#3D_UnrealEngineAddOns)
 - [TouchDesigner Tools](#TouchDesignerTools)
 - [Hardware Tools](#HardwareTools)
    - [Physical Controllers](#Hardware_PhysicalControllers)
@@ -399,6 +400,9 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ### 3D_UtilityApps
 - [Virtucam](https://virtucamera.com/)  Awesome real-time 3D phone camera tracking > Maya / Blender plugin
+
+### 3D_UnrealEngineAddOns
+- [Material Vault](https://github.com/ScottRaffertyCG/MaterialVault)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)  Libre library of materials 
 
 
 ## //TouchDesignerTools
