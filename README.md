@@ -341,6 +341,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Art-Net Recorder](https://hautetechnique.com/artnet/artnetrecorder/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [ChatGPT](https://chat.openai.com/)  Send it your code, ask what's wrong, ask it to convert data to various formats!
 - [Code Beautifier](https://codebeautify.org/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  For those "what am I doing wrong..." 3am evenings.
+- [PresentMon](https://github.com/GameTechDev/PresentMon)  GPU Hardware Debugger / Troubleshooter
 - [Protokol](https://hexler.net/protokol)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Awesome OSC, MIDI, Gamepad protocol checker!
 - [sACN View](https://sacnview.org/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [ZigSim](https://1-10.github.io/zigsim/getting-started.html)
