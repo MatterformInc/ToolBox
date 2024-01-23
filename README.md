@@ -1,4 +1,3 @@
-[https://fonts.google.com/icons?selected=Material%20Symbols%20Outlined%3Ahome_repair_service%3AFILL%400%3Bwght%40400%3BGRAD%400%3Bopsz%4024]
 
 
 # ToolBox
