@@ -58,6 +58,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [3D Converters](#3D-Converters)
    - [3D Utility Apps](#3D_UtilityApps)
    - [3D Unreal Engine AddOns](#3D_UnrealEngineAddOns)
+- [Design Tools](#DesignTools)
+   - [Design Apps](Design_Apps)
+   - [UX/UI Apps](#Design_UXUI)
 - [TouchDesigner Tools](#TouchDesignerTools)
 - [Hardware Tools](#HardwareTools)
    - [Physical Controllers](#Hardware_PhysicalControllers)
@@ -141,6 +144,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Resolume Wire](https://www.resolume.com/software/wire)
 - [Smode](https://www.smode.io/en/)
 - [Troikatronix Isadora](https://troikatronix.com/)
+- [Tooll.io](https://tooll.io/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Tooll-%232b2a28?logo=github)](https://github.com/tooll3/t3)
 - [TouchDeisgner](https://derivative.ca/download)
 - [vvvv](https://visualprogramming.net/)
 
@@ -255,6 +259,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
 - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
 - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
+- [GPT Engineer](https://gptengineer.app/)  Beta, instant GPT web development prototyper
 
 ### AI_Video
 - [Move.ai](https://www.move.ai/)
@@ -404,6 +409,16 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ### 3D_UnrealEngineAddOns
 - [Material Vault](https://github.com/ScottRaffertyCG/MaterialVault)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Libre library of materials 
+
+
+## //DesignTools
+### Design_Apps
+- [PenPot](https://penpot.app/features)
+### Design_UXUI
+- [Font Awesome](https://fontawesome.com/search?m=free&o=r)
+- [Free Open Source Icon Libraries](https://www.toools.design/free-open-source-icon-libraries)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [Open UI](https://open-ui.org/design-systems/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [Best UX UI Design Tools of 2020](https://www.loginradius.com/blog/engineering/best-ui-ux-design-tools-2020/)
 
 
 ## //TouchDesignerTools
