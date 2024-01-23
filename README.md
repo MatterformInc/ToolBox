@@ -1,4 +1,4 @@
-<i class="material-icons">home_repair_service</i>
+<i class="material-icons">home</i>
 
 
 
