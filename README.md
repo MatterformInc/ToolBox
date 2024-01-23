@@ -414,12 +414,12 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ## //DesignTools
 ### Design_Apps
-- [PenPot](https://penpot.app/features)
+- [PenPot](https://penpot.app/features)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)
 ### Design_UXUI
-- [Font Awesome](https://fontawesome.com/search?m=free&o=r)
+- [Font Awesome](https://fontawesome.com/search?m=free&o=r)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Free Open Source Icon Libraries](https://www.toools.design/free-open-source-icon-libraries)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Open UI](https://open-ui.org/design-systems/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [Best UX UI Design Tools of 2020](https://www.loginradius.com/blog/engineering/best-ui-ux-design-tools-2020/)
+- [Best UX UI Design Tools of 2020](https://www.loginradius.com/blog/engineering/best-ui-ux-design-tools-2020/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 
 
 ## //TouchDesignerTools
