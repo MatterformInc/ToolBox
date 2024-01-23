@@ -45,7 +45,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Machine Learning](#AI_MachineLearning)
 - [Computer Tools](#ComputerTools)
    - [Automation](#Computer_Automation)
-   - [File Management](#Computer_FileSharing)
+   - [File Sharing](#Computer_FileSharing)
    - [Optimization](#Computer_Optimization)
    - [Various Bits Of Software](#Computer_VariousBitsOfSoftware)
    - [Version Control](#Computer_VersionControl)
@@ -282,6 +282,21 @@ COMING SOON!!!!
 
 
 ## //ComputerTools
+### Computer_Automation
+- [AutoHotkey](https://www.autohotkey.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)  Now that I'm primarily PC-based... I miss this app on a daily basis! :cry:
+- [Octopus](https://www.octopusshowcontrol.com/)
+- [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
+
+### Computer_ExcecutableCreation
+- [Node-Red](https://nodered.org/)  (Cross Platform visual IDE)
+- [Xojo](https://www.xojo.com/)  (Cross Platform visual IDE)
+
+### Computer_FileSharing
+Note: (We do not ensure the security of any file transfer service, nor endorse any services that are used for NDA'd content. We are not responsible for where your file transfers go.)
+- [File.io](https://www.file.io/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) 
+- [Wetransfer](https://wetransfer.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+
 ### Computer_RemoteAccess
 - [AnyDesk](https://anydesk.com/en/downloads/windows)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Chrome Remote Desktop](https://remotedesktop.google.com/?pli=1)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
@@ -290,25 +305,10 @@ COMING SOON!!!!
 - [TeamViewer](https://www.teamviewer.com/en-us/content/free-download-with-license-options/)
 - [Teradici PCoIP](https://teradici.com/)
   
-### Computer_ExcecutableCreation
-- [Node-Red](https://nodered.org/)  (Cross Platform visual IDE)
-- [Xojo](https://www.xojo.com/)  (Cross Platform visual IDE)
-
-### Computer_Automation
-- [AutoHotkey](https://www.autohotkey.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [Keyboard Maestro](https://www.keyboardmaestro.com/main/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)  Now that I'm primarily PC-based... I miss this app on a daily basis! :cry:
-- [Octopus](https://www.octopusshowcontrol.com/)
-- [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
-
 ### Computer_Optimization
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Overclocking Management 
 - [HWINFO](https://www.hwinfo.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Hardware Monitor
 - [ModBros](https://www.mod-bros.com)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
-
-### Computer_FileSharing
-Note: (We do not ensure the security of any file transfer service, nor endorse any services that are used for NDA'd content. We are not responsible for where your file transfers go.)
-- [File.io](https://www.file.io/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) 
-- [Wetransfer](https://wetransfer.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 
 ### Computer_VersionControl
 - [Git](https://git-scm.com/)
