@@ -1,3 +1,5 @@
+[https://fonts.google.com/icons?selected=Material%20Symbols%20Outlined%3Ahome_repair_service%3AFILL%400%3Bwght%40400%3BGRAD%400%3Bopsz%4024]
+
 
 # ToolBox
 An extensive list of apps for audiovisual production and creative programming use cases. First made public on Interactive & Immersive HQ.  
