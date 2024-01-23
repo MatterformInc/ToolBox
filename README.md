@@ -424,9 +424,9 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ## //TouchDesignerTools
 - [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40jonglissimo_(Manuel_Mitasch)-%232b2a28?logo=github)](https://github.com/jonglissimo)
-- [PROMOTE](https://derivative.ca/community-post/asset/promote/68631) by Unveil Studio
-- [RabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) by Markus Heckmann (@snaut on TD Forum)
-- [Timekeeper](https://github.com/theexperiential/Timekeeper) by The Experiential
+- [PROMOTE](https://derivative.ca/community-post/asset/promote/68631) ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Unveil Studio
+- [RabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Markus Heckmann (@snaut on TD Forum)
+- [Timekeeper](https://github.com/theexperiential/Timekeeper) ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by The Experiential
 
 
 
