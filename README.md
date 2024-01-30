@@ -146,6 +146,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Troikatronix Isadora](https://troikatronix.com/)
 - [Tooll.io](https://tooll.io/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Tooll-%232b2a28?logo=github)](https://github.com/tooll3/t3)
 - [TouchDeisgner](https://derivative.ca/download)
+- [Volta XR](https://www.volta-xr.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Live-performance focused, audio reactive visuals 
 - [vvvv](https://visualprogramming.net/)
 
 ### Video_ProjectionMappingApps
