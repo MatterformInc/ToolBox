@@ -198,12 +198,20 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Cantabile](https://www.cantabilesoftware.com/ )  Live Performance VST App
 - [Dante](https://www.audinate.com/products/software/dante-controller)  Extremely efficient audio over network protocol / hardware integration system 
 - [REAPER](https://www.reaper.fm/)  DAW
-  
+
 <!--- ### Audio-GenerativeApps --->
 ### Audio_MusicVisualization
 - [Milkdrop](https://www.geisswerks.com/about_milkdrop.html)  Music visualizer 
 - [Nestdrop](https://nestimmersion.ca/nestdrop.php)   Music visualizer
 - [Synesthesia](https://synesthesia.live/)  Music visualizer
+
+### Audio_Utility
+- [Audio Hijack](https://rogueamoeba.com/audiohijack/)
+- [Blackhole](https://existential.audio/blackhole/)
+- [Loopback](https://rogueamoeba.com/loopback/)
+- [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/)
+- [Voicemeeter](https://vb-audio.com/Voicemeeter/banana.htm)
+
 
 
 ## //SystemTools
