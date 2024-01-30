@@ -331,6 +331,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 **Webcam Emulation:**
    - [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
+   - [NVIDIA Broadcast](https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/)
    - [Syphon Virtual Webcam](https://troikatronix.com/add-ons/syphon-virtual-webcam/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
    - [Spout Virtual Webcam](https://github.com/leadedge/SpoutCam)
 
