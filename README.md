@@ -26,6 +26,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Virtual Production Apps](#Video_VirtualProductionApps)
 - [Audio Tools](#AudioTools)
    - [Audio Integration](#Audio_Integration)
+   - [Audio Utility](#Audio_Utility)
    - [Music Visualization](#Audio_MusicVisualization)
 - [System Hardware Control and Management](#System_HardwareControlNetwork)
    - [Signal Flow Diagram Apps](#System_SignalFlowDiagramApps)
