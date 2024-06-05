@@ -450,6 +450,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 ## //HardwareTools
 ### Hardware_PhysicalControllers
 - [Bitfocus Companion on Raspberry Pi](https://bitfocus.io/companion-pi)
+- [Densitron Hardware Control Panels](https://www.densitron.com/control-panels/products)
 - [StreamDeck XL](https://www.elgato.com/us/en/p/stream-deck-xl)
 - [StreamDeck Plus](https://www.elgato.com/us/en/p/stream-deck-plus-black)
 
