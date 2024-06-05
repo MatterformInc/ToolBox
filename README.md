@@ -164,7 +164,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [pixl Grid Multi](https://videowalrus.com/pixl-grid/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Video Walrus
 - [Test Pattern Generator](https://vioso.com/testpattern-generator/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by VIOSO
 - [TV Testcard Generator](https://testcardgen.onrender.com)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [Official Test Pattern Library](https://www.murideo.com/test-pattern-library.html)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Murideo
+- [Official Test Pattern Library](https://www.murideo.com/test-pattern-library.html)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Murideo
+- [Open EXR Test Images](https://openexr.com/en/latest/test_images/index.html)
 
 ### Video_UtilityApps
 - [NDI Video Tools](https://ndi.video/tools/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
@@ -335,6 +336,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 **Video Tools:**
    - [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
    - [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
+   - [EXR Test Images](https://openexr.com/en/latest/test_images/index.html)
 
 **Webcam Emulation:**
    - [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
