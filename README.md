@@ -203,9 +203,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 <!--- ### Audio-GenerativeApps --->
 ### Audio_MusicVisualization
-- [Milkdrop](https://www.geisswerks.com/about_milkdrop.html)  Music visualizer 
-- [Nestdrop](https://nestimmersion.ca/nestdrop.php)   Music visualizer
-- [Synesthesia](https://synesthesia.live/)  Music visualizer
+- [Milkdrop](https://www.geisswerks.com/about_milkdrop.html)   
+- [Nestdrop](https://nestimmersion.ca/nestdrop.php)   
+- [Synesthesia](https://synesthesia.live/)  
 
 ### Audio_Spatial
 - [Space Controller OSC](https://soundparticles.com/products/spacecontroller-osc)
