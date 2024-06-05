@@ -490,7 +490,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Lynx Testor 3G](https://www.lynx-technik.com/products/testor/test-generators/ptg-1802-testor-lite-3g-sdi-test-pattern-generator/)
 - [Murideo Calibration & Test Hardware](https://www.murideo.com/)
 - [Phabrixm SX Tag](https://www.phabrix.com/products/sxtag/)  - Very portable, and powerful.
-- [Tektronix](tek.com)  - The WFM2300 is a great scientific analyzer device. 
+- [Tektronix](https://www.tek.com/en)  - The WFM2300 is a great scientific analyzer device. 
 
 ## Hardware_DIY
 
