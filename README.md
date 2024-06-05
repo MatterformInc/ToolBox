@@ -6,7 +6,7 @@ I would recommend using Middle-Click or Right Click > "Open in New Tab" to open 
 
 All tools are sorted alphabetically! Have fun! Recommendations can be made by making Issues for REQUESTS.md!
 
-- [Special thanks to list contributors:](#SpecialThanks)
+- [Special thanks to list contributors:](#Special-Thanks)
   
 <!--- ------------------------------------------------------------START OF TABLE OF CONTENTS----------------------------------------------------------------------- --->
 
@@ -505,7 +505,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Ubiquiti: Pro Max 24 PoE](https://store.ui.com/us/en/pro/category/all-switching/collections/unifi-switching-pro-max/products/usw-pro-max-24-poe)
 
 
-# SpecialThanks
+# Special-Thanks
 - Adam Amaral - [Master of Shapes](https://masterofshapes.com/)
 - Akash Bartlett - [Bartlett Lighting](https://www.bartlettlighting.com/)
 - Ana Carolina - [Aestarita](https://www.aestarita.com/)
