@@ -200,6 +200,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Cantabile](https://www.cantabilesoftware.com/ )  Live Performance VST App
 - [Dante](https://www.audinate.com/products/software/dante-controller)  Extremely efficient audio over network protocol / hardware integration system 
 - [REAPER](https://www.reaper.fm/)  DAW
+- [VCV Rack](https://vcvrack.com/)
 
 <!--- ### Audio-GenerativeApps --->
 ### Audio_MusicVisualization
