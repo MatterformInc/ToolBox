@@ -28,6 +28,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Audio Integration](#Audio_Integration)
    - [Audio Utility](#Audio_Utility)
    - [Music Visualization](#Audio_MusicVisualization)
+   - [Audio_Spatial](#Audio_Spatial)
 - [System Hardware Control and Management](#System_HardwareControlNetwork)
    - [Signal Flow Diagram Apps](#System_SignalFlowDiagramApps)
 - [Production Tools](#ProductionTools)
@@ -206,6 +207,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Nestdrop](https://nestimmersion.ca/nestdrop.php)   Music visualizer
 - [Synesthesia](https://synesthesia.live/)  Music visualizer
 
+### Audio_Spatial
+- [Space Controller OSC](https://soundparticles.com/products/spacecontroller-osc)
+
 ### Audio_Utility
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/)
 - [Blackhole](https://existential.audio/blackhole/)
@@ -294,8 +298,10 @@ COMING SOON!!!!
 ### Computer_Automation
 - [AutoHotkey](https://www.autohotkey.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)  Now that I'm primarily PC-based... I miss this app on a daily basis! :cry:
+- [Powertoys by Microsoft](https://github.com/microsoft/PowerToys/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Octopus](https://www.octopusshowcontrol.com/)
-- [VICREO Hotkey Listener](https://www.vicreo-listener.com/) 
+- [VICREO Hotkey Listener](https://www.vicreo-listener.com/)
+  
 
 ### Computer_ExcecutableCreation
 - [Node-Red](https://nodered.org/)  (Cross Platform visual IDE)
@@ -357,6 +363,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Art-Net Recorder](https://hautetechnique.com/artnet/artnetrecorder/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [ChatGPT](https://chat.openai.com/)  Send it your code, ask what's wrong, ask it to convert data to various formats!
 - [Code Beautifier](https://codebeautify.org/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  For those "what am I doing wrong..." 3am evenings.
+- [OSC Data Monitor](https://www.kasperkamperman.com/blog/processing-code/osc-datamonitor/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [PresentMon](https://github.com/GameTechDev/PresentMon)  GPU Hardware Debugger / Troubleshooter
 - [Protokol](https://hexler.net/protokol)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Awesome OSC, MIDI, Gamepad protocol checker!
 - [sACN View](https://sacnview.org/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
@@ -457,6 +464,8 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ## Hardware_DMXConsoles
 
+### Hardware_DMXAdapters
+- [Enttec]()
 ### Hardware_DMXConsoles-EntryLevel
 - [ADJ: WMX1](https://www.adj.com/wmx1)
 - [ETC: ColorSource](https://www.etcconnect.com/Products/Consoles/ColorSource/Features.aspx)
@@ -464,12 +473,26 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [ETC: Eos-Consoles](https://www.etcconnect.com/Products/Consoles/Eos-Consoles/?LangType=1033)
 - [High End Systems: Hog-4](https://www.etcconnect.com/Products/High-End-Systems/Hog-4-Consoles/)
 - [MA Lighting: GrandMA 3](https://www.malighting.com/grandma3/products/) 
-- [Vari-Lite: Neo](https://www.vari-lite.com/global/products/neo-console) 
+- [Vari-Lite: Neo](https://www.vari-lite.com/global/products/neo-console)
+
+## Hardware_Video
 
 ### Hardware_Video-Converters
 - [Middle Things: Camera Box](https://store.middlethings.co/collections/middle-fiber/products/fiber-camera-box-6g)
 - [Middle Things: Fiber Unite 12G](https://store.middlethings.co/collections/middle-fiber/products/fiber-unite-5-6g)
 - [Theatrixx Video Converters](https://theatrixx.com/brand/theatrixx/#xvision-converter-series)
+- [Vizrt Connect Solo](https://www.vizrt.com/products/solo/)
+
+### Hardware_Video-Tester
+- [AVMatrix PG4K](https://www.avmatrix.com/products/12g-sdi-signal-generator/)
+- [Blackmagic Design Video Assist](https://www.blackmagicdesign.com/products/blackmagicvideoassist) 
+- [FSI Tempo 12G](https://www.shopfsi.com/SmartCAM-Tempo-p/smartcam.tempo.htm)
+- [Lynx Testor 3G](https://www.lynx-technik.com/products/testor/test-generators/ptg-1802-testor-lite-3g-sdi-test-pattern-generator/)
+- [Murideo Calibration & Test Hardware](https://www.murideo.com/)
+- [Phabrixm SX Tag](https://www.phabrix.com/products/sxtag/)  - Very portable, and powerful.
+- [Tektronix](tek.com)  - The WFM2300 is a great scientific analyzer device. 
+
+## Hardware_DIY
 
 ### Hardware_DIY
 - [Phidgets](https://www.phidgets.com/)
