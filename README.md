@@ -479,7 +479,8 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 ## Hardware_DMXConsoles
 
 ### Hardware_DMXAdapters
-- [Enttec]()
+- [Enttec](https://www.enttec.com/product/dmx-distribution/10-universe-ethernet-to-dmx-adapter/)
+- [Enttec USB](https://www.enttec.com/dmx-usb-interface/)
 ### Hardware_DMXConsoles-EntryLevel
 - [ADJ: WMX1](https://www.adj.com/wmx1)
 - [ETC: ColorSource](https://www.etcconnect.com/Products/Consoles/ColorSource/Features.aspx)
