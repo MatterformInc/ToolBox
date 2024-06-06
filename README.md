@@ -483,22 +483,6 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [StreamDeck XL](https://www.elgato.com/us/en/p/stream-deck-xl)
 - [StreamDeck Plus](https://www.elgato.com/us/en/p/stream-deck-plus-black)
 
-## Hardware_DMXConsoles
-
-### Hardware_DMXAdapters
-- [Dragon Controllers](https://mattosdesigns.com/collections/dragon-controllers)
-- [Enttec](https://www.enttec.com/product/dmx-distribution/10-universe-ethernet-to-dmx-adapter/)
-- [Enttec USB](https://www.enttec.com/dmx-usb-interface/)
-### Hardware_DMXConsoles-EntryLevel
-- [ADJ: WMX1](https://www.adj.com/wmx1)
-- [Enttec 2 Universe DMX Player](https://www.enttec.com/product/lighting-show-recorder/s-play-mini-2-universe-smart-light-show-controller/)
-- [ETC: ColorSource](https://www.etcconnect.com/Products/Consoles/ColorSource/Features.aspx)
-### Hardware_DMXConsoles-ProLevel
-- [ETC: Eos-Consoles](https://www.etcconnect.com/Products/Consoles/Eos-Consoles/?LangType=1033)
-- [High End Systems: Hog-4](https://www.etcconnect.com/Products/High-End-Systems/Hog-4-Consoles/)
-- [MA Lighting: GrandMA 3](https://www.malighting.com/grandma3/products/) 
-- [Vari-Lite: Neo](https://www.vari-lite.com/global/products/neo-console)
-
 ## Hardware_Video
 
 ### Hardware_Video-Converters
@@ -581,6 +565,26 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 ### Hardware_PC
 - [Logical Incriments](https://www.logicalincrements.com/)  PC components comparison grid, top of the line, full specs shootout
 - [RTINGS](https://www.rtings.com/laptop)
+
+
+
+## Hardware_Lighting
+
+### Hardware_Lighting-DMXAdapters
+- [Dragon Controllers](https://mattosdesigns.com/collections/dragon-controllers)
+- [Enttec](https://www.enttec.com/product/dmx-distribution/10-universe-ethernet-to-dmx-adapter/)
+- [Enttec USB](https://www.enttec.com/dmx-usb-interface/)
+### Hardware_Lighting-DMXConsoles-EntryLevel
+- [ADJ: WMX1](https://www.adj.com/wmx1)
+- [Enttec 2 Universe DMX Player](https://www.enttec.com/product/lighting-show-recorder/s-play-mini-2-universe-smart-light-show-controller/)
+- [ETC: ColorSource](https://www.etcconnect.com/Products/Consoles/ColorSource/Features.aspx)
+### Hardware_Lighting-DMXConsoles-ProLevel
+- [ETC: Eos-Consoles](https://www.etcconnect.com/Products/Consoles/Eos-Consoles/?LangType=1033)
+- [High End Systems: Hog-4](https://www.etcconnect.com/Products/High-End-Systems/Hog-4-Consoles/)
+- [MA Lighting: GrandMA 3](https://www.malighting.com/grandma3/products/) 
+- [Vari-Lite: Neo](https://www.vari-lite.com/global/products/neo-console)
+
+
 
 # Special-Thanks
 - Adam Amaral - [Master of Shapes](https://masterofshapes.com/)
