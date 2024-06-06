@@ -1,6 +1,6 @@
 
 # ToolBox
-An extensive list of apps for audiovisual production and creative programming use cases. First made public on Interactive & Immersive HQ.  
+An extensive list of softwrae and hardware for audiovisual production and creative programming use cases. First made public on Interactive & Immersive HQ.  
 
 I would recommend using Middle-Click or Right Click > "Open in New Tab" to open links as Github doesn't allow for a new tab to be created when opening a link sadly.
 
@@ -173,10 +173,11 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ### Video_UtilityApps
 - [Drastic’s 4K Scope SDI Video Scope](https://www.drastic.tv/productsmenu-56/test-and-measurement/4kscope)
 - [OBS](https://obsproject.com/)
-- [Scopebox](https://hedge.video/scopebox)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-- [Sienna-NDI Tools](https://www.sienna-tv.com/ndi/)
+- [Livegrade Pro](https://pomfort.com/livegradepro/)
 - [NDI Video Tools](https://ndi.video/tools/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Nobe Omniscope](https://timeinpixels.com/nobe-omniscope/)
+- [Scopebox](https://hedge.video/scopebox)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [Sienna-NDI Tools](https://www.sienna-tv.com/ndi/)
 
 ### Video_VirtualProductionApps
 - [7th Sense](https://portal.7thsense.one/online-help/index.html?online_help_home_page.html)
@@ -493,10 +494,12 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 ## Hardware_Video
 
 ### Hardware_Video-Converters
+- [FSI Box IO LUT Box](https://www.flandersscientific.com/boxio/)
 - [Middle Things: Camera Box](https://store.middlethings.co/collections/middle-fiber/products/fiber-camera-box-6g)
 - [Middle Things: Fiber Unite 12G](https://store.middlethings.co/collections/middle-fiber/products/fiber-unite-5-6g)
 - [Theatrixx Video Converters](https://theatrixx.com/brand/theatrixx/#xvision-converter-series)
 - [Vizrt Connect Solo](https://www.vizrt.com/products/solo/)
+  
 
 ### Hardware_Video-Testers
 - [AVMatrix PG4K](https://www.avmatrix.com/products/12g-sdi-signal-generator/)
