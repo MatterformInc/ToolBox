@@ -344,8 +344,9 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 **Video Tools:**
    - [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
-   - [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
+   - [Dragonframe Stop Motion](https://www.dragonframe.com/dragonframe-software/) 
    - [EXR Test Images](https://openexr.com/en/latest/test_images/index.html)
+   - [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
 
 **Webcam Emulation:**
    - [NDI Virtual Webcam](https://ndi.video/tools/ndi-webcam/)
@@ -480,6 +481,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 ## Hardware_DMXConsoles
 
 ### Hardware_DMXAdapters
+- [Dragon Controllers](https://mattosdesigns.com/collections/dragon-controllers)
 - [Enttec](https://www.enttec.com/product/dmx-distribution/10-universe-ethernet-to-dmx-adapter/)
 - [Enttec USB](https://www.enttec.com/dmx-usb-interface/)
 ### Hardware_DMXConsoles-EntryLevel
@@ -506,14 +508,19 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Blackmagic Design Video Assist](https://www.blackmagicdesign.com/products/blackmagicvideoassist) 
 - [FSI Tempo 12G](https://www.shopfsi.com/SmartCAM-Tempo-p/smartcam.tempo.htm)
 - [Lynx Testor 3G](https://www.lynx-technik.com/products/testor/test-generators/ptg-1802-testor-lite-3g-sdi-test-pattern-generator/)
+- [Liliput SG-12G](https://lilliputdirect.com/Lilliput-SG-12G) 
 - [Murideo Calibration & Test Hardware](https://www.murideo.com/)
 - [Phabrixm SX Tag](https://www.phabrix.com/products/sxtag/)  - Very portable, and powerful.
 - [Tektronix](https://www.tek.com/en)  - The WFM2300 is a great scientific analyzer device. 
 
 ## Hardware_Robotics
-- [Cinebot Mini](https://www.mrmoco.com/motion-control/cinebot-mini/)
-- [Edelkrone](https://edelkrone.com/products/headone) 
+- [MRMC Cinebot Mini](https://www.mrmoco.com/motion-control/cinebot-mini/)
+- [MRMC Bolt](https://www.mrmoco.com/motion-control/bolt/)
+- [Edelkrone Headplus](https://edelkrone.com/products/headplus)
+- [iFootage Gear](https://www.ifootagegear.com/products/shark-slider-nano)
 - [Kuka](https://www.kuka.com/en-us/products/robotics-systems/industrial-robots)
+- [Kessler Cineshooter](https://kesslercrane.com/pages/cineshooter)
+- [Shark Slider Nano](https://www.ifootagegear.com/products/shark-slider-nano)
 - [XD Motion](https://xd-motion.com/)
 
 
