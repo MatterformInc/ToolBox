@@ -102,6 +102,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDesigner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [Vor](https://getvor.app/)
 
 ### ShowControl_ControlInterfaceApps
 - [Chameleon](https://savethehuman5.com/)
