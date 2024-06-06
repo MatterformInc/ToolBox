@@ -12,8 +12,8 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## Contents
 - [Show Control Tools](#ShowControl)
-   - [Show Control Apps](#ShowControl_Apps)
    - [Control Interface Apps](#ShowControl_ControlInterfaceApps)
+   - [Show Control Apps](#ShowControl_Apps)
    - [Timecode Apps](#ShowControl_TimecodeApps)
 - [Video Tools](#VideoTools)
    - [AR Tools](#Video-ARTools)
@@ -86,6 +86,17 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 
 ## ShowControl
+
+### ShowControl_ControlInterfaceApps
+- [Chameleon](https://savethehuman5.com/)
+- [Open Stage Control](https://openstagecontrol.ammd.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Jean_Emmanuel-%232b2a28?logo=github)](https://github.com/jean-emmanuel)
+- [OSC/PILOT](https://oscpilot.com/)  by Joel Zimmerman + Crew
+- [Mitti](https://imimot.com/mitti/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40jonglissimo_(Manuel_Mitasch)-%232b2a28?logo=github)](https://github.com/jonglissimo)
+- [SudoSignals](https://www.sudosignals.com/)  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
+- [TouchOSC](https://hexler.net/touchosc)
+- [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
+
 ### ShowControl_Apps
 - [Bitfocus Companion](https://bitfocus.io/companion)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Interoperability focused macro creation app. Production hardware protocols already included! 
 - [Central Control](https://centralcontrol.io/)
@@ -101,16 +112,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDesigner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-
-### ShowControl_ControlInterfaceApps
-- [Chameleon](https://savethehuman5.com/)
-- [Open Stage Control](https://openstagecontrol.ammd.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Jean_Emmanuel-%232b2a28?logo=github)](https://github.com/jean-emmanuel)
-- [OSC/PILOT](https://oscpilot.com/)  by Joel Zimmerman + Crew
-- [Mitti](https://imimot.com/mitti/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40jonglissimo_(Manuel_Mitasch)-%232b2a28?logo=github)](https://github.com/jonglissimo)
-- [SudoSignals](https://www.sudosignals.com/)  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
-- [TouchOSC](https://hexler.net/touchosc)
-- [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
 
 ### ShowControl_TimecodeApps
 - [El-Tee-See 2](https://elteesee.pehrhovey.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
