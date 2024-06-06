@@ -87,16 +87,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## ShowControl
 
-### ShowControl_ControlInterfaceApps
-- [Chameleon](https://savethehuman5.com/)
-- [Open Stage Control](https://openstagecontrol.ammd.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Jean_Emmanuel-%232b2a28?logo=github)](https://github.com/jean-emmanuel)
-- [OSC/PILOT](https://oscpilot.com/)  by Joel Zimmerman + Crew
-- [Mitti](https://imimot.com/mitti/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40jonglissimo_(Manuel_Mitasch)-%232b2a28?logo=github)](https://github.com/jonglissimo)
-- [SudoSignals](https://www.sudosignals.com/)  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
-- [TouchOSC](https://hexler.net/touchosc)
-- [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
-
 ### ShowControl_Apps
 - [Bitfocus Companion](https://bitfocus.io/companion)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Interoperability focused macro creation app. Production hardware protocols already included! 
 - [Central Control](https://centralcontrol.io/)
@@ -112,6 +102,16 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Stage Precision](https://www.stageprecision.com/)
 - [TouchDesigner](https://derivative.ca/download)
 - [Vezer](https://imimot.com/vezer/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+
+### ShowControl_ControlInterfaceApps
+- [Chameleon](https://savethehuman5.com/)
+- [Open Stage Control](https://openstagecontrol.ammd.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Jean_Emmanuel-%232b2a28?logo=github)](https://github.com/jean-emmanuel)
+- [OSC/PILOT](https://oscpilot.com/)  by Joel Zimmerman + Crew
+- [Mitti](https://imimot.com/mitti/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40jonglissimo_(Manuel_Mitasch)-%232b2a28?logo=github)](https://github.com/jonglissimo)
+- [SudoSignals](https://www.sudosignals.com/)  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)
+- [TouchOSC](https://hexler.net/touchosc)
+- [Unreal Engine Web Control](https://docs.unrealengine.com/5.3/en-US/remote-control-web-application-for-unreal-engine/)
 
 ### ShowControl_TimecodeApps
 - [El-Tee-See 2](https://elteesee.pehrhovey.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
@@ -142,6 +142,13 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Resolume](https://resolume.com/download/)
 - [Smode](https://www.smode.io/en/) 
 - [VDMX](https://vidvox.net/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+
+### Video_ProjectionMappingApps
+- [Heavy M](https://www.heavym.net/)
+- [Mad Mapper](https://madmapper.com/)	
+- [Mapping Matter](https://www.mappingmatter.com/) Great projection mapping coverage calculator
+- [Modulo Pi](https://www.modulo-pi.com/) 
+- [VIOSO](https://vioso.com/)
   
 ### Video_RealTimeVisuals
 - [cables.gl](https://cables.gl/)
@@ -153,13 +160,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [TouchDeisgner](https://derivative.ca/download)
 - [Volta XR](https://www.volta-xr.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Live-performance focused, audio reactive visuals 
 - [vvvv](https://visualprogramming.net/)
-
-### Video_ProjectionMappingApps
-- [Heavy M](https://www.heavym.net/)
-- [Mad Mapper](https://madmapper.com/)	
-- [Mapping Matter](https://www.mappingmatter.com/) Great projection mapping coverage calculator
-- [Modulo Pi](https://www.modulo-pi.com/) 
-- [VIOSO](https://vioso.com/)
 
 ### Video_TestPatternPixelMapGenerator
 - [Artio ](https://github.com/theexperiential/Artio)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
@@ -227,6 +227,10 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ## //SystemTools
 ### System_HardwareControlNetwork
+
+**Audio**
+   - [Dante](https://www.audinate.com/products/software/dante-controller)  Extremely efficient audio over network protocol / hardware integration system 
+
 **Installation Management and Control**
    - [SudoSignals](https://www.sudosignals.com/)  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)  Super high-level installation management app, and project health/runtime reporter/logger 
 
@@ -242,9 +246,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 **Video**
    - [Megapixel VR](https://megapixelvr.com/) Smart video hardware management for large scale LED wall installations / show networks. Also works as an issue reporter/logger
-
-**Audio**
-   - [Dante](https://www.audinate.com/products/software/dante-controller)  Extremely efficient audio over network protocol / hardware integration system 
 
 ### System_SignalFlowDiagramApps
 - [Diagrams.net](https://app.diagrams.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
@@ -276,19 +277,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Shadertoy](https://www.shadertoy.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 
 ## //AITools
-### AI_MachineLearning
-- [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)
-- [ControlNet](https://github.com/lllyasviel/ControlNet)
-
-### AI_GPT
-- [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
-- [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
-- [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
-- [GPT Engineer](https://gptengineer.app/)  Beta, instant GPT web development prototyper
-
-### AI_Video
-- [Move.ai](https://www.move.ai/)
-- [Stability.ai](https://www.stability.ai/)
 
 ### AI_GenerativeImage
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
@@ -303,6 +291,19 @@ COMING SOON!!!!
 - []()
 - []() -->
  
+### AI_GPT
+- [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
+- [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
+- [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
+- [GPT Engineer](https://gptengineer.app/)  Beta, instant GPT web development prototyper
+
+### AI_MachineLearning
+- [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning)
+- [ControlNet](https://github.com/lllyasviel/ControlNet)
+
+### AI_Video
+- [Move.ai](https://www.move.ai/)
+- [Stability.ai](https://www.stability.ai/)
 
 
 ## //ComputerTools
@@ -336,11 +337,6 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [HWINFO](https://www.hwinfo.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Hardware Monitor
 - [ModBros](https://www.mod-bros.com)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
 
-### Computer_VersionControl
-- [Git](https://git-scm.com/)
-- [Github](https://github.com/)
-- [Perforce Helix Core](https://www.perforce.com/products/helix-core)
-
 ### Computer_VariousBitsOfSoftware
 **Studio Tools**
    - [Timeline Theatrics](https://www.timelinetheatrics.com/)
@@ -370,6 +366,10 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
    - [ShareMouse](https://www.sharemouse.com/)
    - [Synergy](https://symless.com/synergy)
    
+### Computer_VersionControl
+- [Git](https://git-scm.com/)
+- [Github](https://github.com/)
+- [Perforce Helix Core](https://www.perforce.com/products/helix-core)
 
 
 ## //DebuggingTools
@@ -400,9 +400,6 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [OpenVPN](https://openvpn.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [tailscale](https://tailscale.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [ZeroTier](https://zerotier.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-
-
-
 
 
 
@@ -509,7 +506,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Phabrixm SX Tag](https://www.phabrix.com/products/sxtag/)  - Very portable, and powerful.
 - [Tektronix](https://www.tek.com/en)  - The WFM2300 is a great scientific analyzer device. 
 
-#H Hardware_Robotics
+## Hardware_Robotics
 - [Cinebot Mini](https://www.mrmoco.com/motion-control/cinebot-mini/)
 - [Edelkrone](https://edelkrone.com/products/headone) 
 - [Kuka](https://www.kuka.com/en-us/products/robotics-systems/industrial-robots)
@@ -517,7 +514,6 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 
 ## Hardware_Tracking
-
 ### Hardware_Tracking-Camera
 - [Antilatency](https://antilatency.com/)
 - [EZTrack](https://eztrack.studio/)  
@@ -543,13 +539,14 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [TraceUp](https://traceup.com/)
 - [ZeroKey](https://zerokey.com/quantum-rtls/#products)
 
-## Hardware_DIY
 
+## Hardware_DIY
 ### Hardware_DIY
 - [Adafruit](https://www.adafruit.com/)
 - [Phidgets](https://www.phidgets.com/)
 
-### Hardware_Network
+## Hardware_Network
+### Hardware_Network-Switches
 - [GL-iNET](https://www.gl-inet.com/products/)
 - [Netgear M4250](https://www.netgear.com/business/wired/switches/fully-managed/gsm4212p/)
 - [Ubiquiti: Edge Router](https://store.ui.com/us/en/products/er-x)
