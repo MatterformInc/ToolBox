@@ -231,7 +231,12 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 **Lighting** 
    - [KLSTR](https://www.klstr.tech/)  Smart lighting interconnectivity app for managing lighting installations / show networks
    - [Light Jams](https://www.lightjams.com/getIt.html/) 
-   - [SIDUS](https://www.sidus.link/) 
+   - [Lightkey](https://lightkeyapp.com/en)
+   - [MA onPC](https://www.malighting.com/downloads/products/grandma3/)
+   - [SIDUS](https://www.sidus.link/)
+   - [Capture Visualization](https://www.capture.se/)
+   - [wysiwyg Visualizer](https://cast-soft.com/)
+   - [Vectorworks](https://www.vectorworks.net/en-US/vision)
 
 **Video**
    - [Megapixel VR](https://megapixelvr.com/) Smart video hardware management for large scale LED wall installations / show networks. Also works as an issue reporter/logger
@@ -335,6 +340,9 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Perforce Helix Core](https://www.perforce.com/products/helix-core)
 
 ### Computer_VariousBitsOfSoftware
+**Studio Tools**
+   - [Timeline Theatrics](https://www.timelinetheatrics.com/)
+
 **Video Tools:**
    - [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
    - [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
