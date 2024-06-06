@@ -571,7 +571,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ### Hardware_Lighting-DMXAdapters
 - [Dragon Controllers](https://mattosdesigns.com/collections/dragon-controllers)
-- [Enttec](https://www.enttec.com/product/dmx-distribution/10-universe-ethernet-to-dmx-adapter/)
+- [Enttec Storm 10 Network Decoder](https://www.enttec.com/product/dmx-distribution/10-universe-ethernet-to-dmx-adapter/)
 - [Enttec USB](https://www.enttec.com/dmx-usb-interface/)
 ### Hardware_Lighting-DMXConsoles-EntryLevel
 - [ADJ: WMX1](https://www.adj.com/wmx1)
