@@ -1,6 +1,6 @@
 
 # ToolBox
-An extensive list of softwrae and hardware for audiovisual production and creative programming use cases. First made public on Interactive & Immersive HQ.  
+An extensive list of software and hardware for AV, mutltimedia, production and creative programming use cases. First made public on Interactive & Immersive HQ.  
 
 I would recommend using Middle-Click or Right Click > "Open in New Tab" to open links as Github doesn't allow for a new tab to be created when opening a link sadly.
 
