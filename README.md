@@ -71,13 +71,12 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
       - [Video Converters](#Hardware_Video-Converters)
       - [Video Testers](#Hardware_Video-Testers)
    - [Robotics](#Hardware_Robotics)
-   - [DMX Consoles](#Hardware_DMXConsoles)
-      - [Entry Level](#Hardware_DMXConsoles-EntryLevel)
-      - [Pro Level](#Hardware_DMXConsoles-ProLevel)
    - [DIY Stores](#Hardware_DIY)
       - (COMING SOON)
-- [Lighting Tools](#LightingTools)
-   - (COMING SOON)
+- [Lighting Tools](#Hardware_Lighting)
+   - [DMX Consoles](#Hardware_Lighting-DMXConsoles)
+      - [Entry Level](#Hardware_Lighting-DMXConsoles-EntryLevel)
+      - [Pro Level](#Hardware_Lighting-DMXConsoles-ProLevel)
 <!--- END OF TABLE OF CONTENTS -------------------------------------------------------------------- --->
 
 
