@@ -510,7 +510,8 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Zeiss ncam](https://www.ncam-tech.com/)
   
 
-### Hardware_Tracking-Motion
+### Hardware_Tracking-MotionCapture
+- [Manus](https://www.manus-meta.com/)
 - [Movella](https://www.movella.com/products/motion-capture)
 - [Noitom](https://www.noitom.com/perception-neuron-series)
 - [Qualisys](https://www.qualisys.com/)
