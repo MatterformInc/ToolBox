@@ -235,12 +235,12 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [SudoSignals](https://www.sudosignals.com/)  [![GitHub](https://img.shields.io/badge/GitHub-%40[SudoMagic]-%232b2a28?logo=github)](https://github.com/SudoMagicCode)  Super high-level installation management app, and project health/runtime reporter/logger 
 
 **Lighting** 
+   - [Capture Visualization](https://www.capture.se/)
    - [KLSTR](https://www.klstr.tech/)  Smart lighting interconnectivity app for managing lighting installations / show networks
    - [Light Jams](https://www.lightjams.com/getIt.html/) 
    - [Lightkey](https://lightkeyapp.com/en)
    - [MA onPC](https://www.malighting.com/downloads/products/grandma3/)
    - [SIDUS](https://www.sidus.link/)
-   - [Capture Visualization](https://www.capture.se/)
    - [wysiwyg Visualizer](https://cast-soft.com/)
    - [Vectorworks](https://www.vectorworks.net/en-US/vision)
 
