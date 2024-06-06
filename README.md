@@ -65,10 +65,12 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [UX/UI Apps](#Design_UXUI)
 - [TouchDesigner Tools](#TouchDesignerTools)
 - [Hardware Tools](#HardwareTools)
-   - [Physical Controllers](#Hardware_PhysicalControllers)
    - [MIDI Controllers](#Hardware_MIDIControllers)
+   - [Physical Controllers](#Hardware_PhysicalControllers)
    - [Video](#Hardware_Video)
       - [Video Converters](#Hardware_Video-Converters)
+      - [Video Testers](#Hardware_Video-Testers)
+   - [Robotics](#Hardware_Robotics)
    - [DMX Consoles](#Hardware_DMXConsoles)
       - [Entry Level](#Hardware_DMXConsoles-EntryLevel)
       - [Pro Level](#Hardware_DMXConsoles-ProLevel)
@@ -451,11 +453,6 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 
 ## //HardwareTools
-### Hardware_PhysicalControllers
-- [Bitfocus Companion on Raspberry Pi](https://bitfocus.io/companion-pi)
-- [Densitron Hardware Control Panels](https://www.densitron.com/control-panels/products)
-- [StreamDeck XL](https://www.elgato.com/us/en/p/stream-deck-xl)
-- [StreamDeck Plus](https://www.elgato.com/us/en/p/stream-deck-plus-black)
 
 ### Hardware_MIDIControllers
 - [Ableton: Push](https://www.ableton.com/en/push/)
@@ -465,6 +462,12 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Novation: LaunchPad X](https://us.novationmusic.com/products/launchpad-x)
 - [Novation: Launch Control X1](https://us.novationmusic.com/products/launch-control-xl)
 - [Sparrow](https://themidimaker.com/products/sparrow-4x100mm-midi-controller)
+
+### Hardware_PhysicalControllers
+- [Bitfocus Companion on Raspberry Pi](https://bitfocus.io/companion-pi)
+- [Densitron Hardware Control Panels](https://www.densitron.com/control-panels/products)
+- [StreamDeck XL](https://www.elgato.com/us/en/p/stream-deck-xl)
+- [StreamDeck Plus](https://www.elgato.com/us/en/p/stream-deck-plus-black)
 
 ## Hardware_DMXConsoles
 
@@ -487,7 +490,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Theatrixx Video Converters](https://theatrixx.com/brand/theatrixx/#xvision-converter-series)
 - [Vizrt Connect Solo](https://www.vizrt.com/products/solo/)
 
-### Hardware_Video-Tester
+### Hardware_Video-Testers
 - [AVMatrix PG4K](https://www.avmatrix.com/products/12g-sdi-signal-generator/)
 - [Blackmagic Design Video Assist](https://www.blackmagicdesign.com/products/blackmagicvideoassist) 
 - [FSI Tempo 12G](https://www.shopfsi.com/SmartCAM-Tempo-p/smartcam.tempo.htm)
@@ -495,6 +498,13 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Murideo Calibration & Test Hardware](https://www.murideo.com/)
 - [Phabrixm SX Tag](https://www.phabrix.com/products/sxtag/)  - Very portable, and powerful.
 - [Tektronix](https://www.tek.com/en)  - The WFM2300 is a great scientific analyzer device. 
+
+#H Hardware_Robotics
+- [Cinebot Mini](https://www.mrmoco.com/motion-control/cinebot-mini/)
+- [Edelkrone](https://edelkrone.com/products/headone) 
+- [Kuka](https://www.kuka.com/en-us/products/robotics-systems/industrial-robots)
+- [XD Motion](https://xd-motion.com/)
+
 
 ## Hardware_Tracking
 
@@ -509,7 +519,6 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Zeiss CinCraft](https://cincraft.zeiss.com/us/introducing-zeiss-cincraft-scenario)
 - [Zeiss ncam](https://www.ncam-tech.com/)
   
-
 ### Hardware_Tracking-MotionCapture
 - [Manus](https://www.manus-meta.com/)
 - [Movella](https://www.movella.com/products/motion-capture)
@@ -522,12 +531,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Blacktrax](https://blacktrax.cast-soft.com/)
 - [Follow Me](https://follow-me.nu/)
 - [TraceUp](https://traceup.com/)
-
-##H Hardware_Robotics
-- [Cinebot Mini](https://www.mrmoco.com/motion-control/cinebot-mini/)
-- [Edelkrone](https://edelkrone.com/products/headone) 
-- [Kuka](https://www.kuka.com/en-us/products/robotics-systems/industrial-robots)
-- [XD Motion](https://xd-motion.com/)
+- [ZeroKey](https://zerokey.com/quantum-rtls/#products)
 
 ## Hardware_DIY
 
