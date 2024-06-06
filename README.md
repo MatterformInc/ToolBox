@@ -529,6 +529,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Manus](https://www.manus-meta.com/)
 - [Movella](https://www.movella.com/products/motion-capture)
 - [Noitom](https://www.noitom.com/perception-neuron-series)
+- [Optitrack](https://optitrack.com/)
 - [Qualisys](https://www.qualisys.com/)
 - [Rokoko](https://www.rokoko.com/)
 - [Vicon](https://www.vicon.com/)
