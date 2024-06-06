@@ -73,7 +73,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Robotics](#Hardware_Robotics)
    - [DIY Stores](#Hardware_DIY)
       - (COMING SOON)
-- [Lighting Tools](#Hardware_Lighting)
+- [Hardware_Lighting](#Hardware_Lighting)
    - [DMX Consoles](#Hardware_Lighting-DMXConsoles)
       - [Entry Level](#Hardware_Lighting-DMXConsoles-EntryLevel)
       - [Pro Level](#Hardware_Lighting-DMXConsoles-ProLevel)
