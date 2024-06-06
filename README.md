@@ -138,8 +138,11 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Disguise Designer](https://www.disguise.one/en/products/designer)
 - [Green Hippo Hippotizer](https://support.green-hippo.com/article/2-hippotizer-downloads)
 - [Millumin](https://www.millumin.com/v4/index.php)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
-- [Pixera](https://pixera.one/en/) 
+- [Pixera](https://pixera.one/en/)
+- [QLab](https://qlab.app/)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
+- [Renewed Vision Pro Video Player](https://renewedvision.com/provideoplayer/)
 - [Resolume](https://resolume.com/download/)
+- [Ross](https://www.rossvideo.com/live-production/video-servers-replay/)
 - [Smode](https://www.smode.io/en/) 
 - [VDMX](https://vidvox.net/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
@@ -449,6 +452,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 ### Design_UXUI
 - [Font Awesome](https://fontawesome.com/search?m=free&o=r)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Free Open Source Icon Libraries](https://www.toools.design/free-open-source-icon-libraries)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [Flutter](https://flutter.dev/)
 - [Open UI](https://open-ui.org/design-systems/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Best UX UI Design Tools of 2020](https://www.loginradius.com/blog/engineering/best-ui-ux-design-tools-2020/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 
@@ -486,6 +490,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Enttec USB](https://www.enttec.com/dmx-usb-interface/)
 ### Hardware_DMXConsoles-EntryLevel
 - [ADJ: WMX1](https://www.adj.com/wmx1)
+- [Enttec 2 Universe DMX Player](https://www.enttec.com/product/lighting-show-recorder/s-play-mini-2-universe-smart-light-show-controller/)
 - [ETC: ColorSource](https://www.etcconnect.com/Products/Consoles/ColorSource/Features.aspx)
 ### Hardware_DMXConsoles-ProLevel
 - [ETC: Eos-Consoles](https://www.etcconnect.com/Products/Consoles/Eos-Consoles/?LangType=1033)
@@ -501,7 +506,14 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Middle Things: Fiber Unite 12G](https://store.middlethings.co/collections/middle-fiber/products/fiber-unite-5-6g)
 - [Theatrixx Video Converters](https://theatrixx.com/brand/theatrixx/#xvision-converter-series)
 - [Vizrt Connect Solo](https://www.vizrt.com/products/solo/)
-  
+
+### Hardware_Video-Players
+- [ArKaos VS1 4K](https://pro.arkaos.com/media-servers/vs1-4k-media-server)
+- [Brightsign Players](https://www.brightsign.biz/brightsign-players/series-4/)
+- [Pro-Player Plus](https://www.proplayerplus.com/)
+- [MedeaWiz](https://www.medeawiz.com/)
+- [Neumi Atom 4K](https://www.neumitech.com/neumi-atom-4k-digital-media-player/)
+- [YoDeck Raspberry Pi](https://www.yodeck.com/raspberry-pi/)
 
 ### Hardware_Video-Testers
 - [AVMatrix PG4K](https://www.avmatrix.com/products/12g-sdi-signal-generator/)
@@ -564,6 +576,10 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Ubiquiti: Edge Router](https://store.ui.com/us/en/products/er-x)
 - [Ubiquiti: Pro Max 24 PoE](https://store.ui.com/us/en/pro/category/all-switching/collections/unifi-switching-pro-max/products/usw-pro-max-24-poe)
 
+## Hardware_Computers
+### Hardware_PC
+- [Logical Incriments](https://www.logicalincrements.com/)  PC components comparison grid, top of the line, full specs shootout
+- [RTINGS](https://www.rtings.com/laptop)
 
 # Special-Thanks
 - Adam Amaral - [Master of Shapes](https://masterofshapes.com/)
