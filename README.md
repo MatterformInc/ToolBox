@@ -502,10 +502,10 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Antilatency](https://antilatency.com/)
 - [EZTrack](https://eztrack.studio/)  
 - [Mo-Sys](https://www.mo-sys.com/)
+- [Pixotope Camera Tracking](https://www.pixotope.com/products/pixotope-camera-tracking)
+- [Retracker](https://www.retracker.co/)
 - [Stype](https://stype.tv/)
 - [Vive Mars](https://mars.vive.com/)
-- [Retracker](https://www.retracker.co/)
-- [Pixotope Camera Tracking](https://www.pixotope.com/products/pixotope-camera-tracking)
 - [Zeiss CinCraft](https://cincraft.zeiss.com/us/introducing-zeiss-cincraft-scenario)
 - [Zeiss ncam](https://www.ncam-tech.com/)
   
@@ -522,23 +522,22 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Blacktrax](https://blacktrax.cast-soft.com/)
 - [Follow Me](https://follow-me.nu/)
 - [TraceUp](https://traceup.com/)
-- [Kuka](https://www.kuka.com/en-us/products/robotics-systems/industrial-robots)
 
 ##H Hardware_Robotics
-- [XD Motion](https://xd-motion.com/)
 - [Cinebot Mini](https://www.mrmoco.com/motion-control/cinebot-mini/)
-- [Edelkrone](https://edelkrone.com/products/headone)
-- 
+- [Edelkrone](https://edelkrone.com/products/headone) 
+- [Kuka](https://www.kuka.com/en-us/products/robotics-systems/industrial-robots)
+- [XD Motion](https://xd-motion.com/)
 
 ## Hardware_DIY
 
 ### Hardware_DIY
-- [Phidgets](https://www.phidgets.com/)
 - [Adafruit](https://www.adafruit.com/)
+- [Phidgets](https://www.phidgets.com/)
 
 ### Hardware_Network
-- [Netgear M4250](https://www.netgear.com/business/wired/switches/fully-managed/gsm4212p/)
 - [GL-iNET](https://www.gl-inet.com/products/)
+- [Netgear M4250](https://www.netgear.com/business/wired/switches/fully-managed/gsm4212p/)
 - [Ubiquiti: Edge Router](https://store.ui.com/us/en/products/er-x)
 - [Ubiquiti: Pro Max 24 PoE](https://store.ui.com/us/en/pro/category/all-switching/collections/unifi-switching-pro-max/products/usw-pro-max-24-poe)
 
