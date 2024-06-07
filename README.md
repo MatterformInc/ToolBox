@@ -561,6 +561,12 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Ubiquiti: Edge Router](https://store.ui.com/us/en/products/er-x)
 - [Ubiquiti: Pro Max 24 PoE](https://store.ui.com/us/en/pro/category/all-switching/collections/unifi-switching-pro-max/products/usw-pro-max-24-poe)
 
+### Hardware_Network-Adapters
+- [ATTO 10G Adapter](https://shop.atto.com/products/10gbe-dual-port-ethernet-smartnic)
+- [Blackmagic Design Cloud Storage](https://www.blackmagicdesign.com/products/blackmagiccloudstore)
+- [GBLabs NAS Solutions](https://www.gblabs.com/)
+- [Mellanox 400G PCIe](https://www.fs.com/products/177272.html?country=US&currency=USD&languages=English&paid=google_shopping&utm_country=9030958&gad_source=1&gclid=CjwKCAjwvIWzBhAlEiwAHHWgvWKCR_-z9q_qK1utdk4lmB8n2l4G0OPaLnoZTxx6DZ6SZybEW3Pm0RoC_DgQAvD_BwE)
+
 ## Hardware_Computers
 ### Hardware_PC
 - [Logical Incriments](https://www.logicalincrements.com/)  PC components comparison grid, top of the line, full specs shootout
