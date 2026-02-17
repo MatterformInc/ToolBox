@@ -1,6 +1,6 @@
 
 # ToolBox
-An extensive list of software and hardware for AV, mutltimedia, production and creative programming use cases. First made public on Interactive & Immersive HQ.  
+An extensive list of software and hardware for AV, multimedia, production and creative programming use cases. First made public on Interactive & Immersive HQ.  
 
 I would recommend using Middle-Click or Right Click > "Open in New Tab" to open links as Github doesn't allow for a new tab to be created when opening a link sadly.
 
@@ -61,7 +61,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [3D Unreal Engine AddOns](#3D_UnrealEngineAddOns)
    - [3D Utility Apps](#3D_UtilityApps)
 - [Design Tools](#DesignTools)
-   - [Design Apps](Design_Apps)
+   - [Design Apps](#Design_Apps)
    - [UX/UI Apps](#Design_UXUI)
 - [TouchDesigner Tools](#TouchDesignerTools)
 - [Hardware Tools](#HardwareTools)
@@ -72,7 +72,6 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
       - [Video Testers](#Hardware_Video-Testers)
    - [Robotics](#Hardware_Robotics)
    - [DIY Stores](#Hardware_DIY)
-      - (COMING SOON)
 - [Hardware_Lighting](#Hardware_Lighting)
    - [DMX Consoles](#Hardware_Lighting-DMXConsoles)
       - [Entry Level](#Hardware_Lighting-DMXConsoles-EntryLevel)
@@ -95,6 +94,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Medialon](https://medialon.com/)
 - [Ontime](https://www.getontime.no/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Ossia Score](https://ossia.io/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [Ossia Score Modular Workflow Docs](https://ossia.io/score-docs/in-depth/modular-workflow.html)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [QLab](https://qlab.app/)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 - [rabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Rabbit_Control-%232b2a28?logo=github)](https://github.com/rabbitControl)
 - [ShowKontrol](https://www.tc-supply.com/home)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
@@ -124,11 +124,13 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ### Video_ARTools
 - [Effect House](https://effecthouse.tiktok.com/)
+- [Overly - WebAR vs App-Based AR](https://overlyapp.com/blog/webar-vs-app-based-augmented-reality-is-there-a-winning-solution/)
 - [Lens Studio](https://ar.snap.com/lens-studio)
 - [Metaspark](https://spark.meta.com/)
 
 ### Video_CameraHardwareControl
 - [atemOSC](https://www.atemosc.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [ATEM Camera Control UE5](https://github.com/gjverhoeff/atem-camera-control-ue5)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40gjverhoeff-%232b2a28?logo=github)](https://github.com/gjverhoeff)
 - [Bitfocus Companion](https://bitfocus.io/companion)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [ATEM Control Software](https://www.blackmagicdesign.com/products/atemmini/software)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Blackmagic Design
 - [Middle Control](https://www.middlethings.co/product-middle-control/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Middle Things 
@@ -143,11 +145,13 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [QLab](https://qlab.app/)  ![Static Badge](https://img.shields.io/badge/Free_Option-data?label=%24)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 - [Renewed Vision Pro Video Player](https://renewedvision.com/provideoplayer/)
 - [Resolume](https://resolume.com/download/)
+- [Camflex](https://github.com/pinkwerks/camflex)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40pinkwerks-%232b2a28?logo=github)](https://github.com/pinkwerks)  Camera flexibility for Resolume
 - [Ross](https://www.rossvideo.com/live-production/video-servers-replay/)
 - [Smode](https://www.smode.io/en/) 
 - [VDMX](https://vidvox.net/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 
 ### Video_ProjectionMappingApps
+- [Christie Mystique](https://www.christiedigital.com/products/warping-blending/mystique/)  Warping and blending
 - [Heavy M](https://www.heavym.net/)
 - [Mad Mapper](https://madmapper.com/)	
 - [Mapping Matter](https://www.mappingmatter.com/) Great projection mapping coverage calculator
@@ -156,17 +160,18 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
   
 ### Video_RealTimeVisuals
 - [cables.gl](https://cables.gl/)
+- [Vizzy](https://vizzy.io/)
 - [Notch](https://www.notch.one/support/downloads_area/)
 - [Resolume Wire](https://www.resolume.com/software/wire)
 - [Smode](https://www.smode.io/en/)
 - [Troikatronix Isadora](https://troikatronix.com/)
 - [Tooll.io](https://tooll.io/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Tooll-%232b2a28?logo=github)](https://github.com/tooll3/t3)
-- [TouchDeisgner](https://derivative.ca/download)
+- [TouchDesigner](https://derivative.ca/download)
 - [Volta XR](https://www.volta-xr.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Live-performance focused, audio reactive visuals 
 - [vvvv](https://visualprogramming.net/)
 
 ### Video_TestPatternPixelMapGenerator
-- [Artio ](https://github.com/theexperiential/Artio)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
+- [Artio](https://github.com/theexperiential/Artio)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) [![GitHub](https://img.shields.io/badge/GitHub-%40The_Experiential_Co.-%232b2a28?logo=github)](https://github.com/theexperiential)
 - [Pixel Mapulator](https://blinkingthings.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Blinking_Things-%232b2a28?logo=github)](https://github.com/blinkingthings)
 - [pixl Grid Multi](https://videowalrus.com/pixl-grid/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Video Walrus
 - [Test Pattern Generator](https://vioso.com/testpattern-generator/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by VIOSO
@@ -175,6 +180,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Open EXR Test Images](https://openexr.com/en/latest/test_images/index.html)
 
 ### Video_UtilityApps
+- [ControlBuddy](https://controlbuddy.com/#download/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Drastic’s 4K Scope SDI Video Scope](https://www.drastic.tv/productsmenu-56/test-and-measurement/4kscope)
 - [OBS](https://obsproject.com/)
 - [Livegrade Pro](https://pomfort.com/livegradepro/)
@@ -182,6 +188,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Nobe Omniscope](https://timeinpixels.com/nobe-omniscope/)
 - [Scopebox](https://hedge.video/scopebox)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)
 - [Sienna-NDI Tools](https://www.sienna-tv.com/ndi/)
+- [Telestream SPG9000](https://www.telestream.net/video/SPG9000.htm)  Video signal generator
 
 ### Video_VirtualProductionApps
 - [7th Sense](https://portal.7thsense.one/online-help/index.html?online_help_home_page.html)
@@ -203,7 +210,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 ## //AudioTools
 ### Audio_Integration
 - [Ableton Live](https://www.ableton.com)  Modular DAW, lots of integration and control I/O
-- [Ableton - Max for Live](https://www.ableton.com/en/live/max-for-live/ )  Modular connections briding Ableon Live <> MAX MSP
+- [Ableton - Max for Live](https://www.ableton.com/en/live/max-for-live/ )  Modular connections bridging Ableton Live <> MAX MSP
 - [Bitwig](https://www.bitwig.com)  DAW 
 - [Cycling 74’s Max](https://cycling74.com/)  Audio visual processing app
 - [Cycling 74’s RNBO](https://cycling74.com/products/rnbo)  Hardware audio patch designer app
@@ -241,6 +248,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 **Lighting** 
    - [Capture Visualization](https://www.capture.se/)
+   - [CueServer](https://interactive-online.com/products/cueserver)  Lighting control system
+   - [Heden](https://heden.se/)  Lighting equipment
+   - [Lightwright](https://www.lightwright.com/features)  Lighting paperwork and documentation
    - [KLSTR](https://www.klstr.tech/)  Smart lighting interconnectivity app for managing lighting installations / show networks
    - [Light Jams](https://www.lightjams.com/getIt.html/) 
    - [Lightkey](https://lightkeyapp.com/en)
@@ -253,6 +263,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Megapixel VR](https://megapixelvr.com/) Smart video hardware management for large scale LED wall installations / show networks. Also works as an issue reporter/logger
 
 ### System_SignalFlowDiagramApps
+- [ConnectCAD](https://www.vectorworks.net/en-US/connectcad)  by Vectorworks - Cable and system design
 - [Diagrams.net](https://app.diagrams.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Here to Record Gear](https://h2rgear.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Lucidchart](https://www.lucidchart.com/)
@@ -269,11 +280,13 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [BOME MIDI Translator Pro](https://www.bome.com/products/miditranslator)  Translates MIDI <> Keystroke, scripting and gamepad data
 
 ### Data_VisualCoding
-- [Fugio](https://www.bigfug.com/software/fugio/) 
+- [Fugio](https://www.bigfug.com/software/fugio/)
+- [Grafana](https://grafana.com/)  Data visualization and monitoring 
 - [Pure Data](https://puredata.info/)  Raw data visual coding, and low/high level access to protocols
 - [XOD.io](https://xod.io/) 
 
 ### Data_Shaders
+- [Bluevoid OpenGL Notes](http://www.bluevoid.com/opengl/sig00/advanced00/notes/node34.html)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Book of Shaders](https://thebookofshaders.com/)
 - [ISF (“Interactive Shader Format”)](https://editor.isf.video/shaders?q=&category=&sort=&page=0)  Compatible with [HeavyM](https://www.heavym.net/)  
    - [ISF Docs](https://docs.isf.video/) 
@@ -285,19 +298,18 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 
 ### AI_GenerativeImage
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Luma AI](https://lumalabs.ai/)
 - [Cuebric](https://cuebric.com/)
 - [GIMP](https://www.gimp.org/)
 - [Midjourney](https://www.midjourney.com/)
 - [OpenAI - DALL-E 3](https://openai.com/dall-e-3)
 - [RunwayML](https://runwayml.com/)
 - [Stability AI  SDXL Turbo](https://stability.ai/news/stability-ai-sdxl-turbo)
-<!-- ### AI-GenerativeVideo
-COMING SOON!!!!
-- []()
-- []() -->
- 
+
 ### AI_GPT
 - [Bing AI Search](https://www.bing.com/search?q=Bing%20AI&showconv=1&form=MA13FV)
+- [ChatGPT](https://chatgpt.com/)
+- [Cursor AI](https://cursor.com/)
 - [DeepMind - Gemini](https://deepmind.google/technologies/gemini/#introduction)
 - [OpenAI Blog - ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
 - [GPT Engineer](https://gptengineer.app/)  Beta, instant GPT web development prototyper
@@ -316,16 +328,19 @@ COMING SOON!!!!
 - [AutoHotkey](https://www.autohotkey.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/)  ![Static Badge](https://img.shields.io/badge/Mac_Only-OS?style=flat%20square&label=OS&labelColor=light%20gray&color=white&link=%20)  Now that I'm primarily PC-based... I miss this app on a daily basis! :cry:
 - [Powertoys by Microsoft](https://github.com/microsoft/PowerToys/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [PowerToys Docs](https://learn.microsoft.com/en-us/windows/powertoys/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [PowerToys Releases](https://github.com/microsoft/PowerToys/releases)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Octopus](https://www.octopusshowcontrol.com/)
 - [VICREO Hotkey Listener](https://www.vicreo-listener.com/)
   
 
-### Computer_ExcecutableCreation
+### Computer_ExecutableCreation
 - [Node-Red](https://nodered.org/)  (Cross Platform visual IDE)
 - [Xojo](https://www.xojo.com/)  (Cross Platform visual IDE)
 
 ### Computer_FileSharing
 Note: (We do not ensure the security of any file transfer service, nor endorse any services that are used for NDA'd content. We are not responsible for where your file transfers go.)
+- [Slack](https://slack.com/)  Team communication
 - [File.io](https://www.file.io/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24) 
 - [Wetransfer](https://wetransfer.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 
@@ -338,18 +353,31 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Teradici PCoIP](https://teradici.com/)
   
 ### Computer_Optimization
-- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Overclocking Management 
+- [BCUninstaller](https://www.bcuninstaller.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [DisplayCal](https://displaycal.net/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Display calibration
 - [HWINFO](https://www.hwinfo.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Hardware Monitor
+- [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40LibreHardwareMonitor-%232b2a28?logo=github)](https://github.com/LibreHardwareMonitor)
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Overclocking Management 
+- [XMeters](https://entropy6.com/xmeters/download/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  System resource meters
 - [ModBros](https://www.mod-bros.com)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  (*Good, but have had issues with it not wanting to eject external SSD/HDD’s) 
 
 ### Computer_VariousBitsOfSoftware
 **Studio Tools**
+   - [Foveate](https://foveate.com/)
+   - [Lentil](https://www.lentil.xyz/)
+   - [Mutiny](https://mutiny.store/)
+   - [Rosebrand Color App](https://www.rosebrand.com/fabric-stage-curtains-backdrops/colorapp.aspx)  Fabric color visualization
+   - [Superfly](https://superfly.tv/)
+   - [Timebeat](https://store.timebeat.app/)
    - [Timeline Theatrics](https://www.timelinetheatrics.com/)
 
 **Video Tools:**
    - [Assorted Video / Production Tools (Ironically hilarious website)](http://wookiesoft.com/Home.html)
+   - [cNVMP3](https://cnvmp3.com/v23)  MP3 converter
+   - [DCS Film](https://dcs.film/)
    - [Dragonframe Stop Motion](https://www.dragonframe.com/dragonframe-software/) 
    - [EXR Test Images](https://openexr.com/en/latest/test_images/index.html)
+   - [Photo Mechanic](https://home.camerabits.com/get-photomechanic/)  Photo ingestion and culling
    - [Refresh Rate Checker](https://www.testufo.com/blurbusterslaw)
 
 **Webcam Emulation:**
@@ -371,6 +399,10 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 **Multi Computer Management (Digital KVM):**
    - [ShareMouse](https://www.sharemouse.com/)
    - [Synergy](https://symless.com/synergy)
+
+**Shell / Terminal:**
+   - [Hyprland](https://hyprland.org/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Linux tiling Wayland compositor
+   - [Nushell](https://www.nushell.sh/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
    
 ### Computer_VersionControl
 - [Git](https://git-scm.com/)
@@ -400,6 +432,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 
 ### Network_ReverseEngineering
+- [Quake 2 Network Protocol](https://gamedev.net/forums/topic/297778-quake-2-network-protocol/2887695/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 - [Wireshark](https://www.wireshark.org/download.html)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 
 ### Network_VPN
@@ -408,6 +441,14 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [ZeroTier](https://zerotier.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 
 
+
+## //PreVisTools
+### PreVisTools
+- [Capture](https://www.capture.se/)  Lighting, video, laser, and effects previsualization
+- [Depence](https://www.syncronorm.com/products/depence2/)  Lighting and multimedia previz with real-time rendering
+- [Mapping Matter](https://www.mappingmatter.com/)
+- [Vectorworks Vision](https://www.vectorworks.net/en-US/vision)  Integrates with Vectorworks Spotlight for design-to-previz workflows
+- [wysiwyg](https://cast-soft.com/wysiwyg/)  All-in-one lighting design suite with CAD, visualization, and virtual show control
 
 ## //CodeTools
 ### Code_TextEditorApps
@@ -430,6 +471,8 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 ## //3DTools
 ### 3D_Apps
 - [Blender](https://www.blender.org/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [Cascadeur](https://cascadeur.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  AI-assisted 3D animation
+- [Chaos Arena](https://www.chaos.com/arena)  3D rendering
 - [Cinema 4D](https://www.maxon.net/en/cinema-4d)
 - [Grasshopper](https://www.grasshopper3d.com/)
 - [Maya](https://www.autodesk.com/products/maya/free-trial)
@@ -438,13 +481,17 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Wikipedia List of 3D Softwares](https://en.wikipedia.org/wiki/List_of_3D_modeling_software)
 
 ### 3D_Converters
+- [Agisoft Metashape](https://www.agisoft.com/downloads/installer/)  Photogrammetry
 - [CADMonster](https://cadmonster.org/knowledge/?convert=mb&to=obj)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
 
 ### 3D_UtilityApps
+- [GreyScaleGorilla](https://greyscalegorilla.com/)  Cinema 4D plugins and training
+- [Potree](https://github.com/potree/potree)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Potree-%232b2a28?logo=github)](https://github.com/potree)  Point cloud viewer
 - [Virtucam](https://virtucamera.com/)  Awesome real-time 3D phone camera tracking > Maya / Blender plugin
 
 ### 3D_UnrealEngineAddOns
-- [Material Vault](https://github.com/ScottRaffertyCG/MaterialVault)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Libre library of materials 
+- [Material Vault](https://github.com/ScottRaffertyCG/MaterialVault)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Libre library of materials
+- [MediaPipe to Mixamo](https://github.com/Nor-s/mediapipe-to-mixamo)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Nor-s-%232b2a28?logo=github)](https://github.com/Nor-s) 
 
 
 ## //DesignTools
@@ -459,6 +506,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 
 ## //TouchDesignerTools
+- [FFGL TouchEngine](https://github.com/medcelerate/FFGLTouchEngine)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40medcelerate-%232b2a28?logo=github)](https://github.com/medcelerate)
 - [OSC Query Server Component](https://derivative.ca/community-post/asset/osc-query-server-component/62663)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40jonglissimo_(Manuel_Mitasch)-%232b2a28?logo=github)](https://github.com/jonglissimo)
 - [PROMOTE](https://derivative.ca/community-post/asset/promote/68631) ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Unveil Studio
 - [RabbitControl](https://derivative.ca/community-post/asset/rabbitcontrol-remote-control-anything/63238) ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  by Markus Heckmann (@snaut on TD Forum)
@@ -487,6 +535,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ### Hardware_Video-Converters
 - [FSI Box IO LUT Box](https://www.flandersscientific.com/boxio/)
+- [Heckler Design Ethernet + PoE USB-C Adapter](https://hecklerdesign.com/products/ethernet-and-poe-power-usb-c-adapter-for-mx-wall-mount)  MX wall mount compatible
 - [Middle Things: Camera Box](https://store.middlethings.co/collections/middle-fiber/products/fiber-camera-box-6g)
 - [Middle Things: Fiber Unite 12G](https://store.middlethings.co/collections/middle-fiber/products/fiber-unite-5-6g)
 - [Theatrixx Video Converters](https://theatrixx.com/brand/theatrixx/#xvision-converter-series)
@@ -494,6 +543,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ### Hardware_Video-Players
 - [ArKaos VS1 4K](https://pro.arkaos.com/media-servers/vs1-4k-media-server)
+- [Streamverse M.2 Capture Solution](https://www.streamverse.shop/m-2-capture-solution-release/)
 - [Brightsign Players](https://www.brightsign.biz/brightsign-players/series-4/)
 - [Pro-Player Plus](https://www.proplayerplus.com/)
 - [MedeaWiz](https://www.medeawiz.com/)
@@ -507,7 +557,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - [Lynx Testor 3G](https://www.lynx-technik.com/products/testor/test-generators/ptg-1802-testor-lite-3g-sdi-test-pattern-generator/)
 - [Liliput SG-12G](https://lilliputdirect.com/Lilliput-SG-12G) 
 - [Murideo Calibration & Test Hardware](https://www.murideo.com/)
-- [Phabrixm SX Tag](https://www.phabrix.com/products/sxtag/)  - Very portable, and powerful.
+- [Phabrix SX Tag](https://www.phabrix.com/products/sxtag/)  - Very portable, and powerful.
 - [Tektronix](https://www.tek.com/en)  - The WFM2300 is a great scientific analyzer device. 
 
 ## Hardware_Robotics
@@ -535,6 +585,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
   
 ### Hardware_Tracking-MotionCapture
 - [Manus](https://www.manus-meta.com/)
+- [Optitrack Motive](https://optitrack.com/software/motive/)  Motion capture software
 - [Movella](https://www.movella.com/products/motion-capture)
 - [Noitom](https://www.noitom.com/perception-neuron-series)
 - [Optitrack](https://optitrack.com/)
@@ -551,8 +602,15 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ## Hardware_DIY
 ### Hardware_DIY
-- [Adafruit](https://www.adafruit.com/)
-- [Phidgets](https://www.phidgets.com/)
+- [Adafruit](https://www.adafruit.com/)  Electronics, components, and maker kits
+- [DFRobot](https://www.dfrobot.com/)  Robotics and maker components
+- [DigiKey](https://www.digikey.com/)  Electronics components and parts
+- [Mouser](https://www.mouser.com/)  Electronics components and semiconductors
+- [Phidgets](https://www.phidgets.com/)  Sensors and USB interfaces
+- [Pimoroni](https://shop.pimoroni.com/)  Raspberry Pi and maker accessories
+- [Pololu](https://www.pololu.com/)  Robotics, motors, and controllers
+- [Seeed Studio](https://www.seeedstudio.com/)  Open hardware and maker modules
+- [SparkFun](https://www.sparkfun.com/)  Electronics kits and components
 
 ## Hardware_Network
 ### Hardware_Network-Switches
@@ -569,7 +627,8 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ## Hardware_Computers
 ### Hardware_PC
-- [Logical Incriments](https://www.logicalincrements.com/)  PC components comparison grid, top of the line, full specs shootout
+- [LattePanda](https://www.lattepanda.com/lattepanda-v1)  Compact x86 single-board computer
+- [Logical Increments](https://www.logicalincrements.com/)  PC components comparison grid, top of the line, full specs shootout
 - [RTINGS](https://www.rtings.com/laptop)
 
 
@@ -602,6 +661,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - Elburz Sorkhabi - [Interactive & Immersive HQ](https://www.linkedin.com/in/elburz/)
 - Ethan Hedrick - [LinkedIn](https://www.linkedin.com/in/ethanhedrick/)
 - Ian Shelansky - [Personal Website](https://ianshelanskey.com/)
+- Psychodeli - [Psychodeli](https://psychodeli.com)  Website that makes psychedelic GLSLs
 - Jeff Shood - [IMDb](https://www.imdb.com/name/nm5218666/)
 - Jeremy Hart - [LinkedIn](https://www.linkedin.com/in/jeremy-hart-b1b03673/)
 - Jim Geduldick - [LinkedIn](https://www.linkedin.com/in/jimgeduldick/)
