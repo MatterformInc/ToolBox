@@ -502,7 +502,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 
 ### 3D_UnrealEngineAddOns
 - [Material Vault](https://github.com/ScottRaffertyCG/MaterialVault)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Libre library of materials
-- [MediaPipe to Mixamo](https://github.com/Nor-s/mediapipe-to-mixamo)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Nor%2Ds-%232b2a28?logo=github)](https://github.com/Nor-s) 
+- [MediaPipe to Mixamo](https://github.com/Nor-s/mediapipe-to-mixamo)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  [![GitHub](https://img.shields.io/badge/GitHub-%40Nor--s-%232b2a28?logo=github)](https://github.com/Nor-s) 
 
 
 ## //DesignTools
