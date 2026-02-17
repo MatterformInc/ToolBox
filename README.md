@@ -24,6 +24,9 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
    - [Test Pattern and Pixel Map Generator](#Video_TestPatternPixelMapGenerator)
    - [Video Utility Apps](#Video_UtilityApps)
    - [Virtual Production Apps](#Video_VirtualProductionApps)
+- [Generative Media](#GenerativeMedia)
+   - [Generative Shaders](#Generative_Media-Shaders)
+      - [GLSL](#Generative_Media-Shaders-GLSL)
 - [Audio Tools](#AudioTools)
    - [Audio Integration](#Audio_Integration)
    - [Audio_Spatial](#Audio_Spatial)
@@ -206,6 +209,24 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [UE Plugins / Kits](https://pro.sony/ue_US/products)
 - [Zero Density](https://www.zerodensity.tv/products/reality-engine/)
 
+## //GenerativeMedia
+
+### Generative_Media-Shaders
+- [Bluevoid OpenGL Notes](http://www.bluevoid.com/opengl/sig00/advanced00/notes/node34.html)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+- [Book of Shaders](https://thebookofshaders.com/)
+- [ISF ("Interactive Shader Format")](https://editor.isf.video/shaders?q=&category=&sort=&page=0)  Compatible with [HeavyM](https://www.heavym.net/)  
+   - [ISF Docs](https://docs.isf.video/) 
+- [KodeLife](https://hexler.net/kodelife)
+- [Processing](https://processing.org/) 
+- [WebGL Water](https://madebyevan.com/webgl-water/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)  Real-time water simulation with raytraced reflections, refractions, and caustics
+
+### Generative_Media-Shaders-GLSL
+- [Psychodeli](https://psychodeli.com)  Website that makes psychedelic GLSLs
+- [Shaderpark](https://shaderpark.com/)  Live-coding platform for 2D/3D shaders, compiles to GLSL
+- [Shadertoy](https://www.shadertoy.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
+
+<!-- Generative Graphics - coming soon -->
+<!-- Generative Audio - coming soon -->
 
 ## //AudioTools
 ### Audio_Integration
@@ -285,17 +306,7 @@ All tools are sorted alphabetically! Have fun! Recommendations can be made by ma
 - [Pure Data](https://puredata.info/)  Raw data visual coding, and low/high level access to protocols
 - [XOD.io](https://xod.io/) 
 
-### Data_Shaders
-- [Bluevoid OpenGL Notes](http://www.bluevoid.com/opengl/sig00/advanced00/notes/node34.html)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-- [Book of Shaders](https://thebookofshaders.com/)
-- [ISF (“Interactive Shader Format”)](https://editor.isf.video/shaders?q=&category=&sort=&page=0)  Compatible with [HeavyM](https://www.heavym.net/)  
-   - [ISF Docs](https://docs.isf.video/) 
-- [KodeLife](https://hexler.net/kodelife)
-- [Processing](https://processing.org/) 
-- [Shadertoy](https://www.shadertoy.com/)  ![Static Badge](https://img.shields.io/badge/Free-data?label=%24)
-
 ## //AITools
-
 ### AI_GenerativeImage
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Luma AI](https://lumalabs.ai/)
@@ -661,7 +672,6 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 - Elburz Sorkhabi - [Interactive & Immersive HQ](https://www.linkedin.com/in/elburz/)
 - Ethan Hedrick - [LinkedIn](https://www.linkedin.com/in/ethanhedrick/)
 - Ian Shelansky - [Personal Website](https://ianshelanskey.com/)
-- Psychodeli - [Psychodeli](https://psychodeli.com)  Website that makes psychedelic GLSLs
 - Jeff Shood - [IMDb](https://www.imdb.com/name/nm5218666/)
 - Jeremy Hart - [LinkedIn](https://www.linkedin.com/in/jeremy-hart-b1b03673/)
 - Jim Geduldick - [LinkedIn](https://www.linkedin.com/in/jimgeduldick/)
