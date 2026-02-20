@@ -585,6 +585,7 @@ Note: (We do not ensure the security of any file transfer service, nor endorse a
 ## Hardware_Tracking
 ### Hardware_Tracking-Camera
 - [Antilatency](https://antilatency.com/)
+- [Claypaky Buddylight](https://claypaky.it/en/buddylight)  Automated followspot with 3D tracking
 - [EZTrack](https://eztrack.studio/)  
 - [Mo-Sys](https://www.mo-sys.com/)
 - [Pixotope Camera Tracking](https://www.pixotope.com/products/pixotope-camera-tracking)
